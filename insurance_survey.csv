@@ -1,0 +1,1001 @@
+,id,first_name,last_name,address_line_1,address_line_2,address_city,address_state,address_zipcode,gender,marital_status,us_citizen,dob,survey_id,last_4_social,occupation,annual_income,net_worth,pilot_flag,scuba_flag,auto_racing_flag,recreational_climbing_flag,felony_flag,dui_flag,suspended_license_flag
+0,0,Thomas,Leatherman,5526 Thalman Drive,,Brentwood,TN,37027,0,Divorced,0,1975-09-15,S50c2e82ddd500,2753,Officer,147309,147309,0,0,1,0,1,0,0
+1,1,Duane,Hodge,11 Eclipse Court,,Alameda,CA,94501,1,Married,1,1959-05-18,S50c2e82ddd501,1618,Professional,60684,182052,1,1,0,1,1,1,0
+2,2,Jill,Ellis,88 Florence Street,#1,New Bedford,MA,02740,0,Separated,0,1954-07-12,S50c2e82ddd502,7433,Counsel,38081,114243,1,0,0,1,1,1,0
+3,3,Dortha,Bales,3219 Lakeshore Drive,,Nashville,TN,37138,1,Widowed,1,1991-06-13,S50c2e82ddd503,8959,Engineer,194172,0,0,0,1,0,0,0,1
+4,4,Jerry,Fife,1309 Clay Avenue,,Panama City,FL,32401,1,Separated,1,1970-01-18,S50c2e82ddd504,5255,Agent,175391,701564,0,0,1,1,1,1,0
+5,5,Margery,Coker,7096 Park Mesa Way,#57,San Diego,CA,92111,0,Widowed,0,1964-09-03,S50c2e82ddd505,7522,Boss,156366,781830,1,0,1,0,0,1,1
+6,6,Jill,Rogers,15267 Hesperian Boulevard,#32,San Leandro,CA,94578,1,Divorced,1,1963-01-07,S50c2e82ddd506,0190,Vice-president,37713,188565,1,0,1,1,0,1,1
+7,7,Flora,Jones,173 Spruce Street,#18,Manchester,CT,06040,1,Single,0,1955-03-04,S50c2e82ddd507,7784,Vice-president,97673,195346,0,1,0,1,1,0,0
+8,8,Ken,Barker,141 Lavigne Road,,Colchester,VT,05446,0,Married,0,1960-10-16,S50c2e82ddd508,7585,Director,195902,195902,0,1,1,1,1,0,0
+9,9,William,Sammons,445 South Potomac Circle,,Aurora,CO,80012,1,Separated,1,1988-08-27,S50c2e82ddd509,7908,Partner,170913,341826,1,0,0,1,1,0,1
+10,10,Thomas,Lancaster,34 Holyoke Road,,Manchester,CT,06040,1,Married,0,1986-08-21,S50c2e82ddd5010,9656,President,166114,664456,0,1,0,1,0,1,1
+11,11,Kayla,Hagerty,1828 East Parkshore Drive,#8,Fayetteville,AR,72703,0,Separated,0,1982-06-05,S50c2e82ddd5011,9965,Coordinator,74044,222132,0,1,1,1,0,0,0
+12,12,Annie,Larson,73 Twin Hills Drive,,Longmeadow,MA,01106,1,Separated,1,1958-04-21,S50c2e82ddd5012,2522,Partner,129700,259400,0,0,0,1,0,0,1
+13,13,James,Pierce,1865 North Higley Road,,Mesa,AZ,85205,0,Divorced,0,1951-09-25,S50c2e82ddd5013,6663,Superintendent,149618,0,0,0,0,0,0,0,0
+14,14,Daniel,Allen,8125 Glynnwood Drive,,Montgomery,AL,36117,1,Divorced,0,1962-04-09,S50c2e82ddd5014,5881,Advisory,188003,752012,1,1,1,0,0,1,0
+15,15,Steven,Sherman,2522 South College Drive,,Fayetteville,AR,72701,0,Widowed,0,1973-06-18,S50c2e82ddd5015,7776,Advisory,56253,0,0,1,0,1,0,0,0
+16,16,Darla,Leesman,903 Burton Avenue,,Louisville,KY,40208,0,Divorced,1,1991-01-14,S50c2e82ddd5016,8729,Architect,49967,49967,1,0,1,1,0,1,0
+17,17,Yvette,Horrocks,5 Irving Street,,Easthampton,MA,01027,1,Single,1,1992-02-08,S50c2e82ddd5017,7435,Director,45657,182628,0,1,1,0,0,0,1
+18,18,Robert,Wolfe,2685 California Street,#APT 305,Mountain View,CA,94040,0,Widowed,1,1957-07-10,S50c2e82ddd5018,3491,Agent,90797,272391,1,1,1,0,0,0,0
+19,19,Ryan,Irving,11501 Maple Way,,Louisville,KY,40229,0,Separated,1,1976-08-17,S50c2e82ddd5019,8478,Receptionist,175129,525387,0,0,0,0,1,0,0
+20,20,Melody,Vick,8700 Seaton Boulevard,,Montgomery,AL,36116,1,Single,1,1953-01-04,S50c2e82ddd5020,4832,Engineer,134598,134598,1,1,0,1,1,1,1
+21,21,Rachel,Masten,4770 Balboa Way,,Fremont,CA,94536,1,Separated,0,1949-03-23,S50c2e82ddd5021,6556,Engineer,131615,658075,0,1,0,1,0,1,0
+22,22,William,Washington,3100 Don Juan Court,,Montgomery,AL,36110,1,Separated,0,1942-08-21,S50c2e82ddd5022,8966,Engineer,90992,90992,1,1,0,1,1,1,1
+23,23,Nicholas,Bowey,88 Shute Street,#1,Everett,MA,02149,0,Married,0,2000-02-19,S50c2e82ddd5023,3225,Coordinator,50227,100454,0,1,1,1,0,0,0
+24,24,Edward,Sickafoose,46710 Crawford Street,#APT 32,Fremont,CA,94539,0,Separated,0,1967-09-25,S50c2e82ddd5024,5592,Consultant,141942,567768,0,1,0,0,0,1,0
+25,25,Joe,Sherron,6420 Via Baron,,Rancho Palos Verdes,CA,90275,1,Widowed,1,1957-12-14,S50c2e82ddd5025,8451,Surveyor,172769,518307,0,1,1,1,1,0,1
+26,26,Jessica,Bell,119 Antioch Pike,,Nashville,TN,37211,0,Widowed,1,1987-12-20,S50c2e82ddd5026,0898,Partner,161631,808155,0,0,0,1,1,0,1
+27,27,Timothy,Yoshida,11102 Little Rock Court,,Louisville,KY,40241,1,Single,0,1975-06-25,S50c2e82ddd5027,2284,Advisory,130836,654180,1,0,1,0,0,0,1
+28,28,Hubert,Reid,22709 Canyon Terrace Drive,#2,Castro Valley,CA,94552,1,Separated,1,1940-05-04,S50c2e82ddd5028,8093,Controller,110164,0,1,1,1,0,1,1,0
+29,29,Paul,Bloxham,4540 Phyllis Court,,Livermore,CA,94550,1,Separated,0,1979-02-11,S50c2e82ddd5029,6974,Controller,177229,354458,0,0,1,0,1,1,0
+30,30,Toni,Evers,1125 West 41st Street,,Savannah,GA,31415,0,Divorced,1,1957-05-12,S50c2e82ddd5030,2245,Professional,154226,154226,0,1,0,0,1,0,0
+31,31,John,Park,5038 North Cimarron Drive,,Beverly Hills,FL,34465,0,Single,0,1976-02-22,S50c2e82ddd5031,6226,Controller,82056,0,0,1,1,1,0,0,1
+32,32,Nellie,Patterson,164 Tensaw Road,,Montgomery,AL,36117,0,Separated,1,1962-12-24,S50c2e82ddd5032,0142,Analyst,41018,123054,1,1,1,0,0,1,0
+33,33,Joyce,West,940 Ironwood Drive,,Montgomery,AL,36117,0,Divorced,0,1946-05-26,S50c2e82ddd5033,5363,Economist,146903,293806,1,1,0,1,1,1,1
+34,34,Larry,Monk,1304 Northern Hills Road,,Norman,OK,73071,1,Single,1,1950-10-25,S50c2e82ddd5034,8557,Administrator,40423,202115,1,1,1,1,1,1,0
+35,35,Mona,Norton,905 C Street Northeast,,Washington,DC,20002,0,Widowed,1,1984-01-07,S50c2e82ddd5035,0166,Director,41123,82246,1,1,0,1,0,1,0
+36,36,David,Batchelder,5959 North 55th Avenue,,Glendale,AZ,85301,1,Separated,0,1950-04-12,S50c2e82ddd5036,0179,Director,195181,390362,0,0,1,0,1,1,1
+37,37,Gloria,Burgher,8757 Lamar Circle,,Arvada,CO,80003,1,Divorced,1,1969-10-01,S50c2e82ddd5037,2631,Counsel,53013,106026,1,0,0,0,0,0,0
+38,38,Natalia,Taylor,816 West 19th Avenue,,Anchorage,AK,99503,0,Married,0,1946-08-11,S50c2e82ddd5038,6465,Consultant,116285,232570,0,1,1,0,0,1,1
+39,39,Charles,Searby,600 West North Street,#D2,Fayetteville,AR,72701,1,Widowed,1,1953-07-21,S50c2e82ddd5039,7975,Executive,100059,500295,1,0,1,1,1,1,0
+40,40,Walter,Oconnell,1729 Frankford Street Southeast,,Washington,DC,20020,1,Single,0,1983-11-28,S50c2e82ddd5040,0120,Leader,136956,547824,0,0,0,0,1,1,0
+41,41,Nicole,Swift,1026 Orchard Avenue,,Louisville,KY,40213,0,Separated,1,1973-03-13,S50c2e82ddd5041,9135,Manager,120013,0,1,0,0,1,1,0,0
+42,42,Anne,Howard,919 Windsor Avenue,,Annapolis,MD,21403,1,Divorced,0,1956-02-07,S50c2e82ddd5042,6075,Engineer,158150,158150,0,1,0,0,1,0,0
+43,43,Richard,Russell,19 Euston Street,#1F,Brookline,MA,02446,1,Divorced,0,1969-06-03,S50c2e82ddd5043,5731,Supervisor,114741,114741,0,0,0,1,0,0,1
+44,44,Omer,Sargent,243 New State Road,A-D,Manchester,CT,06042,1,Separated,0,1988-09-14,S50c2e82ddd5044,9070,Executive,169414,508242,1,0,0,1,1,0,0
+45,45,Blanche,Reeder,314 Mesa Street,,Wheatland,CA,95692,0,Divorced,1,1990-06-19,S50c2e82ddd5045,7825,Executive,32874,0,1,0,1,1,0,0,1
+46,46,David,Olson,3604 Ridgehaven Drive,,Midwest City,OK,73110,0,Single,0,1958-12-23,S50c2e82ddd5046,2400,Analyst,92159,0,0,1,1,0,1,1,1
+47,47,Claire,Hooten,984 Greendale Avenue,,Needham,MA,02492,0,Separated,1,1940-01-15,S50c2e82ddd5047,1053,Director,99163,0,1,1,0,1,0,0,0
+48,48,Thomas,Ramsey,102 East Ash Road,,Plymouth,VT,05056,0,Married,1,1994-08-02,S50c2e82ddd5048,0853,Controller,60846,0,1,1,1,0,0,0,1
+49,49,Sally,Muniz,1513 Cathy Street,,Savannah,GA,31415,0,Single,0,1977-10-20,S50c2e82ddd5049,4792,Agent,180319,180319,0,1,0,0,0,1,0
+50,50,Cletus,Casey,10819 Bluegrass Parkway,,Jeffersontown,KY,40299,1,Married,0,1962-11-01,S50c2e82ddd5050,7897,Appraiser,34113,0,1,1,1,1,0,0,0
+51,51,Clara,Nelson,689 Stableway Road,,Pike Road,AL,36064,1,Separated,0,1987-12-06,S50c2e82ddd5051,4583,Estimator,23075,0,1,1,0,1,1,0,0
+52,52,Glenn,Hamilton,2 Thompson Road,,Manchester,CT,06040,1,Widowed,0,1943-10-23,S50c2e82ddd5052,1136,Partner,133097,399291,0,0,1,1,0,1,0
+53,53,Sarah,Hillier,301 East Court,,Savannah,GA,31404,0,Separated,0,1971-05-06,S50c2e82ddd5053,1209,Director,146630,146630,1,0,0,0,1,1,0
+54,54,Paul,Hartung,8417 Timothy Lane,,Oklahoma City,OK,73135,1,Married,0,1942-05-21,S50c2e82ddd5054,1430,Boss,71792,358960,1,1,1,0,0,1,0
+55,55,John,Lund,4712 Rock Creek Road,,Ardmore,OK,73401,1,Single,0,1945-11-25,S50c2e82ddd5055,0440,Representative,140965,140965,1,1,1,0,1,1,1
+56,56,Jeff,Moore,1413 G Street,#STE 000001,Anchorage,AK,99501,0,Separated,0,1970-04-19,S50c2e82ddd5056,1952,Consultant,175640,175640,1,0,0,0,0,0,1
+57,57,Diana,Ostermann,22062 Cameron Street,,Castro Valley,CA,94546,0,Divorced,1,1948-09-17,S50c2e82ddd5057,8714,Engineer,78579,157158,0,1,1,1,0,0,0
+58,58,Edna,Martin,7002 South Bryant Avenue,,Oklahoma City,OK,73149,1,Divorced,1,1960-05-27,S50c2e82ddd5058,8282,Administrator,77974,389870,0,0,1,1,1,1,0
+59,59,Hattie,Gibbs,1536 Rachaels Ridge,,Nashville,TN,37076,0,Married,1,1983-01-04,S50c2e82ddd5059,0799,Advisory,67868,339340,1,1,1,0,1,0,0
+60,60,Clarence,Rivera,1990 Poplar Ridge Road,,Pasadena,MD,21122,1,Married,1,1953-01-20,S50c2e82ddd5060,5020,Director,170003,340006,1,1,0,0,0,0,0
+61,61,Gregory,Lewis,416 Ridge Street Northwest,,Washington,DC,20001,1,Married,0,1973-08-23,S50c2e82ddd5061,2227,Officer,47788,238940,0,1,1,0,0,0,1
+62,62,Bill,Eddie,2505 Shadow Lane,,Nashville,TN,37216,0,Separated,0,1995-05-07,S50c2e82ddd5062,6715,Administrator,183562,734248,1,0,1,0,1,0,1
+63,63,Tish,Nieves,201 West Montgomery Cross Road,#170,Savannah,GA,31406,1,Single,0,1975-05-26,S50c2e82ddd5063,6324,Manager,79358,79358,0,0,1,1,1,0,0
+64,64,Arlene,Sandlan,5912 North 48th Avenue,,Glendale,AZ,85301,1,Divorced,1,1960-09-20,S50c2e82ddd5064,4316,Superintendent,108661,0,1,1,1,1,0,0,1
+65,65,Sheri,Rose,10638 Happyville Road,,Youngstown,FL,32466,0,Married,0,1992-05-03,S50c2e82ddd5065,4861,President,111743,0,1,0,1,1,0,1,0
+66,66,Robert,Ochoa,4107 East 68th Avenue,APT D,Anchorage,AK,99507,0,Divorced,0,1991-03-18,S50c2e82ddd5066,7240,Officer,145538,0,1,0,0,0,0,0,1
+67,67,David,Vidal,2835 Jed Road,,Escondido,CA,92027,1,Separated,0,1966-05-07,S50c2e82ddd5067,0539,Consultant,60885,0,1,1,1,0,0,1,0
+68,68,Shawn,Kalupa,2849 Leawood Drive,,Anchorage,AK,99502,0,Single,1,1989-04-09,S50c2e82ddd5068,0377,Broker,95216,380864,1,0,0,0,0,1,1
+69,69,Elijah,Campos,8432 West 78th Circle,,Arvada,CO,80005,1,Single,1,1943-05-17,S50c2e82ddd5069,4793,Partner,156217,781085,1,0,1,1,1,1,1
+70,70,Howard,Schneeman,86 Pine Street,#3,Cambridge,MA,02139,1,Widowed,0,1964-02-18,S50c2e82ddd5070,8429,Estimator,33480,100440,0,1,0,1,1,1,0
+71,71,Elizabeth,Vaughn,8446 Coors Loop,,Arvada,CO,80005,0,Widowed,1,1988-03-05,S50c2e82ddd5071,0938,Leader,169140,507420,0,0,0,1,1,1,0
+72,72,Maria,Nelson,3408 Bellisima Place,#204,Louisville,KY,40245,0,Divorced,0,1980-02-12,S50c2e82ddd5072,3577,Representative,63667,127334,0,0,1,0,1,1,1
+73,73,Jerome,Hefferman,26 Garfield Street,,Bristol,VT,05443,0,Single,1,1983-05-02,S50c2e82ddd5073,2685,Estimator,69952,279808,1,1,1,0,0,1,1
+74,74,Mitchell,Meadows,19237 North 69th Avenue,,Glendale,AZ,85308,0,Widowed,1,1956-07-07,S50c2e82ddd5074,0293,Operator,111022,333066,0,0,1,0,0,0,0
+75,75,Sandra,Jodha,713 Millard Fuller Drive,,Montgomery,AL,36110,1,Divorced,1,1989-02-10,S50c2e82ddd5075,7769,Vice-president,148116,592464,1,1,1,0,1,0,1
+76,76,Michael,Hunt,5630 Silverado Way,#STE A8,Anchorage,AK,99518,0,Married,0,1984-02-23,S50c2e82ddd5076,0099,Economist,195359,390718,1,0,1,0,0,0,1
+77,77,Joseph,Harding,8213 Northwest 65th Place,,Oklahoma City,OK,73132,1,Single,0,1953-02-13,S50c2e82ddd5077,5695,Engineer,47384,142152,1,1,0,0,1,0,0
+78,78,Jason,Summers,22424 Birchwood Loop Road,,Anchorage,AK,99567,1,Widowed,1,1965-12-13,S50c2e82ddd5078,5847,Operator,108459,108459,0,0,0,0,1,1,0
+79,79,James,Young,23128 Donalda Avenue,,Port Charlotte,FL,33954,1,Separated,0,1944-03-01,S50c2e82ddd5079,0404,Surveyor,197146,985730,0,1,1,0,0,0,1
+80,80,William,Parker,3325 Dix Street Northeast,,Washington,DC,20019,1,Single,1,1995-09-05,S50c2e82ddd5080,1964,Consultant,51476,51476,0,0,0,1,0,1,1
+81,81,Leta,Calcote,4024 Northwest 16th Street,,Oklahoma City,OK,73107,1,Widowed,1,1992-02-24,S50c2e82ddd5081,9868,Receptionist,104740,523700,0,0,1,0,0,1,1
+82,82,Charles,Hendricks,108 Springer Lane,,Yarmouth,MA,02673,1,Divorced,1,1991-01-02,S50c2e82ddd5082,5953,President,97367,194734,1,1,0,1,1,0,0
+83,83,Rick,Baird,115 Saint John Street,,Manchester,CT,06040,1,Widowed,1,1942-10-06,S50c2e82ddd5083,9847,Counsel,113814,0,1,1,1,0,1,0,0
+84,84,Lillian,Williams,14 Short Circle,,Conway,AR,72032,0,Widowed,0,1966-09-26,S50c2e82ddd5084,5453,Boss,148482,148482,1,1,1,1,0,1,1
+85,85,Jennifer,Brothers,5128 West Carol Avenue,,Glendale,AZ,85302,1,Widowed,1,1971-10-14,S50c2e82ddd5085,3708,Engineer,177077,708308,1,1,0,0,0,0,1
+86,86,Janet,Johnson,9302 West 58th Avenue,,Arvada,CO,80002,1,Separated,0,1946-08-14,S50c2e82ddd5086,3221,Manager,102902,0,0,1,1,1,1,0,0
+87,87,Eustolia,Tell,1828 East Parkshore Drive,#8,Fayetteville,AR,72703,1,Widowed,0,1970-04-24,S50c2e82ddd5087,1909,Boss,118811,0,0,0,0,1,0,1,1
+88,88,Carolyn,Chancellor,269 Hugh Thomas Drive,,Panama City,FL,32404,1,Divorced,1,1956-07-13,S50c2e82ddd5088,4010,Estimator,54141,0,1,1,0,0,1,1,0
+89,89,William,Grimes,435 East 5th Avenue,,Anchorage,AK,99501,1,Married,0,1959-03-27,S50c2e82ddd5089,8039,Administrator,42645,85290,0,0,1,0,0,1,1
+90,90,Barbara,Voss,8820 Vaughn Road,,Montgomery,AL,36117,0,Separated,1,1996-02-22,S50c2e82ddd5090,9378,Executive,24434,24434,1,0,0,0,0,0,1
+91,91,Charles,Hunt,1823 Dinger Road,,Annapolis,MD,21402,0,Single,0,1980-07-27,S50c2e82ddd5091,1834,Executive,72211,144422,1,0,1,0,1,1,1
+92,92,Michael,Jack,112 3rd Street Northeast,,Washington,DC,20002,1,Divorced,1,1947-11-10,S50c2e82ddd5092,0013,Professional,68726,68726,0,0,0,1,1,1,1
+93,93,Marie,Militello,5396 North Reese Avenue,,Fresno,CA,93722,0,Divorced,1,1998-09-15,S50c2e82ddd5093,3043,Economist,150707,602828,0,0,0,0,1,1,0
+94,94,Pamela,Maisey,16 Redbud Way,,Marlborough,MA,01752,1,Married,0,1978-06-16,S50c2e82ddd5094,9686,Vice-president,122374,122374,0,1,0,0,0,0,1
+95,95,David,Holcomb,15238 North 65th Avenue,,Glendale,AZ,85306,1,Widowed,1,1965-02-28,S50c2e82ddd5095,6228,Representative,152783,152783,1,1,0,1,0,1,1
+96,96,Richard,Vanorden,Biloxi Crossing,#3,Fayetteville,AR,72701,0,Married,1,1955-09-26,S50c2e82ddd5096,8008,Consultant,76066,0,0,1,0,1,1,1,1
+97,97,Angel,Hancock,4728 Rockland Trail,,Nashville,TN,37013,1,Divorced,1,1948-08-03,S50c2e82ddd5097,7995,Professional,128236,512944,1,0,1,0,0,1,0
+98,98,William,Cunningham,697 Parker Street,,Manchester,CT,06042,0,Single,1,1972-02-16,S50c2e82ddd5098,9970,Architect,90782,453910,0,0,0,0,0,1,1
+99,99,Ronald,Rivera,219 Shana Road,,Glen Burnie,MD,21060,1,Single,1,1982-12-20,S50c2e82ddd5099,8546,Surveyor,168222,0,1,1,0,0,0,1,0
+100,100,Gregorio,Jones,5144 Cattail Court,,Fayetteville,AR,72701,1,Separated,0,1974-01-05,S50c2e82ddd50100,8474,Coordinator,140308,0,0,0,0,1,0,0,1
+101,101,Oscar,Torres,136 Acacia Drive,,Blue Lake,CA,95525,0,Married,1,1947-11-11,S50c2e82ddd50101,3335,Superintendent,115420,115420,0,1,1,1,1,0,1
+102,102,Mary,Conner,1605 Remington Road,,Edmond,OK,73034,1,Divorced,0,1949-02-23,S50c2e82ddd50102,8200,Broker,55183,165549,0,1,0,0,0,1,1
+103,103,Jeffrey,Fruge,11 Adams Street,,Arlington,MA,02474,1,Single,0,1964-01-03,S50c2e82ddd50103,6142,Representative,50922,0,1,0,1,1,0,1,0
+104,104,Alison,Martinez,1635 Generals Highway,,Annapolis,MD,21401,1,Divorced,1,1977-02-04,S50c2e82ddd50104,3132,Professional,73979,73979,0,0,1,1,1,1,0
+105,105,Carol,Culpepper,2829 31st Street Northwest,,Washington,DC,20008,0,Married,1,1985-03-17,S50c2e82ddd50105,7487,Boss,63982,63982,0,0,0,0,0,0,1
+106,106,Melba,Ross,722 Oak Grove Circle,,Severna Park,MD,21146,0,Single,1,1992-04-06,S50c2e82ddd50106,9469,Surveyor,147546,147546,0,0,1,1,0,0,0
+107,107,Diane,Jones,4000 Beth Manor Drive,,Montgomery,AL,36109,1,Widowed,0,1987-08-20,S50c2e82ddd50107,2288,Advisory,73312,73312,0,1,0,0,0,1,1
+108,108,Amber,Quinones,5112 Southwest 124th Place,,Oklahoma City,OK,73173,0,Separated,0,1996-02-23,S50c2e82ddd50108,5341,Officer,131598,657990,0,0,0,0,0,0,0
+109,109,Joshua,Fitzgerald,195 Kennedy Road,,Manchester,CT,06042,1,Single,1,1993-09-23,S50c2e82ddd50109,3863,Appraiser,29832,0,1,0,0,0,0,0,0
+110,110,James,Webb,4 Elm Street,,Windsor,VT,05089,0,Separated,1,1941-02-18,S50c2e82ddd50110,8600,Superintendent,172119,344238,1,0,0,1,1,0,1
+111,111,Alison,Jones,7013 Collinswood Drive,,Nashville,TN,37221,1,Widowed,0,1999-02-16,S50c2e82ddd50111,5561,Vice-president,45764,183056,1,1,1,0,0,1,0
+112,112,Thomas,Harmon,4709 North Willow Avenue,,Bethany,OK,73008,1,Single,1,1957-05-08,S50c2e82ddd50112,4205,Advisory,28058,84174,1,0,1,1,0,1,0
+113,113,April,Masuda,3752 Roswell Place,,Montgomery,AL,36116,0,Married,1,1988-06-23,S50c2e82ddd50113,4413,Advisory,24697,24697,1,1,1,1,1,0,0
+114,114,Jeffrey,Sisson,4341 Ponds Street Northeast,,Washington,DC,20019,0,Married,1,1964-09-22,S50c2e82ddd50114,5945,Administrator,144706,578824,0,0,1,1,0,0,1
+115,115,Lidia,Olding,1245 Southwest 31st Street,,Oklahoma City,OK,73109,1,Widowed,1,1965-07-28,S50c2e82ddd50115,3668,Director,118091,118091,1,0,0,1,1,0,0
+116,116,Juanita,Mancini,88 Shute Street,#1,Everett,MA,02149,0,Married,1,1963-03-16,S50c2e82ddd50116,0783,Underwriter,52695,263475,1,0,0,1,0,0,1
+117,117,Leanne,Emmert,1046 Dudley Avenue,,Louisville,KY,40204,0,Married,0,1975-11-18,S50c2e82ddd50117,9075,Vice-president,38336,0,1,1,1,1,0,0,1
+118,118,Harold,Rempel,376 North Williams Drive,,Fayetteville,AR,72701,1,Divorced,0,1955-07-19,S50c2e82ddd50118,7436,Broker,68583,205749,0,1,0,0,1,1,1
+119,119,Shelby,Pajtas,45 Brackett Street,#611,Quincy,MA,02169,0,Widowed,1,1947-09-01,S50c2e82ddd50119,6457,Economist,85568,171136,0,1,0,0,1,0,1
+120,120,Armida,Ray,6241 Hudson Creek Drive,,Louisville,KY,40291,0,Separated,0,1944-04-13,S50c2e82ddd50120,7819,Vice-president,127281,636405,0,0,1,0,1,0,1
+121,121,Richard,Chowenhill,66 Bradford Road,,Braintree,MA,02184,1,Single,0,1990-04-04,S50c2e82ddd50121,5618,Economist,29248,58496,1,1,0,0,1,0,1
+122,122,Hal,Cook,733 East DeRenne Avenue,,Savannah,GA,31405,0,Separated,0,1947-01-09,S50c2e82ddd50122,8338,Economist,114478,457912,0,1,1,0,0,1,1
+123,123,Jon,Bailey,2147 Millhaven Drive,,Edgewater,MD,21037,1,Married,0,1990-07-25,S50c2e82ddd50123,8108,Vice-president,158155,790775,0,0,0,1,0,1,0
+124,124,Graig,Cope,12002 Vanherr Drive,,Louisville,KY,40299,1,Separated,0,2000-12-21,S50c2e82ddd50124,6143,Receptionist,49137,196548,1,1,1,0,1,0,1
+125,125,Audrey,Palmo,330 Michell Court,,Livermore,CA,94551,1,Widowed,0,1945-01-24,S50c2e82ddd50125,6463,Researcher,151189,151189,0,0,0,0,0,1,0
+126,126,Alan,Keenan,190 High Street,#213C,Medford,MA,02155,0,Separated,1,1940-06-16,S50c2e82ddd50126,6872,Surveyor,171351,856755,1,1,1,1,1,0,1
+127,127,Yolanda,Henry,140 West Cooper Avenue,,Aspen,CO,81611,1,Single,1,1972-12-08,S50c2e82ddd50127,4079,Manager,36747,183735,1,1,0,0,1,0,1
+128,128,Morris,Pettrey,6311 West Wagoner Road,,Glendale,AZ,85308,0,Divorced,1,1983-09-21,S50c2e82ddd50128,9881,Architect,171821,0,0,1,1,1,0,0,0
+129,129,Gayle,Janda,3904 Martagon Circle,,Anchorage,AK,99516,0,Divorced,1,1987-08-09,S50c2e82ddd50129,4877,Messenger,199695,199695,0,1,1,0,1,1,0
+130,130,James,Gallaher,80 South Main Street,#1,Randolph,MA,02368,0,Widowed,1,1941-05-04,S50c2e82ddd50130,4163,Consultant,21050,63150,1,0,0,1,0,1,1
+131,131,Ana,Miller,8121 Copper Creek Drive,,Lyndon,KY,40222,1,Separated,1,1944-05-14,S50c2e82ddd50131,4495,Specialist,195888,195888,0,1,0,1,1,1,1
+132,132,Lisa,Long,10881 Northforde Drive,,Cupertino,CA,95014,1,Married,0,1978-11-02,S50c2e82ddd50132,5093,Manager,142142,426426,1,0,0,0,1,1,0
+133,133,Steven,Goodrich,595 West 54th Street,#4,Savannah,GA,31405,0,Divorced,1,1946-10-23,S50c2e82ddd50133,4315,President,86936,347744,1,1,0,1,1,0,0
+134,134,Jorge,Owens,4922 West Cholla Street,,Glendale,AZ,85304,0,Single,0,1979-01-08,S50c2e82ddd50134,7600,Boss,82280,329120,0,0,0,1,0,0,1
+135,135,Tara,Trevino,1309 Columbia Road Northwest,,Washington,DC,20009,1,Separated,1,1971-08-11,S50c2e82ddd50135,4379,Specialist,136348,0,1,1,1,0,0,0,0
+136,136,Kellie,Wright,22219 Panama City Beach Parkway,,Panama City Beach,FL,32413,1,Married,1,1995-05-16,S50c2e82ddd50136,7228,Professional,77915,233745,1,1,1,0,0,0,1
+137,137,Charles,Vargas,1870 A Street,,Oroville,CA,95966,0,Single,1,1999-03-08,S50c2e82ddd50137,0890,Coordinator,120227,240454,0,1,1,0,0,1,1
+138,138,Shannon,Egan,2142 Colonel Way,,Odenton,MD,21113,0,Married,0,1966-12-07,S50c2e82ddd50138,7107,Administrator,133563,133563,1,0,0,0,1,0,1
+139,139,Clinton,Monday,10881 Northforde Drive,,Cupertino,CA,95014,0,Married,0,1989-02-21,S50c2e82ddd50139,1120,Supervisor,41277,123831,0,0,0,0,0,1,0
+140,140,Carmen,Hernandez,98 Lincoln Street,,Revere,MA,02151,1,Married,1,1982-06-15,S50c2e82ddd50140,2794,Superintendent,59506,297530,0,0,0,0,1,0,0
+141,141,Ron,Pomerleau,8349 West Stella Way,,Glendale,AZ,85305,1,Separated,0,1996-04-09,S50c2e82ddd50141,6787,Manager,34600,34600,0,1,0,0,1,0,1
+142,142,Kyle,Maier,3808 South Smiley Circle,,Montgomery,AL,36108,0,Widowed,1,1981-01-24,S50c2e82ddd50142,6096,Researcher,114049,570245,1,1,0,0,0,1,0
+143,143,Denis,Barlow,449 15th Street Northeast,,Washington,DC,20002,1,Single,0,1977-02-11,S50c2e82ddd50143,4678,Surveyor,134650,0,1,1,0,0,0,1,0
+144,144,Rafael,Ruic,4409 Star Jasmine Court,,Bakersfield,CA,93304,0,Divorced,0,1977-11-05,S50c2e82ddd50144,2173,Representative,105237,105237,1,0,1,1,0,0,1
+145,145,Leroy,Cooper,143 Canton Court,,Goodlettsville,TN,37072,1,Single,1,1946-03-22,S50c2e82ddd50145,2743,Receptionist,100234,200468,1,1,1,1,1,1,0
+146,146,William,Robinson,1643 North Jordan Lane,,Fayetteville,AR,72703,0,Separated,1,1972-11-18,S50c2e82ddd50146,2970,Researcher,88245,88245,1,0,0,0,0,1,1
+147,147,Robert,Hughes,2543 The Meadows,,Montgomery,AL,36116,0,Single,0,1955-10-10,S50c2e82ddd50147,6161,Broker,51461,0,1,0,0,0,0,0,1
+148,148,Melanie,Harrison,243 Kentucky Avenue,,Pasadena,MD,21122,1,Separated,1,1968-12-14,S50c2e82ddd50148,2303,Researcher,40625,81250,1,0,1,0,0,1,1
+149,149,Robert,Tarango,864 Main Street,,Worcester,MA,01610,0,Widowed,0,1982-02-09,S50c2e82ddd50149,4621,Receptionist,44623,178492,1,0,1,1,0,0,1
+150,150,Douglas,Wesner,31353 Santa Elena Way,,Union City,CA,94587,1,Separated,0,1983-07-11,S50c2e82ddd50150,5166,Professional,37949,189745,0,1,0,0,0,0,1
+151,151,Jeremiah,Mcmullen,5680 Eddins Road,,Montgomery,AL,36117,0,Divorced,1,1974-06-02,S50c2e82ddd50151,9140,Executive,141974,567896,1,0,0,1,1,1,1
+152,152,Norma,Kinnaman,716 Waller Road,,Brentwood,TN,37027,0,Married,1,1957-09-07,S50c2e82ddd50152,0849,Superintendent,66050,330250,1,0,0,0,1,0,0
+153,153,Frieda,Jones,9030 Pennington PIace,,Montgomery,AL,36117,0,Married,0,2000-05-24,S50c2e82ddd50153,2420,Agent,186495,932475,1,1,1,1,1,1,0
+154,154,Stacy,Merkl,2399 East 14th Street,#29,San Leandro,CA,94577,1,Widowed,1,2000-04-25,S50c2e82ddd50154,3619,Specialist,74550,74550,1,1,0,1,0,0,0
+155,155,Michelle,Williams,519 West 75th Avenue,#APT 000003,Anchorage,AK,99518,0,Separated,1,1984-10-17,S50c2e82ddd50155,7470,Researcher,59507,0,0,0,0,0,0,1,0
+156,156,Tony,Dickhoff,11113 North Miller Avenue,,Oklahoma City,OK,73120,0,Divorced,0,1977-07-02,S50c2e82ddd50156,1039,Economist,125720,251440,0,0,1,1,0,1,1
+157,157,Julie,Green,715 36.1 Road,,Palisade,CO,81526,1,Single,0,1966-04-17,S50c2e82ddd50157,2095,Representative,82616,413080,1,0,1,1,1,0,1
+158,158,Eva,Whetstone,5108 Bass Place Southeast,,Washington,DC,20019,1,Married,0,1981-11-08,S50c2e82ddd50158,3343,Consultant,199412,199412,1,0,1,1,1,1,0
+159,159,Ben,Records,4012 Heritage Place Drive,,Norman,OK,73072,0,Single,0,1963-12-11,S50c2e82ddd50159,5082,Supervisor,187936,751744,0,1,0,1,1,1,0
+160,160,Ryan,Race,3408 Taylorsville Road,#1,Louisville,KY,40205,0,Single,1,1941-08-14,S50c2e82ddd50160,1980,Vice-president,119198,238396,0,0,0,0,1,1,1
+161,161,Jami,Allen,11 Eclipse Court,,Alameda,CA,94501,0,Divorced,1,1950-04-01,S50c2e82ddd50161,0742,Manager,40281,40281,1,1,0,1,1,1,0
+162,162,Jane,Panek,3302 Woodland Park Drive,#APT 000001,Anchorage,AK,99517,0,Single,1,1944-02-24,S50c2e82ddd50162,9665,Counsel,193574,967870,0,0,1,0,1,0,1
+163,163,Katherine,Stokes,44 Downey Drive,,Manchester,CT,06040,1,Separated,1,1954-08-16,S50c2e82ddd50163,4645,Appraiser,169256,846280,1,0,0,1,1,1,1
+164,164,Jada,Prescott,616 Bush Hill Road,,Manchester,CT,06040,1,Separated,1,1954-01-05,S50c2e82ddd50164,4374,Engineer,160465,802325,1,1,0,0,1,1,1
+165,165,Jeffrey,Henderson,2032 4th Street Northwest,,Washington,DC,20001,1,Widowed,0,1964-09-14,S50c2e82ddd50165,2589,Officer,52535,157605,0,1,1,0,0,1,0
+166,166,James,Stanley,1211 Rock Creek Trce,,Nashville,TN,37189,1,Single,1,1963-02-26,S50c2e82ddd50166,5973,Engineer,46217,92434,1,0,1,0,0,0,1
+167,167,James,Conley,5804 West Abraham Lane,,Glendale,AZ,85308,1,Single,1,1962-12-23,S50c2e82ddd50167,0316,Operator,86212,172424,1,1,1,1,1,0,1
+168,168,Daniel,Joy,527 Birch Mountain Road,,Manchester,CT,06040,0,Separated,0,1982-02-10,S50c2e82ddd50168,3306,Messenger,90545,90545,1,1,1,0,0,0,1
+169,169,Paige,Dustman,2186 Knollwood Drive,,Boulder,CO,80302,0,Widowed,0,1972-07-26,S50c2e82ddd50169,3660,Analyst,93337,373348,0,1,1,0,0,1,0
+170,170,Robert,Solomon,7030 Cotton Blossom Lane,,Montgomery,AL,36117,0,Divorced,0,1999-04-12,S50c2e82ddd50170,5222,Counsel,24420,48840,1,0,0,0,0,0,0
+171,171,Viola,Shearer,37 East Broad Street,,Savannah,GA,31401,1,Divorced,1,1976-09-11,S50c2e82ddd50171,9940,Professional,78551,78551,1,0,0,0,0,0,0
+172,172,Gail,Martinez,37600 Sycamore Street,,Newark,CA,94560,1,Widowed,0,1988-06-16,S50c2e82ddd50172,1295,Architect,170140,850700,0,1,0,0,0,0,0
+173,173,Kristi,Wilkinson,7841 North 59th Lane,#G37,Glendale,AZ,85301,0,Widowed,0,1952-05-23,S50c2e82ddd50173,8003,Administrator,150004,300008,0,1,0,0,1,0,0
+174,174,Ann,Trahan,982 Stonington Drive,,Arnold,MD,21012,1,Married,0,1980-03-13,S50c2e82ddd50174,7408,Appraiser,28935,86805,1,0,1,1,1,0,0
+175,175,Dolores,Barron,420 Cove Villa Street,,Panama City Beach,FL,32407,1,Single,1,1957-06-06,S50c2e82ddd50175,0656,Leader,183596,367192,0,0,1,1,0,0,1
+176,176,Joel,Gallagher,780 South Wilmington Avenue,#107,Fayetteville,AR,72701,0,Married,1,1981-09-15,S50c2e82ddd50176,6520,Counsel,56569,282845,0,1,0,1,1,1,1
+177,177,Austin,Wiley,6221 West Wethersfield Road,,Glendale,AZ,85304,0,Separated,0,1989-09-23,S50c2e82ddd50177,0673,Boss,181917,181917,1,1,1,0,0,1,0
+178,178,Louise,Askew,21950 Arnold Center Road,,Carson,CA,90810,1,Single,1,1996-06-21,S50c2e82ddd50178,3371,Boss,115504,346512,0,1,1,0,1,0,1
+179,179,Arlene,Brown,7041 Coe Road,,Panama City,FL,32404,1,Single,1,1948-04-06,S50c2e82ddd50179,1638,Specialist,45798,137394,1,1,1,0,0,0,0
+180,180,Muriel,Sartoris,5624 Oakes Drive,,Brentwood,TN,37027,0,Divorced,0,1943-08-06,S50c2e82ddd50180,9803,Agent,185275,741100,1,1,1,0,0,0,0
+181,181,David,Lurry,3031 Montgomery Street,,Savannah,GA,31405,1,Widowed,1,1973-05-23,S50c2e82ddd50181,1503,Director,142435,0,0,0,0,0,1,1,0
+182,182,Kristin,Goshay,9306 Taylorsville Road,,Louisville,KY,40299,0,Widowed,0,1986-02-10,S50c2e82ddd50182,9960,Representative,191881,383762,1,1,1,0,0,1,1
+183,183,Megan,Davidson,17722 North 79th Avenue,#1135,Glendale,AZ,85308,1,Married,0,1996-07-23,S50c2e82ddd50183,8051,Economist,70940,0,1,1,1,1,0,0,1
+184,184,Tracy,Brown,147 Willow Ridge Lane,,Indian Springs Village,AL,35124,1,Single,0,1976-07-08,S50c2e82ddd50184,5529,Superintendent,177158,708632,0,1,0,0,1,1,0
+185,185,Michell,Lee,1939 Greenwood Street,,Savannah,GA,31404,1,Separated,0,1948-12-14,S50c2e82ddd50185,1079,Counsel,138604,0,0,1,0,0,1,0,0
+186,186,Mary,Holly,4936 Sequoia Avenue,,Dublin,CA,94568,1,Separated,1,1949-05-13,S50c2e82ddd50186,2671,Specialist,175128,525384,0,0,0,1,0,1,0
+187,187,Joy,King,106 Parker Parkway,,Mexico Beach,FL,32456,1,Married,0,1988-10-02,S50c2e82ddd50187,7037,Agent,127751,0,0,0,0,0,1,1,1
+188,188,John,Bachman,8 Village Circle,,Randolph,VT,05060,1,Separated,0,1946-12-16,S50c2e82ddd50188,6999,Receptionist,109395,546975,1,1,0,0,0,0,0
+189,189,Josephine,Jackson,521 East 4th Street,,Panama City,FL,32401,0,Single,1,1986-09-02,S50c2e82ddd50189,8339,Executive,50920,203680,0,1,1,0,1,1,1
+190,190,Nancy,Goza,7645 Marshall Street,,Arvada,CO,80003,0,Single,1,1991-08-03,S50c2e82ddd50190,7523,Appraiser,40733,0,1,1,0,0,1,1,0
+191,191,Rochelle,Flippen,13213 Spanish Moss Road,,Savannah,GA,31419,0,Divorced,0,1986-10-24,S50c2e82ddd50191,0047,Vice-president,37075,37075,0,1,0,1,1,0,1
+192,192,Edward,Terrill,3701 Lake Towne Drive,,Nashville,TN,37013,0,Single,0,1997-04-18,S50c2e82ddd50192,2862,Controller,130724,261448,0,0,0,1,0,1,1
+193,193,Susan,Keener,1054 Overton Lea Road,,Nashville,TN,37220,0,Single,1,1978-03-05,S50c2e82ddd50193,7832,Analyst,156700,313400,0,1,0,1,0,0,1
+194,194,Elizabeth,Cobb,8700 Seaton Boulevard,,Montgomery,AL,36116,0,Divorced,0,1947-01-21,S50c2e82ddd50194,9485,Partner,49788,199152,0,1,1,0,1,1,0
+195,195,Fred,Frazier,5385 Iris Street,,Arvada,CO,80002,1,Married,0,1992-08-11,S50c2e82ddd50195,0964,Messenger,196088,588264,1,1,0,1,0,0,1
+196,196,Michael,Kelly,517 Copperfield Way,,Brentwood,TN,37027,0,Separated,1,1961-10-19,S50c2e82ddd50196,8499,Partner,30093,120372,1,0,0,1,1,0,1
+197,197,Preston,Nickels,1010 Hillcrest Drive,,Fort Collins,CO,80521,1,Married,1,1940-09-17,S50c2e82ddd50197,9965,Partner,143532,430596,1,1,1,1,0,0,0
+198,198,Margret,Rodriquez,6408 Fern Crest Road,,Louisville,KY,40291,0,Divorced,1,1990-07-08,S50c2e82ddd50198,9951,Specialist,102505,512525,0,0,1,1,0,0,1
+199,199,Ronald,Wickman,1822 North Grand Avenue,,Pueblo,CO,81003,1,Single,0,1955-01-04,S50c2e82ddd50199,6013,Receptionist,184847,739388,1,1,1,0,1,1,0
+200,200,Charles,Luckow,13501 Vasili Drive,,Anchorage,AK,99577,0,Separated,1,1985-10-19,S50c2e82ddd50200,5386,Manager,199238,996190,0,0,0,0,0,0,1
+201,201,Paul,Tirado,4604 West 19th Court,,Panama City,FL,32405,0,Separated,1,1948-01-27,S50c2e82ddd50201,1284,Underwriter,50745,202980,0,1,1,0,1,0,1
+202,202,Doris,Kovach,649 South 41st Street,,Louisville,KY,40211,0,Married,1,1980-12-24,S50c2e82ddd50202,9308,Supervisor,158978,317956,1,1,1,0,0,1,1
+203,203,David,Buffington,60 Downey Drive,,Manchester,CT,06040,0,Divorced,1,1983-01-20,S50c2e82ddd50203,6209,Engineer,193232,0,1,0,0,1,0,0,1
+204,204,Christopher,Diaz,416 Waverly Avenue,,Baltimore,MD,21225,1,Single,0,1974-08-22,S50c2e82ddd50204,1653,Appraiser,47413,142239,1,0,1,0,0,1,0
+205,205,Manuel,Vasquez,16205 Wind Crest Way,,Edmond,OK,73013,1,Widowed,0,1951-03-09,S50c2e82ddd50205,3848,Underwriter,190275,761100,1,0,1,1,0,0,1
+206,206,Gary,Bridge,324 Tulip Oak Court,,Linthicum Heights,MD,21090,0,Married,1,1985-07-13,S50c2e82ddd50206,6378,Leader,175220,525660,1,1,1,1,1,0,1
+207,207,Sean,Dash,2196 East Jonquil Road,,Fayetteville,AR,72703,1,Separated,0,1959-12-19,S50c2e82ddd50207,2381,Researcher,88272,88272,1,1,0,0,0,0,1
+208,208,Maria,Albers,402 Carlton Place,,Goodlettsville,TN,37072,0,Divorced,0,1974-01-08,S50c2e82ddd50208,0670,Professional,21815,0,1,0,1,1,1,1,1
+209,209,Michael,White,1349 Burkhart Avenue,,San Leandro,CA,94579,1,Single,0,1969-06-03,S50c2e82ddd50209,1316,Operator,126955,253910,1,0,0,1,0,1,1
+210,210,Millie,Atkins,7529 West 72nd Avenue,#4,Arvada,CO,80003,0,Divorced,0,1995-07-17,S50c2e82ddd50210,9043,Receptionist,78930,394650,0,1,1,0,1,0,0
+211,211,John,Pennell,2521 Naylor Road Southeast,,Washington,DC,20020,1,Divorced,1,1983-05-17,S50c2e82ddd50211,4667,Professional,107118,214236,0,0,0,1,0,0,1
+212,212,Tina,Wadley,46 Lilac Street,,Manchester,CT,06040,0,Widowed,1,1998-05-03,S50c2e82ddd50212,0803,Agent,178498,713992,1,1,0,1,1,0,0
+213,213,Randall,Nunn,1010 Hillcrest Drive,,Fort Collins,CO,80521,1,Divorced,1,1968-07-21,S50c2e82ddd50213,0465,Leader,194214,776856,0,0,0,0,1,0,1
+214,214,Jason,Dorn,10129 Spring Gate Drive,,Louisville,KY,40241,1,Widowed,0,1973-12-08,S50c2e82ddd50214,2539,President,149675,149675,0,0,0,1,1,0,0
+215,215,Raymond,Motta,112 Walnut Street,,Reading,MA,01867,0,Divorced,1,1965-04-25,S50c2e82ddd50215,4109,Counsel,159408,478224,0,0,1,1,1,1,1
+216,216,Raymond,Williams,231 South Kimbrel Avenue,,Panama City,FL,32404,0,Married,0,1990-02-13,S50c2e82ddd50216,7055,Underwriter,57860,0,0,0,0,1,1,0,0
+217,217,James,Ross,210 Lacross Lane,,Westmore,VT,05860,0,Married,0,1946-03-16,S50c2e82ddd50217,8405,Engineer,131932,0,0,0,1,1,0,0,1
+218,218,Dorothy,Mangrum,5707 Whispering Hills Boulevard,,Louisville,KY,40219,1,Divorced,1,1967-12-21,S50c2e82ddd50218,1101,Operator,138115,276230,0,0,1,0,0,0,0
+219,219,Garrett,Arellano,3147 West Old Farmington Road,,Fayetteville,AR,72704,1,Single,1,1992-08-06,S50c2e82ddd50219,2190,Broker,197066,394132,1,1,0,0,0,0,1
+220,220,Marjorie,Leonard,301 Argonaut Street,,Panama City Beach,FL,32413,0,Divorced,0,1940-04-05,S50c2e82ddd50220,2752,Controller,162232,162232,0,1,1,0,0,1,0
+221,221,Kristopher,Simonds,11401 Totem Road,,Anchorage,AK,99516,1,Separated,1,1968-12-13,S50c2e82ddd50221,0134,Boss,128939,386817,0,1,0,1,1,1,0
+222,222,Elena,Maggard,38252 Farwell Drive,,Fremont,CA,94536,0,Separated,0,1963-08-16,S50c2e82ddd50222,4982,Estimator,41393,206965,0,0,0,0,1,1,1
+223,223,Joan,Stiles,15082 North 59th Avenue,#111,Glendale,AZ,85306,0,Divorced,0,1981-04-16,S50c2e82ddd50223,2672,Architect,161673,808365,0,0,1,0,1,1,1
+224,224,Freddie,Carney,63 Wild Thistle Lane,,Savannah,GA,31406,1,Divorced,0,1944-01-21,S50c2e82ddd50224,3809,Counsel,195871,391742,1,1,1,1,0,0,1
+225,225,Walter,Gliem,6713 Holt Road,,Nashville,TN,37211,0,Married,0,1995-12-14,S50c2e82ddd50225,0806,Counsel,46300,185200,0,1,0,1,1,0,0
+226,226,Linda,Gomez,152 Teddy Drive,,Union City,CA,94587,0,Divorced,0,1978-08-25,S50c2e82ddd50226,7570,Engineer,30571,0,0,1,1,0,0,0,1
+227,227,Shirley,Rosales,3616 Echo Lane,,Nashville,TN,37218,0,Separated,0,1969-10-15,S50c2e82ddd50227,6440,Coordinator,35729,178645,1,1,0,1,1,0,0
+228,228,Harold,Wolfe,269 Hugh Thomas Drive,,Panama City,FL,32404,1,Divorced,0,1971-01-20,S50c2e82ddd50228,5223,Operator,117995,0,0,0,0,1,1,0,1
+229,229,John,King,513 Habberton Road,,Fayetteville,AR,72703,0,Single,1,1959-01-20,S50c2e82ddd50229,5089,Superintendent,83901,419505,1,1,0,0,0,1,1
+230,230,Shane,Brummett,3413 Pheasant Run Road,,Norman,OK,73072,1,Widowed,1,1961-03-02,S50c2e82ddd50230,8893,Appraiser,155203,0,1,1,0,1,1,0,1
+231,231,Betty,Poore,1649 Timberridge Court,,Fayetteville,AR,72704,0,Married,1,1967-05-18,S50c2e82ddd50231,8002,Broker,108332,433328,0,1,1,1,1,0,1
+232,232,Lillian,Morton,80 North East Street,#4,Holyoke,MA,01040,1,Separated,1,1965-10-21,S50c2e82ddd50232,3875,Agent,36188,0,0,1,1,0,1,0,1
+233,233,Mary,Price,505 Tarpon Street,,Panama City Beach,FL,32413,0,Separated,0,1964-12-19,S50c2e82ddd50233,8764,Manager,42096,210480,1,1,0,1,1,1,0
+234,234,Fred,Robinson,1734 Tamarack Street Northwest,,Washington,DC,20012,0,Divorced,1,1953-06-24,S50c2e82ddd50234,4424,Broker,34520,34520,1,1,1,0,1,0,1
+235,235,Albert,Berrios,12283 Thomas Lane,,Yucaipa,CA,92399,0,Single,0,1972-10-14,S50c2e82ddd50235,9121,Officer,132178,0,0,1,0,0,1,1,1
+236,236,Vivian,Payne,308 School Avenue,,Panama City,FL,32401,0,Widowed,0,1982-04-26,S50c2e82ddd50236,1534,Professional,30007,30007,1,1,1,0,0,0,1
+237,237,Margaret,Stewart,2262 Hall Place Northwest,,Washington,DC,20007,0,Married,0,1963-08-22,S50c2e82ddd50237,6195,Executive,83843,83843,1,1,0,0,1,0,1
+238,238,Jesse,Mann,1309 Graniteville Road,,Williamstown,VT,05679,1,Single,1,1997-12-23,S50c2e82ddd50238,9804,Operator,184592,553776,0,0,0,1,0,1,0
+239,239,Mary,White,5331 Rexford Court,,Montgomery,AL,36116,0,Divorced,0,1960-03-07,S50c2e82ddd50239,3857,Messenger,55260,165780,0,1,1,0,0,1,0
+240,240,Tracey,Eslinger,6518 Dolphin Court,,Glen Burnie,MD,21061,1,Single,1,1949-12-21,S50c2e82ddd50240,4518,Underwriter,80870,0,0,0,1,0,1,0,0
+241,241,Judy,Abrams,5024 West Christy Drive,,Glendale,AZ,85304,0,Single,0,1983-03-06,S50c2e82ddd50241,1152,Underwriter,188962,377924,0,0,1,1,1,0,0
+242,242,Anthony,Lamphere,8398 West Denton Lane,,Glendale,AZ,85305,1,Married,1,1970-06-16,S50c2e82ddd50242,9350,Underwriter,176665,353330,0,1,0,0,1,1,1
+243,243,Consuelo,Wilson,137 East 53rd Avenue,,Anchorage,AK,99518,0,Single,1,1989-12-06,S50c2e82ddd50243,2774,Consultant,50429,151287,1,0,1,1,0,0,0
+244,244,Joann,Friedman,227 Danyacrest Drive,,Nashville,TN,37214,1,Single,0,1961-01-22,S50c2e82ddd50244,3800,Vice-president,52260,52260,1,1,0,1,1,0,0
+245,245,Diana,Horio,7095 Gladiola Street,,Arvada,CO,80004,1,Single,0,1967-03-02,S50c2e82ddd50245,9718,Officer,70171,70171,0,1,0,0,0,0,1
+246,246,Barbara,Everett,65 Arcellia Drive,,Manchester,CT,06042,1,Married,1,1976-05-17,S50c2e82ddd50246,6930,Economist,171534,514602,1,1,1,1,1,0,0
+247,247,Irmgard,Berry,6118 North 60th Avenue,D,Glendale,AZ,85301,1,Widowed,1,1989-03-13,S50c2e82ddd50247,8148,Coordinator,180013,540039,0,1,1,0,1,1,1
+248,248,Robert,Bouffard,1358 Scenic Avenue,R B,Berkeley,CA,94708,1,Separated,1,1970-03-26,S50c2e82ddd50248,3852,Leader,142197,568788,1,0,0,0,0,1,1
+249,249,Alberta,Tom,6601 North 62nd Avenue,,Glendale,AZ,85301,0,Separated,1,1968-10-04,S50c2e82ddd50249,8147,Director,158557,158557,0,1,1,1,1,0,0
+250,250,Melinda,Corley,2732 North Ashbrook Drive,,Fayetteville,AR,72703,1,Separated,0,1975-11-26,S50c2e82ddd50250,1771,Partner,164165,0,1,1,0,0,1,1,0
+251,251,Scott,Moses,1230 Stafford Drive,,Montgomery,AL,36117,1,Single,0,1966-01-10,S50c2e82ddd50251,2920,Advisory,34638,173190,0,0,0,1,1,1,0
+252,252,George,Tate,3337 Woodpark Court,,Montgomery,AL,36116,0,Single,0,1972-10-10,S50c2e82ddd50252,0322,Partner,184236,552708,0,1,1,1,0,1,1
+253,253,Edward,Eaton,2534 Willena Avenue,,Montgomery,AL,36107,1,Widowed,1,1976-09-07,S50c2e82ddd50253,0816,Analyst,36400,72800,0,0,1,0,0,0,0
+254,254,Stella,Parkhurst,1528 Spruce Street,M,Berkeley,CA,94709,0,Married,1,1947-05-16,S50c2e82ddd50254,3698,Analyst,76443,0,1,0,0,1,1,0,0
+255,255,Elizabeth,Wheeler,5927 Camrose Drive,,Anchorage,AK,99504,1,Widowed,0,1950-03-26,S50c2e82ddd50255,4734,Consultant,108269,216538,0,1,0,1,0,0,0
+256,256,Krista,Butts,130 Carolina Cherry Circle,,Pooler,GA,31322,1,Divorced,0,1994-02-09,S50c2e82ddd50256,7224,Consultant,84690,169380,1,1,1,1,1,1,1
+257,257,Katharine,Mitchell,10763 West 54th Place,,Arvada,CO,80002,1,Married,0,1954-10-11,S50c2e82ddd50257,4174,Messenger,100250,401000,1,1,0,1,1,1,1
+258,258,Scott,Blackwell,119 Captain Chase Road,,Dennis,MA,02639,1,Separated,0,1998-01-26,S50c2e82ddd50258,1107,Receptionist,174574,174574,0,0,1,1,1,0,0
+259,259,George,Dyer,3553 Brandywine Street Northwest,,Washington,DC,20008,1,Separated,0,1957-02-16,S50c2e82ddd50259,1953,Messenger,165269,661076,0,1,1,0,1,1,0
+260,260,Levi,Josephson,1536 Rachaels Ridge,,Nashville,TN,37076,0,Divorced,1,1957-11-07,S50c2e82ddd50260,8765,Receptionist,164819,0,0,1,1,1,1,1,1
+261,261,Elizabeth,Davis,1216 West Hill Street,M,Louisville,KY,40210,0,Single,0,1956-05-27,S50c2e82ddd50261,7097,Surveyor,93213,279639,1,1,0,1,0,0,1
+262,262,Paulette,Hark,327 Idlewylde Drive,#3,Louisville,KY,40206,1,Divorced,0,1961-09-10,S50c2e82ddd50262,4355,Operator,138547,138547,1,1,0,0,1,0,1
+263,263,William,Lauze,115 Wells Street,,Manchester,CT,06040,1,Divorced,1,1974-02-09,S50c2e82ddd50263,5724,Operator,185056,370112,0,1,0,1,1,0,0
+264,264,Gary,Cardinal,81 Seaton Place Northwest,,Washington,DC,20001,1,Married,1,1944-12-23,S50c2e82ddd50264,8004,Representative,129028,258056,0,1,0,1,0,1,0
+265,265,Luana,Wright,195 Nursery Street,#D10,Springfield,MA,01104,1,Separated,1,1998-12-19,S50c2e82ddd50265,2502,Estimator,101110,101110,0,0,0,0,0,1,0
+266,266,Janet,Schwartz,108 East 11th Avenue,#APT 000002,Anchorage,AK,99501,0,Separated,1,1985-09-07,S50c2e82ddd50266,2782,Surveyor,145318,0,1,0,1,1,0,0,0
+267,267,Horace,Ward,22 South Duncan Avenue,#420,Fayetteville,AR,72701,0,Married,0,1984-10-11,S50c2e82ddd50267,0510,Advisory,69437,69437,0,1,1,0,1,1,1
+268,268,Kenny,Serra,6630 MacArthur Boulevard,#19,Oakland,CA,94605,1,Married,0,1973-01-14,S50c2e82ddd50268,1471,Counsel,146108,0,0,1,0,0,0,0,0
+269,269,Betty,Carter,1552 Gibson Street,,Montgomery,AL,36110,0,Separated,1,1971-01-13,S50c2e82ddd50269,8678,Consultant,29845,149225,0,1,0,0,0,1,1
+270,270,Vincent,Delfin,4981 Shirley Way,,Livermore,CA,94550,1,Married,1,1965-03-23,S50c2e82ddd50270,6243,Executive,148033,0,0,1,0,1,1,0,1
+271,271,Juanita,Perkins,3008 Russell Street,#R 1,Berkeley,CA,94705,1,Widowed,0,1946-01-01,S50c2e82ddd50271,1890,Administrator,113288,113288,0,1,0,0,0,1,1
+272,272,Benjamin,Merkl,90 Via Verde,,San Lorenzo,CA,94580,0,Single,1,1974-09-21,S50c2e82ddd50272,5964,Director,169167,0,1,0,1,0,0,0,0
+273,273,Pamela,Archuleta,2052 East 42nd Street,,Savannah,GA,31404,0,Married,0,1957-03-02,S50c2e82ddd50273,0989,Counsel,49454,197816,1,0,1,1,1,0,1
+274,274,Mathew,Saumier,5144 Cattail Court,,Fayetteville,AR,72701,0,Separated,0,1945-03-24,S50c2e82ddd50274,6112,Engineer,75588,75588,1,1,0,0,1,1,1
+275,275,John,Huebner,992 Sherwood Forest Road,,Annapolis,MD,21401,0,Separated,0,1996-01-21,S50c2e82ddd50275,7762,Appraiser,68038,340190,1,1,0,0,1,0,0
+276,276,Sylvia,Ocampo,4308 Princess Lane,,Nashville,TN,37218,0,Separated,0,1980-02-05,S50c2e82ddd50276,8793,Vice-president,34981,69962,0,1,1,1,0,0,1
+277,277,Bruce,Brown,104 Bennington Street,,Lawrence,MA,01841,1,Divorced,0,1957-12-05,S50c2e82ddd50277,6698,Economist,171551,857755,0,1,0,1,1,0,1
+278,278,Martha,Riley,18713 Shilstone Way,,Edmond,OK,73012,0,Separated,0,1994-01-10,S50c2e82ddd50278,3790,Executive,135870,135870,0,1,0,0,0,1,0
+279,279,Ray,Scott,1250 Pram Place,,Annapolis,MD,21403,0,Single,0,1999-05-26,S50c2e82ddd50279,2787,Executive,97422,0,1,1,1,0,1,0,0
+280,280,Gerald,Gabbert,3109 Thistle Down Lane,,Nashville,TN,37013,0,Single,1,1945-08-13,S50c2e82ddd50280,3824,Architect,190683,381366,0,1,1,1,0,1,0
+281,281,Lindsay,Hise,1267 Martin Street,#203,Nashville,TN,37203,0,Separated,0,1996-10-08,S50c2e82ddd50281,0520,Underwriter,183654,550962,1,0,0,0,1,0,1
+282,282,Joyce,Ventura,88 Florence Street,#1,New Bedford,MA,02740,0,Widowed,0,1961-02-11,S50c2e82ddd50282,9040,Leader,199765,399530,0,1,1,1,1,0,0
+283,283,Gina,Rimmer,6431 Shattuck Avenue,B,Oakland,CA,94609,0,Married,0,1956-11-16,S50c2e82ddd50283,1463,Controller,85302,85302,0,1,1,0,1,1,1
+284,284,Guillermo,Smith,345 Buckland Hills Drive,#7,Manchester,CT,06042,0,Widowed,0,2000-03-28,S50c2e82ddd50284,2865,Vice-president,161866,809330,0,1,1,1,0,0,1
+285,285,Gabriella,French,1713 Arrow Cove Lane,,Annapolis,MD,21401,1,Widowed,0,1959-04-23,S50c2e82ddd50285,6188,President,196921,0,0,0,1,0,0,0,1
+286,286,Tina,Glenn,2347 Glen Eagle Drive,,Northfield,KY,40222,0,Widowed,1,1954-12-10,S50c2e82ddd50286,6380,Administrator,164947,0,0,1,1,1,0,1,1
+287,287,Lawrence,Capito,1850 Berryhill Place,,Montgomery,AL,36117,0,Separated,1,1998-02-09,S50c2e82ddd50287,8165,Manager,68476,0,1,1,1,1,1,0,0
+288,288,Forrest,Lambe,2248 South Sutherland Drive,,Montgomery,AL,36116,0,Separated,1,1992-10-06,S50c2e82ddd50288,1225,Director,69857,279428,1,0,1,0,1,0,0
+289,289,Michael,Smith,1780 142nd Avenue,,San Leandro,CA,94578,0,Widowed,1,1949-05-01,S50c2e82ddd50289,6098,President,37353,186765,1,1,0,0,0,1,1
+290,290,William,Stell,2732 North Ashbrook Drive,,Fayetteville,AR,72703,1,Single,1,1971-12-03,S50c2e82ddd50290,6418,Messenger,98340,0,0,1,0,0,1,0,1
+291,291,Jacob,Brand,7018 Russell Court,,Arvada,CO,80007,1,Married,0,1941-11-14,S50c2e82ddd50291,6531,Researcher,59177,118354,0,0,0,0,0,0,1
+292,292,David,Sisk,203 East Gwinnett Street,,Savannah,GA,31401,0,Widowed,0,1971-02-21,S50c2e82ddd50292,7562,Messenger,130079,390237,1,0,0,1,1,1,0
+293,293,Bernard,Kelley,712 Parkside Place Northeast,,Washington,DC,20019,0,Single,0,1965-09-21,S50c2e82ddd50293,6009,Estimator,65732,0,0,1,1,0,1,1,1
+294,294,Patricia,Elliston,1711 Lore Road,#APT 000106,Anchorage,AK,99507,1,Separated,0,1948-07-21,S50c2e82ddd50294,1820,Receptionist,134392,268784,1,0,0,0,0,1,1
+295,295,Minnie,Barker,711 Tatem Street,,Savannah,GA,31405,0,Single,1,1966-06-23,S50c2e82ddd50295,6018,Estimator,141293,0,0,0,0,1,0,1,1
+296,296,Ruth,Peyton,5397 Wentworth Avenue,,Oakland,CA,94601,0,Divorced,0,1988-02-10,S50c2e82ddd50296,5219,Surveyor,29123,87369,0,0,1,1,1,0,0
+297,297,Thomas,Schaunaman,6823 Forsythe Drive,,Panama City,FL,32404,0,Separated,0,1952-08-14,S50c2e82ddd50297,8469,Engineer,98294,0,1,1,0,0,1,0,1
+298,298,Jerry,Lancaster,109 Peter's Quay,,Savannah,GA,31410,1,Married,0,1998-10-21,S50c2e82ddd50298,3792,Operator,188671,188671,0,1,1,0,0,0,1
+299,299,Tiffani,Brenner,312 Westhill Avenue,,Inverness,FL,34452,1,Widowed,1,1966-03-11,S50c2e82ddd50299,8727,Boss,173104,173104,0,1,1,1,0,1,1
+300,300,Rafael,Plamondon,663 Chesapeake Way,#1,Fayetteville,AR,72701,1,Widowed,0,1988-03-22,S50c2e82ddd50300,2141,Agent,155982,779910,1,1,0,1,0,0,1
+301,301,Laura,Cunningham,6016 Northwest 27th Street,,Oklahoma City,OK,73127,0,Single,0,1960-01-13,S50c2e82ddd50301,8195,Coordinator,92492,184984,1,1,1,1,1,0,1
+302,302,Jared,Edwards,304 Wilmington Island Road,A,Savannah,GA,31410,0,Divorced,1,1960-11-02,S50c2e82ddd50302,8348,Leader,111755,335265,0,0,0,1,1,0,0
+303,303,Matthew,Carter,25800 Industrial Boulevard,V,Hayward,CA,94545,0,Separated,0,1943-06-09,S50c2e82ddd50303,8084,Supervisor,134506,134506,0,1,1,1,1,1,1
+304,304,Patricia,Medina,218 Middle Street,,Brighton,VT,05846,1,Widowed,0,1982-06-26,S50c2e82ddd50304,2200,Controller,154055,770275,0,0,1,0,1,0,0
+305,305,Roseann,Speer,2538 East 40th Plaza,,Panama City,FL,32405,0,Single,0,1991-01-07,S50c2e82ddd50305,1803,Consultant,187783,375566,0,1,0,0,1,0,1
+306,306,Ronald,Rinehart,10700 South Pennsylvania Avenue,,Oklahoma City,OK,73170,0,Married,0,1991-12-10,S50c2e82ddd50306,7326,Executive,55754,0,0,0,1,0,0,1,1
+307,307,Linda,Outlaw,2654 Quiet Water Cove,,Annapolis,MD,21401,1,Divorced,1,1993-06-21,S50c2e82ddd50307,4327,Manager,36435,145740,0,0,1,1,0,0,1
+308,308,Ronald,Gomez,1032 Brayhill Road,,Edmond,OK,73003,1,Divorced,0,1947-01-02,S50c2e82ddd50308,3607,Executive,39268,0,0,0,1,1,0,0,0
+309,309,Kerry,Sachs,376 North Williams Drive,,Fayetteville,AR,72701,1,Married,0,1947-09-25,S50c2e82ddd50309,3621,Architect,32126,96378,1,1,0,1,1,0,1
+310,310,Jim,Russell,2100 North Leverett Avenue,#112J,Fayetteville,AR,72703,0,Married,1,1942-03-28,S50c2e82ddd50310,3135,Surveyor,75462,0,1,1,0,0,1,1,0
+311,311,William,Johnson,7111 North 75th Avenue,#1067,Glendale,AZ,85303,0,Separated,0,1961-10-12,S50c2e82ddd50311,2965,Superintendent,54822,54822,1,1,0,1,1,0,1
+312,312,Mark,Pipkin,117 Adelaide Road,,Manchester,CT,06040,0,Single,1,1968-02-03,S50c2e82ddd50312,4117,Analyst,162233,486699,0,1,0,1,0,0,1
+313,313,Robert,Greco,9110 North 63rd Drive,,Glendale,AZ,85302,0,Single,1,1941-11-06,S50c2e82ddd50313,3962,Economist,115379,461516,1,1,0,1,0,1,1
+314,314,Kim,Rodibaugh,8417 Timothy Lane,,Oklahoma City,OK,73135,0,Married,0,1953-08-23,S50c2e82ddd50314,5431,Partner,134339,671695,0,1,0,0,1,1,0
+315,315,Tony,Farias,6610 North 93rd Avenue,#3102,Glendale,AZ,85305,0,Single,1,1998-11-13,S50c2e82ddd50315,4108,Representative,167283,501849,0,0,1,0,0,0,0
+316,316,April,Hader,312 Westhill Avenue,,Inverness,FL,34452,0,Separated,0,1980-06-18,S50c2e82ddd50316,3427,Leader,153008,153008,1,0,0,0,0,0,1
+317,317,David,Pope,713 Millard Fuller Drive,,Montgomery,AL,36110,1,Married,0,1953-07-28,S50c2e82ddd50317,8147,Architect,154515,309030,0,0,1,0,1,0,1
+318,318,James,Amburn,804 Old Coach Place,,Nashville,TN,37076,0,Single,0,1942-09-10,S50c2e82ddd50318,2712,Receptionist,187919,0,0,1,0,1,1,0,0
+319,319,Bradford,Hill,468 Raymond Drive,,Ione,CA,95640,0,Widowed,0,1945-05-26,S50c2e82ddd50319,3501,Partner,105710,105710,1,1,1,1,1,0,1
+320,320,Walter,Gregory,244 La Normandy Drive,,Louisville,KY,40223,0,Widowed,1,1975-02-17,S50c2e82ddd50320,8853,Leader,107367,0,0,0,0,0,1,0,0
+321,321,Marc,Augustine,8 Richardson Road,,Barre,VT,05641,1,Widowed,1,1999-08-01,S50c2e82ddd50321,8871,Engineer,130902,130902,0,1,0,0,0,1,0
+322,322,Tracy,Scales,117 East Cook Avenue,,Anchorage,AK,99501,1,Single,0,1967-02-11,S50c2e82ddd50322,6916,Operator,156843,784215,1,1,1,1,1,1,1
+323,323,Gretta,Bullard,3414 Vance Lane,,Montgomery,AL,36109,0,Married,1,1980-10-10,S50c2e82ddd50323,4648,Surveyor,153322,459966,1,1,0,0,1,1,0
+324,324,Shirley,Kramer,3446 Northwest 48th Street,,Oklahoma City,OK,73112,0,Divorced,0,1951-10-04,S50c2e82ddd50324,1524,Surveyor,140606,703030,1,0,1,0,0,1,1
+325,325,Roland,Cole,6431 Shattuck Avenue,B,Oakland,CA,94609,1,Separated,0,1990-11-05,S50c2e82ddd50325,8640,Partner,138691,0,1,1,0,1,0,1,0
+326,326,Lauren,Zamora,8700 Seaton Boulevard,,Montgomery,AL,36116,1,Divorced,0,1994-07-17,S50c2e82ddd50326,8913,Researcher,128375,513500,0,1,1,0,1,0,0
+327,327,Michael,Perkins,2220 Kirk Avenue,,Nashville,TN,37218,0,Divorced,0,1993-03-15,S50c2e82ddd50327,5290,Partner,105295,105295,1,0,0,1,1,0,0
+328,328,Malcolm,Fountain,264 River Road,,Richmond,VT,05477,0,Married,0,1965-03-04,S50c2e82ddd50328,1079,Surveyor,132782,663910,1,1,0,0,0,1,0
+329,329,Michael,Houston,3102 Kinvara Lane,,Louisville,KY,40242,1,Single,0,1999-09-13,S50c2e82ddd50329,0413,Surveyor,86187,258561,1,0,1,0,1,0,0
+330,330,Carolyn,Jones,1217 Cottondale Road,,Montgomery,AL,36109,0,Married,1,1994-05-18,S50c2e82ddd50330,4744,Controller,198184,0,0,1,0,0,0,0,0
+331,331,Williams,Coleman,4809 Trappers Ridge,,Nashville,TN,37013,0,Widowed,1,1970-03-13,S50c2e82ddd50331,2016,Agent,46280,231400,0,1,1,1,0,0,1
+332,332,Mark,Miller,4438 Maine Avenue,,Baldwin Park,CA,91706,1,Divorced,1,1984-02-19,S50c2e82ddd50332,6258,Coordinator,171512,857560,1,0,0,0,0,0,1
+333,333,Justin,Martin,4600 Ritchie Highway,,Baltimore,MD,21225,1,Single,0,1987-10-09,S50c2e82ddd50333,4734,Supervisor,74375,371875,0,0,1,0,0,1,1
+334,334,Tamara,Vaz,8526 Preston Highway,,Louisville,KY,40219,1,Widowed,0,1982-06-27,S50c2e82ddd50334,5099,Appraiser,137053,0,1,1,1,0,0,0,0
+335,335,David,Mcdonald,2310 Donleigh Court,,Louisville,KY,40222,0,Widowed,0,1949-04-17,S50c2e82ddd50335,4727,Supervisor,102399,409596,0,1,1,1,0,0,1
+336,336,David,Perez,1 Kelton Court,#4H,Oakland,CA,94611,1,Single,1,1971-09-17,S50c2e82ddd50336,0297,Supervisor,163519,490557,1,0,0,1,0,0,0
+337,337,Jeff,Hall,798 Airport Road,,Panama City,FL,32405,0,Widowed,1,1955-01-22,S50c2e82ddd50337,3586,Consultant,73330,219990,0,1,1,0,1,0,0
+338,338,Craig,Mckeever,2115 Northwest 22nd Street,,Oklahoma City,OK,73107,1,Married,0,1986-10-12,S50c2e82ddd50338,0180,Superintendent,198288,594864,1,1,0,0,1,0,1
+339,339,Raymond,Navejas,8 Linden Circle,,Somerville,MA,02143,0,Divorced,0,1974-12-04,S50c2e82ddd50339,8756,Broker,175467,0,1,1,0,1,1,0,0
+340,340,Rose,Hartness,5516 West Indore Drive,,Littleton,CO,80128,0,Widowed,1,1982-05-27,S50c2e82ddd50340,2625,Leader,55377,110754,0,0,1,0,0,0,1
+341,341,Brenda,Shiplett,51035 Conifer Drive,,Soda Springs,CA,95728,0,Widowed,1,1946-11-21,S50c2e82ddd50341,5306,Advisory,88321,441605,1,1,0,0,1,0,0
+342,342,John,Smith,21007 North 53rd Avenue,,Glendale,AZ,85308,0,Divorced,1,1974-12-03,S50c2e82ddd50342,6939,Advisory,133739,668695,0,0,1,1,1,1,0
+343,343,David,Martinez,6515 West Poinsettia Drive,,Glendale,AZ,85304,0,Separated,1,1998-04-21,S50c2e82ddd50343,3910,Messenger,86073,86073,1,0,0,1,0,0,0
+344,344,Heather,Beard,5788 Cane Ridge Road,,Nashville,TN,37013,1,Married,1,1961-04-15,S50c2e82ddd50344,8433,Coordinator,165453,330906,0,1,0,1,0,0,1
+345,345,Oscar,Begay,89 Barrensdale Drive,,Severna Park,MD,21146,1,Single,0,1948-05-16,S50c2e82ddd50345,7752,Architect,148652,743260,1,1,0,1,1,1,0
+346,346,Hattie,Wynn,1810 Orchard Place,,Anchorage,AK,99502,1,Divorced,1,1981-09-07,S50c2e82ddd50346,6657,Professional,69072,0,1,0,0,0,1,1,1
+347,347,Anthony,Morford,23 Columbia Drive,,Manchester,CT,06042,1,Single,1,1940-10-02,S50c2e82ddd50347,9252,Underwriter,40125,40125,1,0,1,0,1,1,1
+348,348,Greta,Jones,509 Franklin Street Northeast,,Washington,DC,20017,1,Divorced,1,1952-05-23,S50c2e82ddd50348,3363,Representative,74651,149302,0,0,1,0,0,0,0
+349,349,Sandra,Mckillop,5514 West Altadena Avenue,,Glendale,AZ,85304,1,Widowed,1,1982-02-14,S50c2e82ddd50349,3448,Superintendent,193410,967050,1,0,0,0,0,1,1
+350,350,Brian,Anders,301 Argonaut Street,,Panama City Beach,FL,32413,1,Widowed,1,1952-02-16,S50c2e82ddd50350,0695,Consultant,125035,375105,0,0,0,1,0,1,1
+351,351,Donna,Quiroz,819 Beazer Lane,,Nashville,TN,37013,1,Divorced,0,1950-02-24,S50c2e82ddd50351,8986,Surveyor,90201,0,0,0,1,0,0,1,1
+352,352,Miguel,Herd,7030 West Krall Street,,Glendale,AZ,85303,1,Widowed,0,1979-06-21,S50c2e82ddd50352,9167,Superintendent,119761,0,0,1,1,0,1,1,1
+353,353,Naomi,Kempf,2543 The Meadows,,Montgomery,AL,36116,0,Divorced,0,1974-03-20,S50c2e82ddd50353,2143,Engineer,70382,281528,0,0,0,1,0,0,0
+354,354,Nathaniel,Basquez,2032 4th Street Northwest,,Washington,DC,20001,0,Separated,0,1982-02-20,S50c2e82ddd50354,9024,Economist,159803,319606,1,0,0,1,1,0,0
+355,355,David,Locket,2086 Hillside Drive,,San Leandro,CA,94577,0,Married,1,1947-10-22,S50c2e82ddd50355,9323,Economist,96468,192936,1,1,0,1,0,0,0
+356,356,Efren,Nice,43 Main Street,,Essex,VT,05452,0,Separated,0,1996-02-11,S50c2e82ddd50356,0519,Representative,147055,735275,0,1,1,1,1,1,1
+357,357,Reba,Lopez,228 Central Street,,Milford,MA,01757,0,Married,0,1967-02-11,S50c2e82ddd50357,2111,Supervisor,96699,483495,1,0,0,1,1,0,0
+358,358,Florence,Bailie,2375 Palm Lake Drive,,Merritt Island,FL,32952,1,Widowed,0,1969-10-01,S50c2e82ddd50358,8810,Appraiser,118538,592690,1,0,0,1,1,0,1
+359,359,Lauren,Alleyne,43949 South Moray Street,,Fremont,CA,94539,1,Widowed,0,1957-09-09,S50c2e82ddd50359,5723,Leader,147115,588460,0,1,1,0,0,0,0
+360,360,Matt,Guest,406 North Hammonds Ferry Road,,Linthicum Heights,MD,21090,1,Separated,0,1973-06-07,S50c2e82ddd50360,7454,Controller,164264,0,0,0,0,1,1,0,1
+361,361,Jerome,Dunn,1780 Poplar Ridge Road,,Pasadena,MD,21122,1,Single,1,1955-01-20,S50c2e82ddd50361,6951,Officer,156647,0,0,0,0,0,1,0,0
+362,362,Carol,Madison,9436 Briarlea Court,,Montgomery,AL,36117,1,Divorced,0,1957-12-23,S50c2e82ddd50362,9558,Economist,74437,0,1,0,1,0,1,0,1
+363,363,Mary,Weeks,814 East 10th Court,,Panama City,FL,32401,1,Single,0,1945-07-11,S50c2e82ddd50363,3773,Executive,192765,192765,0,1,1,1,1,0,0
+364,364,Lesley,Green,1823 Dinger Road,,Annapolis,MD,21402,1,Widowed,1,1979-02-06,S50c2e82ddd50364,5094,Leader,75233,300932,1,0,1,1,1,0,1
+365,365,Amanda,Linarez,8101 Northwind Avenue,,Anchorage,AK,99504,1,Widowed,1,1942-12-08,S50c2e82ddd50365,2413,Estimator,118054,0,1,0,1,1,0,1,1
+366,366,Rhonda,Mccolpin,174 Village Lake Drive,,Pooler,GA,31322,0,Single,0,1951-09-28,S50c2e82ddd50366,2194,Underwriter,131615,0,0,0,1,1,0,0,1
+367,367,Janet,Holland,7905 Old Heady Road,,Louisville,KY,40299,1,Single,1,1976-08-23,S50c2e82ddd50367,8679,Underwriter,192363,577089,0,1,0,0,1,1,0
+368,368,Willie,Steele,736 Middle Turnpike East,,Manchester,CT,06040,0,Single,0,1943-05-19,S50c2e82ddd50368,9307,Broker,101387,0,0,1,1,1,0,1,1
+369,369,Richard,Cruz,2024 Merrily Drive,,Montgomery,AL,36111,1,Separated,1,1968-04-21,S50c2e82ddd50369,0392,Partner,39968,119904,1,0,1,0,1,0,1
+370,370,Rosa,Bueti,2560 Michigan Court,,Panama City,FL,32405,1,Divorced,1,1991-04-20,S50c2e82ddd50370,2144,Boss,40511,162044,0,1,1,0,1,1,0
+371,371,Todd,Green,128 East Oak Street,#3,Louisville,KY,40203,0,Single,0,1965-08-09,S50c2e82ddd50371,6364,Partner,104332,521660,0,1,0,1,1,0,1
+372,372,Rachel,Walker,1901 North Midwest Boulevard,,Edmond,OK,73034,0,Separated,0,1963-10-08,S50c2e82ddd50372,1848,Broker,134876,134876,1,1,0,0,1,1,1
+373,373,Annie,Penalosa,5102 Ander Drive,,Brentwood,TN,37027,1,Divorced,0,1992-07-21,S50c2e82ddd50373,4509,Appraiser,194032,776128,1,0,0,1,0,0,0
+374,374,Jerry,Foster,310 Timrod Road,,Manchester,CT,06040,1,Widowed,1,1955-04-19,S50c2e82ddd50374,4998,Supervisor,64898,0,0,1,1,0,1,0,0
+375,375,Elmer,Harper,302 Tuten Avenue,,Savannah,GA,31415,0,Single,1,1951-06-21,S50c2e82ddd50375,6646,Executive,44366,0,0,1,1,1,1,1,0
+376,376,Agnes,Anaya,43626 Bryant Street,,Fremont,CA,94539,1,Single,1,1963-07-17,S50c2e82ddd50376,4841,Counsel,114438,572190,1,1,0,0,1,0,0
+377,377,Cortez,Jackson,201 Lee Boulevard,,Savannah,GA,31405,0,Single,1,1955-12-23,S50c2e82ddd50377,9817,Administrator,133325,399975,1,1,1,0,0,1,1
+378,378,Shelley,Zavala,6057 Griffith Avenue,,Linda,CA,95901,0,Single,1,1965-01-17,S50c2e82ddd50378,5186,Director,174219,696876,0,0,1,0,1,0,1
+379,379,Lyle,Finch,5055 West 58th Avenue,,Arvada,CO,80002,0,Single,0,1952-05-08,S50c2e82ddd50379,9552,Officer,138746,277492,1,1,1,0,0,0,1
+380,380,Sarah,Quear,65 Arcellia Drive,,Manchester,CT,06042,1,Divorced,0,1940-05-28,S50c2e82ddd50380,7399,Administrator,120330,481320,1,1,0,0,0,1,0
+381,381,Tammy,Holmes,12 Saint Andrews Crossover,,Severna Park,MD,21146,1,Single,0,1969-12-28,S50c2e82ddd50381,9755,Officer,172832,518496,0,0,1,1,0,0,0
+382,382,Scott,Murrell,1817 Beech Street,,Louisville,KY,40210,1,Widowed,0,1960-08-06,S50c2e82ddd50382,4774,Coordinator,51726,0,0,1,1,0,0,0,0
+383,383,Cheryl,True,5123 Ewell Street,,Savannah,GA,31405,0,Separated,1,1983-02-03,S50c2e82ddd50383,6215,Partner,93233,466165,0,0,0,0,0,1,0
+384,384,Kathy,Tomasini,5420 Allison Street,#202,Arvada,CO,80002,1,Separated,1,1965-07-05,S50c2e82ddd50384,4014,Representative,56184,224736,0,1,0,0,1,1,0
+385,385,Tim,Gonzalez,1566 Wingate Park Court,,Montgomery,AL,36117,1,Widowed,1,1985-06-23,S50c2e82ddd50385,5468,Receptionist,55526,0,1,1,1,0,1,1,1
+386,386,Judith,Sanon,115 Home Avenue,,Burlington,VT,05401,1,Single,1,1982-06-26,S50c2e82ddd50386,5628,Messenger,126314,378942,1,1,0,1,0,1,0
+387,387,Paul,Linen,173 Spruce Street,#18,Manchester,CT,06040,0,Separated,0,1993-08-10,S50c2e82ddd50387,1631,Estimator,177349,532047,0,0,0,0,0,1,1
+388,388,Michelle,Nicely,403 Irwin Street,#APT 000003,Anchorage,AK,99508,0,Married,0,1997-09-08,S50c2e82ddd50388,5875,Underwriter,120998,241996,1,1,1,1,1,0,1
+389,389,Erika,Kleinpeter,16 Ambassador Drive,BLDG,Manchester,CT,06042,1,Widowed,1,1973-02-02,S50c2e82ddd50389,4860,Representative,96408,192816,0,0,1,0,1,1,0
+390,390,Joseph,Recker,1123 Glenwood Avenue,,Nashville,TN,37204,1,Divorced,0,1992-03-11,S50c2e82ddd50390,9388,Analyst,21356,21356,1,0,1,1,0,1,1
+391,391,Lorraine,Fitzgerald,3718 Bay Tree Road,,Lynn Haven,FL,32444,1,Single,1,1941-07-27,S50c2e82ddd50391,9899,President,136828,684140,1,1,1,1,0,0,1
+392,392,Scott,Stewart,8040 Cranberry Street,,Anchorage,AK,99502,1,Married,1,1991-04-02,S50c2e82ddd50392,2130,Researcher,140679,562716,0,0,1,1,1,0,0
+393,393,Steven,Sobus,6007 Applegate Lane,,Louisville,KY,40219,0,Separated,0,1983-07-28,S50c2e82ddd50393,0860,Manager,99339,298017,1,1,1,0,0,0,0
+394,394,David,Elwell,7113 North 69th Avenue,,Glendale,AZ,85303,0,Separated,1,1961-05-15,S50c2e82ddd50394,7643,Architect,155586,311172,1,1,0,0,0,1,1
+395,395,Margarita,Mixer,370 Wallace Road,#D-28,Nashville,TN,37211,1,Divorced,0,1975-08-27,S50c2e82ddd50395,3562,Researcher,135178,405534,0,1,1,1,0,0,1
+396,396,William,Day,39 Newhall Street,#7,Lynn,MA,01902,0,Separated,0,1986-09-23,S50c2e82ddd50396,3267,Manager,35875,143500,1,0,0,1,1,1,1
+397,397,Robert,Richardson,8 Richardson Road,,Barre,VT,05641,0,Widowed,1,1983-01-07,S50c2e82ddd50397,8782,Leader,139694,279388,0,0,0,0,1,1,0
+398,398,Stella,Gibson,928 Wright Avenue,#UNIT 505,Mountain View,CA,94043,1,Married,0,1982-08-09,S50c2e82ddd50398,8312,Appraiser,29372,88116,0,0,0,1,1,0,0
+399,399,Treva,Cross,2106 Standard Avenue,,Louisville,KY,40210,1,Single,1,1992-06-26,S50c2e82ddd50399,4897,Appraiser,34775,104325,1,0,1,1,1,0,0
+400,400,Dorothy,Chambers,20 Masters Way,,Manchester,CT,06040,1,Single,1,1942-02-28,S50c2e82ddd50400,8742,Receptionist,142177,568708,0,0,1,0,1,0,1
+401,401,Lucas,Barry,15082 North 59th Avenue,#111,Glendale,AZ,85306,0,Divorced,1,1983-07-24,S50c2e82ddd50401,9485,Broker,48724,97448,1,1,0,1,0,1,0
+402,402,Jon,Main,6763 Depew Street,,Arvada,CO,80003,1,Married,1,1945-07-05,S50c2e82ddd50402,2950,Broker,29409,147045,0,1,1,1,1,0,1
+403,403,Troy,Peck,2318 Camryns Crossing,,Panama City,FL,32405,1,Widowed,0,1952-09-13,S50c2e82ddd50403,2536,Controller,116372,349116,0,1,1,1,0,1,1
+404,404,Martin,Dearcos,7024 Johnny Mercer Boulevard,,Savannah,GA,31410,1,Separated,1,1966-02-03,S50c2e82ddd50404,0791,Architect,117258,586290,1,0,1,1,1,0,1
+405,405,Lorraine,Urbanski,65 Hilltop Lane,,McKinleyville,CA,95519,1,Married,1,1947-06-15,S50c2e82ddd50405,6402,Coordinator,26869,26869,0,0,1,1,1,1,0
+406,406,Linda,Madrid,1340 5th Street Northwest,,Washington,DC,20001,1,Married,0,1947-08-25,S50c2e82ddd50406,4061,Messenger,158016,474048,0,1,1,0,1,1,1
+407,407,Geneva,Meinke,5516 West Indore Drive,,Littleton,CO,80128,0,Separated,1,1980-04-02,S50c2e82ddd50407,2310,Supervisor,132624,0,0,1,1,0,1,0,1
+408,408,Mark,Williams,2811 Mechanics Avenue,,Savannah,GA,31404,0,Widowed,1,1985-09-01,S50c2e82ddd50408,7989,Boss,63821,127642,0,1,1,0,1,0,1
+409,409,Kristin,Duskey,119 Redwood Road,,Manchester,CT,06040,1,Divorced,0,1946-07-22,S50c2e82ddd50409,0252,Broker,114178,342534,0,0,1,1,1,0,1
+410,410,Roberta,Nelson,7090 West 64th Avenue,,Arvada,CO,80003,1,Widowed,1,1974-02-12,S50c2e82ddd50410,3864,Receptionist,76057,0,1,0,1,0,1,0,0
+411,411,Lindsay,Cantu,2703 Woolsey Street,#R 1,Berkeley,CA,94705,1,Single,0,1951-04-13,S50c2e82ddd50411,7088,Analyst,142497,284994,0,0,0,1,1,0,0
+412,412,Ola,Holford,82 Linnmore Drive,,Manchester,CT,06040,0,Single,0,1944-01-10,S50c2e82ddd50412,9489,Manager,184362,184362,0,1,0,1,1,1,1
+413,413,Alfred,Wieland,7132 South Villa Avenue,,Oklahoma City,OK,73159,1,Married,1,1981-10-24,S50c2e82ddd50413,3036,Professional,130687,392061,1,1,0,1,1,0,1
+414,414,Robert,Guthrie,72 Bentley Avenue,,Poultney,VT,05764,0,Single,0,1957-08-07,S50c2e82ddd50414,4946,Leader,90586,181172,1,0,1,1,1,1,0
+415,415,Annette,Kidd,7802 Titan Court,,Pasadena,MD,21122,0,Single,0,1977-06-12,S50c2e82ddd50415,8344,Advisory,57779,0,0,0,0,1,1,1,1
+416,416,Gayle,Parra,6148 Avon Avenue,,San Gabriel,CA,91775,0,Divorced,0,1988-02-27,S50c2e82ddd50416,3808,Counsel,99671,199342,1,1,0,0,0,0,1
+417,417,Raymond,Benward,15847 West 74th Place,,Arvada,CO,80007,0,Widowed,0,1942-11-17,S50c2e82ddd50417,9225,Vice-president,145398,581592,1,1,1,0,1,0,1
+418,418,Mary,Rivera,5 Little Deer Road,,Groton,VT,05046,0,Single,1,1970-10-14,S50c2e82ddd50418,9135,Broker,73692,368460,0,0,0,1,1,1,0
+419,419,Georgina,Carlson,10700 South Pennsylvania Avenue,,Oklahoma City,OK,73170,0,Married,0,1995-11-15,S50c2e82ddd50419,7258,Administrator,153192,612768,1,0,0,0,1,1,0
+420,420,James,Papenfuss,151 Main Street,,Savannah,GA,31408,1,Divorced,0,1962-04-10,S50c2e82ddd50420,0681,Counsel,81328,406640,1,1,0,0,1,0,1
+421,421,Marie,Garcia,7817 Moose Run Circle,,Anchorage,AK,99507,0,Single,1,1966-03-04,S50c2e82ddd50421,6776,Professional,96186,480930,0,1,1,0,0,1,1
+422,422,David,Tharpe,2812 Jasper Street Southeast,,Washington,DC,20020,0,Single,0,1940-02-19,S50c2e82ddd50422,9035,Superintendent,181190,724760,1,1,0,0,1,0,1
+423,423,Cira,Mackenzie,421 West 1st Avenue,#STE 000220,Anchorage,AK,99501,1,Married,0,1941-01-01,S50c2e82ddd50423,1188,Boss,25939,51878,0,0,0,1,1,0,1
+424,424,John,Taylor,5327 Pierce Street,,Arvada,CO,80002,0,Married,1,1981-05-17,S50c2e82ddd50424,3798,Economist,79784,239352,0,1,0,1,0,1,1
+425,425,Tracie,Hunter,2057 Lucas Street,,Montgomery,AL,36107,1,Divorced,0,1986-06-23,S50c2e82ddd50425,8383,Manager,71494,0,1,1,1,0,1,0,0
+426,426,Cynthia,Rievley,205 Homestead Street,#B3,Manchester,CT,06042,1,Married,0,1940-01-02,S50c2e82ddd50426,5758,Appraiser,134313,402939,0,1,0,1,0,1,0
+427,427,Patricia,Wade,8 Village Circle,,Randolph,VT,05060,0,Divorced,0,1952-12-16,S50c2e82ddd50427,6005,Advisory,136215,681075,0,1,1,0,1,1,1
+428,428,Ruby,Lampert,217 West Congress Street,,Savannah,GA,31401,0,Widowed,0,1977-08-10,S50c2e82ddd50428,4553,President,44928,179712,1,1,0,1,0,0,1
+429,429,Carolina,Lopez,501 Holly Avenue,,Pooler,GA,31322,0,Single,1,1950-10-26,S50c2e82ddd50429,9960,Advisory,188312,376624,0,1,1,0,0,0,0
+430,430,Antonio,Barnes,15771 West 64th Avenue,,Arvada,CO,80403,0,Single,0,1994-11-20,S50c2e82ddd50430,6396,Analyst,124522,373566,1,0,1,0,1,0,1
+431,431,Lee,Clermont,3115 Cherokee Drive,,Fayetteville,AR,72701,0,Widowed,0,1984-01-16,S50c2e82ddd50431,7464,Supervisor,181077,362154,1,1,0,0,0,1,0
+432,432,Stephen,Youd,750 West Dimond Boulevard,#STE 000121,Anchorage,AK,99515,1,Divorced,1,1955-01-02,S50c2e82ddd50432,9850,Specialist,159544,159544,0,0,1,1,1,1,0
+433,433,Christina,Aymond,2347 Glen Eagle Drive,,Northfield,KY,40222,1,Separated,0,1958-02-01,S50c2e82ddd50433,2409,Broker,23964,71892,0,1,1,1,0,1,1
+434,434,Cody,Skoog,1025 West 19th Street,#UNIT 1-C,Panama City,FL,32405,0,Divorced,0,1946-12-10,S50c2e82ddd50434,0414,Operator,184126,0,1,0,0,1,1,1,0
+435,435,Carmen,Baity,6118 North 60th Avenue,D,Glendale,AZ,85301,1,Married,1,1956-06-17,S50c2e82ddd50435,5703,Coordinator,178937,0,1,1,1,0,0,0,1
+436,436,Ryan,Pruzansky,1732 27th Avenue,,Oakland,CA,94601,1,Single,0,1941-09-21,S50c2e82ddd50436,8560,Executive,52404,157212,1,1,0,0,1,1,0
+437,437,Brian,Figueras,1811 1st Street Northwest,,Washington,DC,20001,1,Divorced,0,1982-09-08,S50c2e82ddd50437,1127,Executive,90075,0,1,1,0,0,1,0,1
+438,438,Anita,Mirabal,8757 Lamar Circle,,Arvada,CO,80003,1,Divorced,0,1982-10-11,S50c2e82ddd50438,8623,Vice-president,108810,544050,1,1,0,0,1,0,0
+439,439,Jeffrey,Jenkins,9712 Stream View Trail,,Louisville,KY,40258,1,Single,0,1966-05-25,S50c2e82ddd50439,8381,Counsel,27557,82671,0,1,1,1,0,0,1
+440,440,Susan,Jensen,1318 35th Street Northwest,,Washington,DC,20007,1,Divorced,0,1982-12-23,S50c2e82ddd50440,0314,Surveyor,135743,271486,1,1,0,1,0,0,0
+441,441,Larry,Tillman,580 Hollow Wood Road,,Montgomery,AL,36109,1,Married,1,1965-09-02,S50c2e82ddd50441,8735,Vice-president,76026,228078,1,0,0,1,1,1,0
+442,442,Shannon,Berner,597 East Miracle Drive,#4,Fayetteville,AR,72701,0,Single,0,1951-01-24,S50c2e82ddd50442,1460,Broker,119147,595735,0,0,0,1,0,1,0
+443,443,Nathan,Martin,81 Reynolds Drive,,Colchester,VT,05446,0,Widowed,0,1946-10-01,S50c2e82ddd50443,7959,Executive,192963,578889,1,1,0,1,1,0,1
+444,444,Gerard,Gilliard,88 Shute Street,#1,Everett,MA,02149,1,Single,1,1996-09-14,S50c2e82ddd50444,7576,Leader,20242,60726,1,1,1,0,1,1,1
+445,445,Connie,Hartshorne,6755 Mulberry Drive,,Anchorage,AK,99502,1,Divorced,1,1967-03-06,S50c2e82ddd50445,7338,Underwriter,33356,166780,1,0,1,0,1,1,1
+446,446,Shari,Locks,33 South Hill Avenue,#306,Fayetteville,AR,72701,1,Single,1,1954-11-23,S50c2e82ddd50446,4789,President,77478,77478,1,1,1,1,0,1,1
+447,447,Beatrice,Pennington,20443 Granite Park Circle,,Anchorage,AK,99577,0,Divorced,1,1943-01-04,S50c2e82ddd50447,6864,Operator,155513,466539,1,1,1,1,0,1,1
+448,448,Joseph,Deering,222 Quince Street,#2-B,San Diego,CA,92103,1,Divorced,1,1947-04-22,S50c2e82ddd50448,6321,Broker,171146,171146,1,0,0,0,0,1,1
+449,449,William,Henderson,7085 Gladiola Street,,Arvada,CO,80004,0,Widowed,1,1988-05-21,S50c2e82ddd50449,4968,Officer,111439,557195,1,1,1,1,1,1,0
+450,450,James,Willard,2740 Collie Hill Way,APT A,Anchorage,AK,99504,0,Widowed,1,1986-08-15,S50c2e82ddd50450,3156,Appraiser,187964,563892,1,0,0,0,1,0,1
+451,451,Duane,Estrello,5804 West Abraham Lane,,Glendale,AZ,85308,0,Married,1,1962-07-05,S50c2e82ddd50451,4615,Economist,45982,137946,1,1,1,1,0,1,1
+452,452,Mercedes,Hinton,1219 North Storer Avenue,#66,Fayetteville,AR,72703,0,Single,0,1986-03-16,S50c2e82ddd50452,7383,Underwriter,112398,449592,0,1,1,0,0,1,1
+453,453,Carolyn,Gibbs,49548 Road 200,,O'Neals,CA,93645,0,Married,1,1974-05-05,S50c2e82ddd50453,7783,Researcher,114873,229746,0,1,1,0,0,1,1
+454,454,Michael,Golz,430 Cornish Drive,,Nashville,TN,37207,0,Single,1,1976-05-13,S50c2e82ddd50454,2179,Partner,142093,142093,1,0,1,1,1,1,0
+455,455,Tammy,Bivins,1439 2nd Street,,Panama City,FL,32409,0,Married,0,1949-01-13,S50c2e82ddd50455,7582,Operator,172630,0,0,0,0,1,1,1,1
+456,456,Lena,Smith,10 Skyline Way,,Hartford,VT,05001,0,Divorced,1,1956-08-04,S50c2e82ddd50456,3553,Underwriter,107620,0,0,0,0,0,1,1,0
+457,457,Joann,Mcentire,64 Church Street,,Hardwick,MA,01031,1,Married,1,1943-03-16,S50c2e82ddd50457,5015,Controller,141998,283996,1,1,1,1,1,1,0
+458,458,Annie,Craig,235 Hugh Thomas Drive,,Panama City,FL,32404,1,Single,1,1942-03-24,S50c2e82ddd50458,7063,Executive,50501,151503,1,0,1,0,1,0,0
+459,459,Elisa,Burnette,7573 National Drive,,Livermore,CA,94550,0,Divorced,1,1975-10-09,S50c2e82ddd50459,2672,Engineer,149647,299294,0,0,1,1,0,1,1
+460,460,David,Gonzalez,185 Woodlawn Road,,Burlington,VT,05408,0,Widowed,0,1982-06-25,S50c2e82ddd50460,0146,Receptionist,69394,208182,1,0,0,0,0,1,0
+461,461,Kim,Mcguire,37 Fieldside Drive,,Groton,CT,06340,1,Divorced,0,1986-01-02,S50c2e82ddd50461,1384,Specialist,165772,663088,1,1,1,1,1,0,0
+462,462,Thomas,Martinez,2741 31st Place Northeast,,Washington,DC,20018,1,Married,0,2000-03-28,S50c2e82ddd50462,7686,Officer,108416,108416,1,0,1,0,1,1,1
+463,463,Mitzi,Freudenthal,8404 West Myrtle Avenue,,Glendale,AZ,85305,0,Single,0,1952-06-17,S50c2e82ddd50463,0317,Consultant,107004,535020,0,0,1,0,0,1,1
+464,464,Hector,Long,5119 Marla Drive,,Panama City,FL,32404,1,Married,1,1945-03-03,S50c2e82ddd50464,1823,Administrator,120869,120869,0,0,1,0,1,1,0
+465,465,Mary,Moody,1403 Lincoln Street,,Savannah,GA,31401,0,Separated,1,1996-01-23,S50c2e82ddd50465,9627,Coordinator,72185,360925,1,1,0,0,0,1,1
+466,466,Karen,Mejia,7981 Robinson Way,,Arvada,CO,80004,1,Married,0,1970-05-17,S50c2e82ddd50466,6694,Messenger,54307,271535,1,1,0,0,1,0,0
+467,467,Sandra,Poling,8546 North 59th Lane,#171,Glendale,AZ,85302,1,Married,0,1974-11-10,S50c2e82ddd50467,5062,Specialist,34731,34731,1,0,0,1,0,0,0
+468,468,Kelly,Green,13583 West 68th Avenue,,Arvada,CO,80004,1,Widowed,1,1973-09-11,S50c2e82ddd50468,0711,Messenger,120581,361743,1,0,1,1,1,1,0
+469,469,Ramon,Lobel,2315 Kezey Court,,Crofton,MD,21114,0,Widowed,0,1944-11-08,S50c2e82ddd50469,5988,Superintendent,176206,352412,0,1,1,0,1,1,1
+470,470,Judith,Santamaria,1222 Arcade Boulevard,,Sacramento,CA,95815,0,Widowed,0,1943-01-23,S50c2e82ddd50470,8967,Leader,41594,166376,0,0,1,1,1,1,0
+471,471,Harry,Yanez,4 Chamois Court,,Pooler,GA,31322,1,Divorced,1,1966-06-27,S50c2e82ddd50471,4528,Vice-president,124141,0,0,1,0,1,1,0,0
+472,472,Karl,Kelly,30544 Whitmore Road,,Whitmore,CA,96096,1,Separated,0,1974-11-01,S50c2e82ddd50472,6259,Professional,38693,38693,0,1,0,0,0,0,0
+473,473,Andre,Marshall,6275 Eric Lane,,Montgomery,AL,36116,1,Married,0,1944-02-03,S50c2e82ddd50473,5066,Partner,58535,175605,1,0,1,1,0,1,1
+474,474,Zachary,Gonzalez,4712 Rock Creek Road,,Ardmore,OK,73401,1,Widowed,0,1996-08-02,S50c2e82ddd50474,5161,Coordinator,195924,391848,1,0,0,1,1,0,0
+475,475,Gerard,Mcnish,311 South Panama Street,,Montgomery,AL,36107,0,Divorced,0,1967-04-11,S50c2e82ddd50475,8543,Vice-president,52605,52605,1,0,1,1,0,1,0
+476,476,Troy,Jensen,295 Townes Drive,,Nashville,TN,37211,1,Single,0,1974-08-27,S50c2e82ddd50476,7540,Vice-president,48076,0,1,1,1,1,0,1,1
+477,477,Troy,Olivas,3601 South Portland Avenue,,Oklahoma City,OK,73119,0,Divorced,0,1950-08-15,S50c2e82ddd50477,2067,Operator,63046,252184,1,0,1,0,0,0,1
+478,478,Rebecca,Black,2307 East 72nd Avenue,,Anchorage,AK,99507,1,Single,0,1980-03-23,S50c2e82ddd50478,2417,Executive,28413,142065,0,0,1,0,1,1,1
+479,479,Cindy,Soper,22424 Birchwood Loop Road,,Anchorage,AK,99567,1,Divorced,1,1960-04-16,S50c2e82ddd50479,3210,Controller,192699,192699,0,1,0,1,0,0,0
+480,480,Robert,Murray,4876 Norris Road,,Fremont,CA,94536,1,Widowed,0,1981-07-10,S50c2e82ddd50480,5140,Operator,81173,324692,0,0,1,1,0,1,0
+481,481,Erin,Salisbury,238 Brookley Avenue Southwest,,Washington,DC,20373,1,Married,1,1968-12-20,S50c2e82ddd50481,1708,Boss,55730,278650,0,1,0,1,1,0,1
+482,482,Arlene,Mitton,37 Spring Street,,Groton,CT,06340,1,Divorced,1,1944-06-12,S50c2e82ddd50482,0105,Underwriter,90225,360900,1,1,1,1,0,0,1
+483,483,Lana,Plata,46710 Crawford Street,#APT 32,Fremont,CA,94539,1,Divorced,1,1951-03-08,S50c2e82ddd50483,5870,Officer,172638,0,0,0,0,0,1,0,1
+484,484,Dominic,Holloway,5306 Ritchie Highway,,Baltimore,MD,21225,0,Widowed,0,1964-11-06,S50c2e82ddd50484,3060,Controller,124636,0,1,0,0,0,0,1,0
+485,485,David,Livesay,406 Stilz Avenue,,Louisville,KY,40206,1,Divorced,1,1980-02-23,S50c2e82ddd50485,2492,Officer,22615,67845,1,0,1,0,0,0,0
+486,486,Judith,Mitchell,2723 East Joyce Boulevard,,Fayetteville,AR,72703,0,Separated,1,1949-09-05,S50c2e82ddd50486,1235,Advisory,81318,243954,1,0,0,0,1,0,0
+487,487,Lyle,Gimenez,8101 Vaughn Road,,Montgomery,AL,36117,1,Single,1,1958-06-11,S50c2e82ddd50487,8429,Director,196108,588324,0,1,0,0,0,0,0
+488,488,Lupita,Briganti,8700 Lillington Circle,,Montgomery,AL,36117,1,Divorced,0,1952-02-21,S50c2e82ddd50488,8249,Controller,23051,115255,1,0,0,0,0,1,1
+489,489,Christine,Warrington,29 Vista Flores,,Pleasanton,CA,94566,0,Single,1,1987-06-17,S50c2e82ddd50489,0703,Surveyor,149033,149033,0,0,0,1,1,1,1
+490,490,Leonard,Mitchell,2802 US Highway 98,BLDG F,Mexico Beach,FL,32456,1,Separated,1,1961-08-04,S50c2e82ddd50490,0590,Officer,57222,286110,1,0,1,1,1,1,1
+491,491,Mary,Garcia,618 Watts Street,,Montgomery,AL,36104,0,Divorced,1,1955-02-01,S50c2e82ddd50491,8853,Manager,189233,756932,1,1,1,0,0,0,0
+492,492,William,Bowlin,118 Pearl Street,,Manchester,CT,06040,1,Single,1,1954-07-21,S50c2e82ddd50492,8879,Underwriter,192997,771988,0,0,1,1,0,0,0
+493,493,Dennis,Frederick,275 Ridge Lane,#204,Waltham,MA,02452,1,Widowed,1,1977-12-26,S50c2e82ddd50493,7285,Director,68470,273880,1,0,0,0,0,0,1
+494,494,Adam,Willy,1361 Barret Park Way,,Montgomery,AL,36117,0,Widowed,0,1945-07-03,S50c2e82ddd50494,2409,Vice-president,129275,646375,1,0,0,1,1,0,0
+495,495,Ebony,Roberts,2455 Manchester Drive,,The Village,OK,73120,0,Divorced,0,1983-08-06,S50c2e82ddd50495,2838,Appraiser,130018,260036,1,0,1,1,1,1,0
+496,496,Benny,Huntley,6817 Brentwood Street,,Arvada,CO,80004,1,Widowed,0,1952-03-15,S50c2e82ddd50496,1442,Agent,75904,227712,1,1,1,1,0,0,1
+497,497,Mary,Griffin,93 Hamlin Street,,Manchester,CT,06040,0,Married,1,1974-07-05,S50c2e82ddd50497,6126,President,131416,657080,0,0,0,1,0,0,0
+498,498,Derrick,Henderson,1026 Orchard Avenue,,Louisville,KY,40213,0,Divorced,0,1980-11-16,S50c2e82ddd50498,9598,Agent,196602,0,1,1,0,0,0,0,0
+499,499,William,Rooks,1713 Apian Way,,Edmond,OK,73003,1,Single,0,1986-02-17,S50c2e82ddd50499,7769,Engineer,74895,149790,0,0,1,0,1,1,0
+500,500,Bonnie,Dibenedetto,981 Groton Long Point Road,,Groton,CT,06340,0,Widowed,1,1951-03-10,S50c2e82ddd50500,9502,Officer,54249,0,0,1,1,1,1,1,0
+501,501,Samantha,Fowler,4300 Kansas Avenue Northwest,,Washington,DC,20011,1,Single,0,1958-05-07,S50c2e82ddd50501,4283,Partner,76544,229632,1,0,1,0,1,1,0
+502,502,Pearl,Lillis,5928 West Mauna Loa Lane,,Glendale,AZ,85306,1,Separated,0,1956-09-02,S50c2e82ddd50502,6808,Operator,168060,504180,1,1,1,1,0,0,0
+503,503,Darryl,Lopez,5950 West Missouri Avenue,#148,Glendale,AZ,85301,0,Separated,0,1949-05-20,S50c2e82ddd50503,4825,Counsel,36892,184460,1,1,0,1,0,0,0
+504,504,Cheryl,Lytle,1903 Bashford Manor Lane,,Louisville,KY,40218,1,Divorced,0,1968-02-02,S50c2e82ddd50504,1043,Advisory,27636,27636,0,0,1,0,1,0,0
+505,505,Elaine,Pompa,5209 North Dewey Avenue,,Oklahoma City,OK,73118,0,Separated,1,1982-09-05,S50c2e82ddd50505,8666,Economist,95821,383284,1,0,0,1,0,1,1
+506,506,Olivia,Lackey,16896 West 85th Lane,,Arvada,CO,80007,1,Widowed,1,1943-05-26,S50c2e82ddd50506,5238,Administrator,65028,0,0,1,1,1,1,0,1
+507,507,Diane,Fountain,5 Centercrest Drive,,Tyngsborough,MA,01879,0,Widowed,1,1958-04-04,S50c2e82ddd50507,3340,Agent,102702,0,0,1,1,1,1,0,1
+508,508,Jeffrey,Slade,90 Via Verde,,San Lorenzo,CA,94580,1,Divorced,0,1968-03-19,S50c2e82ddd50508,3402,Officer,56057,280285,1,0,1,0,0,0,1
+509,509,Sadie,Bridges,173 Center Street,,Manchester,CT,06040,1,Separated,1,1952-07-13,S50c2e82ddd50509,2639,Superintendent,33583,134332,0,1,0,1,1,0,1
+510,510,Alvin,Hill,42 Lake Lane,,Westmore,VT,05860,1,Divorced,0,1950-03-24,S50c2e82ddd50510,7018,Leader,70479,352395,0,0,0,0,0,1,0
+511,511,Joan,Swartz,3820 North Peniel Avenue,,Bethany,OK,73008,1,Separated,1,1955-01-15,S50c2e82ddd50511,9478,Partner,45311,0,0,1,0,0,1,1,1
+512,512,Bryan,Hinds,1320 Dunbarton Road,,Montgomery,AL,36117,0,Single,0,1956-04-24,S50c2e82ddd50512,7823,Controller,76344,229032,1,1,0,1,1,1,0
+513,513,Jeremy,Hayden,505 Southeast 32nd Street,,Oklahoma City,OK,73129,0,Separated,1,1956-08-18,S50c2e82ddd50513,5928,Controller,179528,0,0,1,1,1,1,0,0
+514,514,Salvador,Griffin,7645 Marshall Street,,Arvada,CO,80003,0,Widowed,1,1971-08-11,S50c2e82ddd50514,3301,Researcher,67760,338800,1,1,0,1,0,0,1
+515,515,Barbara,Ricks,37675 Fremont Boulevard,#APT 42,Fremont,CA,94536,0,Single,1,1949-12-09,S50c2e82ddd50515,5563,Researcher,43772,87544,0,1,0,0,0,0,1
+516,516,Leo,Acevedo,10307 Rock Falls Court,,Louisville,KY,40223,1,Separated,0,1964-09-25,S50c2e82ddd50516,0169,Architect,141098,0,0,0,1,0,1,1,1
+517,517,Christina,Hass,4960 Paddock Club Drive,,Montgomery,AL,36116,1,Single,0,1942-10-01,S50c2e82ddd50517,3667,Analyst,27250,136250,0,0,0,1,0,0,1
+518,518,Tami,Anderson,195 Nursery Street,#D10,Springfield,MA,01104,1,Married,1,1984-12-02,S50c2e82ddd50518,5250,Surveyor,133637,133637,0,0,0,1,0,0,1
+519,519,Holly,Brandenburg,1731 West 18th Street,,Fayetteville,AR,72701,0,Separated,1,1995-05-16,S50c2e82ddd50519,7471,Specialist,168256,673024,1,0,0,0,1,0,1
+520,520,Amy,Schneider,2205 Lindell Avenue,,Nashville,TN,37204,1,Single,1,1982-11-17,S50c2e82ddd50520,9087,Messenger,23776,0,0,1,0,1,0,0,0
+521,521,Alicia,Quintana,8347 Ames Way,,Arvada,CO,80003,1,Married,0,1944-01-09,S50c2e82ddd50521,5366,Manager,110641,0,1,1,0,0,0,1,1
+522,522,Tammy,Holmes,16133 Hillsborough Boulevard,,Port Charlotte,FL,33954,0,Divorced,1,1964-12-15,S50c2e82ddd50522,3417,Engineer,98379,98379,0,0,0,0,0,0,0
+523,523,Paul,Moore,19259 North 61st Drive,,Glendale,AZ,85308,1,Separated,1,1982-12-27,S50c2e82ddd50523,4966,Professional,190026,950130,1,0,0,1,0,0,0
+524,524,Louise,Rodriquez,182 Regency Circle,,Pooler,GA,31322,0,Single,0,2000-12-15,S50c2e82ddd50524,0245,Professional,55637,166911,0,1,0,1,1,1,1
+525,525,Letha,Nelson,2307 East 72nd Avenue,,Anchorage,AK,99507,0,Separated,1,1978-05-22,S50c2e82ddd50525,5140,Consultant,82479,247437,0,1,0,0,0,0,0
+526,526,Barbara,Lujan,1352 Purdue Street,,San Leandro,CA,94579,1,Separated,1,1994-09-24,S50c2e82ddd50526,5577,Economist,128098,128098,0,1,0,0,1,1,1
+527,527,Jerri,Reasoner,430 Fig Street,,Madera,CA,93638,0,Separated,0,1957-08-04,S50c2e82ddd50527,7871,Agent,134260,671300,1,1,0,1,1,0,1
+528,528,Dorothy,Jacques,6460 Vermont 113,,Vershire,VT,05079,1,Single,1,1986-10-03,S50c2e82ddd50528,5964,Supervisor,125919,0,1,1,0,1,0,1,0
+529,529,Patricia,Coles,1324 Beddington Park,,Nashville,TN,37215,0,Divorced,0,1950-12-15,S50c2e82ddd50529,7829,Vice-president,125697,0,0,0,1,1,0,0,0
+530,530,Helen,Grant,281 MacArthur Boulevard,,Oakland,CA,94610,1,Single,0,1967-11-07,S50c2e82ddd50530,8906,Agent,157467,472401,0,1,0,0,0,1,1
+531,531,Anthony,Lopez,9428 North 65th Drive,,Glendale,AZ,85302,0,Married,1,1997-04-03,S50c2e82ddd50531,4424,Operator,196976,984880,1,0,1,0,0,0,0
+532,532,John,Macdonald,74 Bradford Road,,Watertown,MA,02472,1,Widowed,1,1994-03-22,S50c2e82ddd50532,5786,Analyst,119409,119409,1,0,0,0,0,1,1
+533,533,Geraldine,Gonzalez,345 Buckland Hills Drive,#7,Manchester,CT,06042,1,Separated,0,1971-08-01,S50c2e82ddd50533,4172,Advisory,100205,0,0,0,1,0,0,1,0
+534,534,Lisa,Holmes,1711 8th Street Northwest,,Washington,DC,20001,1,Separated,1,1948-04-17,S50c2e82ddd50534,0591,Engineer,30187,30187,1,0,1,1,1,0,0
+535,535,Donald,Patterson,16 Redbud Way,,Marlborough,MA,01752,0,Single,0,1969-12-22,S50c2e82ddd50535,6527,Advisory,128645,128645,1,0,1,1,0,0,1
+536,536,Sean,Newton,2325 Eastridge Circle,,Moore,OK,73160,1,Widowed,0,1953-06-27,S50c2e82ddd50536,8471,Estimator,129076,258152,0,0,1,0,1,0,0
+537,537,Barbara,Puckett,1433 Bretton View Road,,Annapolis,MD,21409,0,Separated,1,1974-03-12,S50c2e82ddd50537,4566,Superintendent,31508,63016,1,0,0,1,0,1,1
+538,538,Connie,Guarino,517 Glenpark Drive,,Nashville,TN,37217,0,Single,1,1944-11-16,S50c2e82ddd50538,9915,Vice-president,198371,198371,0,1,1,1,0,1,1
+539,539,Kenneth,Leblanc,87 Horseshoe Drive,,West Windsor,VT,05037,0,Divorced,1,1994-03-24,S50c2e82ddd50539,8300,Coordinator,99377,298131,1,1,0,1,1,0,0
+540,540,Reba,Manzo,5685 Express Drive,,Montgomery,AL,36116,0,Divorced,0,1998-01-04,S50c2e82ddd50540,9994,Coordinator,83217,166434,1,0,0,0,0,0,1
+541,541,James,Roy,4 Glen Circle,,Glen Burnie,MD,21060,0,Single,0,1987-05-13,S50c2e82ddd50541,9534,Leader,113853,113853,1,1,1,0,1,0,0
+542,542,Pierre,Jones,1124 Jacobs Court,,Nashville,TN,37080,1,Divorced,0,1961-02-08,S50c2e82ddd50542,5051,Specialist,175000,875000,0,0,1,0,1,0,1
+543,543,Dennis,Smith,108 Croft Drive,R,Manchester,CT,06042,1,Single,1,1969-03-11,S50c2e82ddd50543,5362,Surveyor,85674,257022,1,1,0,1,0,1,1
+544,544,Tracy,Eaton,63 Summit Street,#8,Manchester,CT,06040,1,Separated,1,1996-09-23,S50c2e82ddd50544,9953,Executive,25880,103520,1,1,0,0,0,0,1
+545,545,Jorge,Ehrlich,1814 US Highway 98,,Mexico Beach,FL,32456,0,Single,1,1944-06-03,S50c2e82ddd50545,4793,Counsel,90197,90197,0,0,0,1,1,1,0
+546,546,Michelle,Chisholm,2 Thompson Road,,Manchester,CT,06040,1,Widowed,0,1965-07-13,S50c2e82ddd50546,9288,Leader,183366,916830,0,0,0,1,1,1,0
+547,547,Robert,Baird,1708 Melody Drive,,Midwest City,OK,73130,0,Separated,0,1987-10-07,S50c2e82ddd50547,7829,Coordinator,50724,152172,1,1,0,1,0,0,1
+548,548,Ernest,Elizalde,6687 Xenon Drive,,Arvada,CO,80004,1,Widowed,0,1951-03-24,S50c2e82ddd50548,7025,Specialist,75647,0,0,0,1,0,1,1,0
+549,549,John,Schmitt,1900 Lincoln Street,#206,Savannah,GA,31401,0,Single,1,1989-11-16,S50c2e82ddd50549,2014,Executive,102966,102966,0,0,0,1,1,0,0
+550,550,Rodger,Savage,5420 Sunset Avenue,,Panama City Beach,FL,32408,1,Separated,0,1965-02-06,S50c2e82ddd50550,0577,Executive,193983,193983,0,0,1,1,0,1,0
+551,551,Pamela,Warren,1911 East 58th Avenue,,Anchorage,AK,99507,1,Married,0,1955-05-28,S50c2e82ddd50551,6272,Specialist,101135,101135,0,0,0,0,1,1,1
+552,552,Sean,Jackson,7296 West Wedington Drive,,Fayetteville,AR,72704,1,Divorced,1,1950-07-21,S50c2e82ddd50552,8080,Underwriter,125548,125548,1,1,0,0,0,1,1
+553,553,Betty,Postell,96 Lakehouse Drive,,Fairlee,VT,05045,0,Separated,0,1993-07-01,S50c2e82ddd50553,2328,Underwriter,86790,433950,0,0,1,0,0,1,1
+554,554,Francisco,Dowdy,4 Old Colony Way,,Yarmouth,MA,02664,0,Divorced,0,1963-03-26,S50c2e82ddd50554,0837,Messenger,172423,0,1,1,0,0,0,0,1
+555,555,Audrey,Dellosso,5725 Medallion Court,,Castro Valley,CA,94552,0,Widowed,0,1981-08-08,S50c2e82ddd50555,3244,Surveyor,49747,248735,0,0,0,1,0,1,0
+556,556,Sheri,Anderson,1865 North Higley Road,,Mesa,AZ,85205,1,Single,0,1967-01-10,S50c2e82ddd50556,4384,Agent,91858,367432,0,0,0,0,1,1,0
+557,557,Fletcher,Matthews,1700 William E Summers III Avenue,#201,Louisville,KY,40211,0,Married,1,1978-07-21,S50c2e82ddd50557,8552,Executive,113831,227662,0,1,0,0,1,1,1
+558,558,David,Henderson,11113 North Miller Avenue,,Oklahoma City,OK,73120,0,Separated,0,1954-04-02,S50c2e82ddd50558,1370,Supervisor,127652,638260,0,0,0,1,0,1,0
+559,559,Edward,Miller,40 Highwood Drive,,Manchester,CT,06040,0,Separated,0,1968-04-20,S50c2e82ddd50559,0270,Partner,108169,108169,0,1,1,0,1,0,1
+560,560,Sharon,Gladwin,179 Blue Ridge Drive,,Manchester,CT,06040,0,Separated,1,1975-09-11,S50c2e82ddd50560,3139,Controller,79812,239436,1,1,1,0,0,0,0
+561,561,Mary,Hansel,5529 East Saddleridge Drive,,Fayetteville,AR,72703,1,Widowed,0,1964-02-11,S50c2e82ddd50561,5920,President,21185,84740,0,0,1,0,1,1,1
+562,562,Minnie,Moore,6005 Tamarack Drive,,Montgomery,AL,36117,0,Divorced,1,1987-08-24,S50c2e82ddd50562,8491,Coordinator,42773,213865,0,0,0,1,0,1,0
+563,563,Mavis,Upton,512 Danley Court,,Nashville,TN,37013,0,Divorced,1,1957-06-02,S50c2e82ddd50563,3533,Officer,164217,656868,0,1,1,1,1,1,0
+564,564,David,Bedsole,3111 West Ika Lane,,Fayetteville,AR,72704,0,Divorced,0,1947-08-28,S50c2e82ddd50564,7164,Vice-president,133179,266358,0,1,1,1,0,0,0
+565,565,Ruth,Scanlon,17 Elm Street,#4,Cambridge,MA,02139,1,Single,1,1943-07-06,S50c2e82ddd50565,2899,Officer,120554,120554,1,1,1,1,0,0,0
+566,566,Rosario,Edmunds,4075 North Cadillac Drive,#2,Fayetteville,AR,72703,1,Single,1,1985-12-13,S50c2e82ddd50566,9161,Vice-president,109051,436204,0,0,0,0,1,1,1
+567,567,Wallace,Opp,2057 Lucas Street,,Montgomery,AL,36107,1,Married,0,1960-11-10,S50c2e82ddd50567,1447,Estimator,22958,91832,0,0,1,1,0,1,1
+568,568,Fern,Herrera,562 South Pierremont Drive,,Fayetteville,AR,72701,0,Single,0,1946-12-26,S50c2e82ddd50568,3785,Operator,129528,129528,0,0,0,0,0,1,1
+569,569,Rebecca,Root,60 Willow Lakes Drive,,Savannah,GA,31419,0,Widowed,0,1966-12-03,S50c2e82ddd50569,0454,Manager,151791,455373,1,1,1,1,0,1,0
+570,570,Hannah,Strauser,2315 Kimberly Drive,,Nashville,TN,37214,1,Divorced,1,1985-10-20,S50c2e82ddd50570,9813,Architect,138131,0,0,1,1,0,1,0,1
+571,571,Dixie,Cox,3901 West End Avenue,#902,Nashville,TN,37205,1,Separated,1,1988-12-22,S50c2e82ddd50571,1444,Professional,105395,421580,0,1,1,1,1,1,1
+572,572,Luis,Kelly,200 Edson Road,,Windham,VT,05359,0,Single,0,1949-07-06,S50c2e82ddd50572,5122,Estimator,52677,52677,0,1,0,1,1,0,1
+573,573,Joe,Gumina,5 Centercrest Drive,,Tyngsborough,MA,01879,1,Married,1,1990-11-25,S50c2e82ddd50573,0507,Executive,85521,256563,0,0,1,0,0,1,1
+574,574,Marilyn,Davis,1106 Homer Avenue,,Savannah,GA,31405,0,Divorced,0,1958-04-05,S50c2e82ddd50574,9728,Receptionist,186497,932485,0,0,1,0,0,0,0
+575,575,Arlene,Lee,3578 Galindo Street,,Oakland,CA,94601,0,Married,1,1954-07-27,S50c2e82ddd50575,1373,Superintendent,150460,300920,1,1,0,1,1,1,1
+576,576,Charles,Sturgeon,2708 Riverview Drive,,Riva,MD,21140,0,Widowed,0,1954-10-12,S50c2e82ddd50576,3773,Messenger,188640,565920,0,1,0,1,0,1,1
+577,577,Milton,Robinson,108 East 11th Avenue,#APT 000002,Anchorage,AK,99501,1,Widowed,1,1949-05-18,S50c2e82ddd50577,2022,Economist,116521,0,1,1,0,0,0,0,0
+578,578,Gwen,Pilkington,5136 Gaines Street,,Oklahoma City,OK,73135,1,Divorced,1,1949-05-12,S50c2e82ddd50578,6163,Supervisor,136861,410583,0,0,0,0,0,1,1
+579,579,Richard,Nolan,4738 Mallard Common,,Fremont,CA,94555,0,Widowed,1,1994-02-01,S50c2e82ddd50579,4355,President,123802,619010,1,1,0,0,1,0,0
+580,580,Rocky,Arroyo,13417 West Marlette Court,,Litchfield Park,AZ,85340,0,Separated,1,1963-04-16,S50c2e82ddd50580,7731,Messenger,61626,184878,1,1,1,1,1,0,1
+581,581,Linda,Mccabe,21007 North 53rd Avenue,,Glendale,AZ,85308,1,Married,0,1942-10-03,S50c2e82ddd50581,8255,Boss,57678,0,1,0,1,0,0,1,0
+582,582,Benny,White,13415 Panama City Beach Parkway,,Panama City Beach,FL,32407,0,Separated,0,1949-06-04,S50c2e82ddd50582,2114,Receptionist,125030,625150,0,0,1,1,0,1,0
+583,583,Vera,Cooper,3298 Chestnut Street Northwest,,Washington,DC,20015,1,Married,0,1999-09-15,S50c2e82ddd50583,7535,Coordinator,23985,95940,1,0,0,0,0,1,1
+584,584,Tangela,Rohman,34 Harris Street,#6,Brookline,MA,02446,0,Single,1,1973-04-18,S50c2e82ddd50584,7826,Analyst,178963,357926,0,1,0,1,1,1,0
+585,585,Ronald,Meade,721 Bay Ridge Avenue,,Annapolis,MD,21403,0,Divorced,0,1948-08-11,S50c2e82ddd50585,9242,Manager,192362,769448,0,1,1,0,0,1,1
+586,586,Jeremiah,Burgess,968 Virginia Avenue,,Olivehurst,CA,95961,1,Divorced,0,1961-09-04,S50c2e82ddd50586,5610,Manager,56599,282995,0,0,0,0,1,1,0
+587,587,Alison,Bollinger,1303 Kearny Street Northeast,,Washington,DC,20017,1,Single,1,1979-05-28,S50c2e82ddd50587,8151,Supervisor,191448,765792,1,1,0,0,0,0,0
+588,588,Linda,Green,188 Saint Matthews Avenue,#1,Louisville,KY,40207,1,Separated,0,1966-01-04,S50c2e82ddd50588,7599,Manager,157351,786755,1,1,0,0,1,1,1
+589,589,Clemencia,Gomez,1536 Rachaels Ridge,,Nashville,TN,37076,0,Divorced,0,1978-11-14,S50c2e82ddd50589,5001,Messenger,66856,66856,0,0,1,1,1,1,0
+590,590,Truman,Lane,12610 Webber Road,,Fountain,FL,32438,1,Separated,0,1943-10-09,S50c2e82ddd50590,5859,Leader,58427,233708,1,0,0,0,0,1,0
+591,591,Bonnie,Leonard,7101 West Beardsley Road,#151,Glendale,AZ,85308,1,Divorced,1,1940-07-26,S50c2e82ddd50591,4503,Engineer,43264,86528,1,1,0,0,0,1,0
+592,592,Helen,Austin,536 Walters Farm Road,,East Haven,VT,05837,0,Divorced,0,1969-12-07,S50c2e82ddd50592,8418,Manager,186282,186282,1,0,1,1,0,0,1
+593,593,Gail,Smith,1311 Durrett Lane,,Louisville,KY,40213,0,Separated,1,1940-10-04,S50c2e82ddd50593,5796,Superintendent,103566,0,1,1,0,0,1,0,0
+594,594,Jennifer,Maldanado,736 Sicard Street Southeast,,Washington,DC,20003,0,Separated,1,1987-04-15,S50c2e82ddd50594,4723,Engineer,46955,187820,1,0,0,0,0,0,1
+595,595,Rochelle,Jett,1207 Branch Lane,,Glen Burnie,MD,21061,0,Single,1,1985-04-09,S50c2e82ddd50595,0855,Consultant,120353,481412,0,0,1,0,0,1,1
+596,596,Kerri,Trent,1695 Archer Street,,Savannah,GA,31405,1,Married,1,1968-06-24,S50c2e82ddd50596,2802,Agent,78593,235779,0,0,0,1,1,0,1
+597,597,Samuel,Hunter,615 Q Street Northwest,,Washington,DC,20001,0,Married,1,1974-11-12,S50c2e82ddd50597,1379,Architect,88873,266619,1,0,1,0,1,1,1
+598,598,Peter,Serrano,84 Holbrook Street,,North Adams,MA,01247,1,Widowed,0,1948-08-11,S50c2e82ddd50598,8103,Professional,24037,120185,1,1,0,1,1,1,0
+599,599,Allen,Finnerty,2399 East 14th Street,#29,San Leandro,CA,94577,1,Divorced,1,1977-02-22,S50c2e82ddd50599,3005,Broker,192085,384170,0,1,0,1,1,1,1
+600,600,Evelyn,Harris,2008 Aberdeen Drive,,Crofton,MD,21114,1,Single,1,1999-09-07,S50c2e82ddd50600,7685,Economist,101330,202660,1,0,0,0,0,0,1
+601,601,Nina,Moreno,415 Lullwater Drive,,Panama City Beach,FL,32413,1,Married,1,1961-06-12,S50c2e82ddd50601,5085,Consultant,88251,88251,1,1,1,1,1,0,0
+602,602,Ann,Gregory,625 West Main Street,,Moore,OK,73160,1,Divorced,0,1940-10-02,S50c2e82ddd50602,0370,Controller,135444,0,1,1,0,0,0,0,1
+603,603,Perry,Sloan,1939 Greenwood Street,,Savannah,GA,31404,0,Married,0,1952-10-15,S50c2e82ddd50603,2878,Director,117247,117247,0,1,0,1,0,0,1
+604,604,Steven,Crawford,1842 West Park Place,,Oklahoma City,OK,73106,1,Divorced,1,1999-09-03,S50c2e82ddd50604,5843,Officer,53153,159459,0,1,0,1,1,1,0
+605,605,Judy,Whaley,10367 West 55th Place,#103,Arvada,CO,80002,0,Widowed,0,1993-12-11,S50c2e82ddd50605,0621,Leader,128128,256256,0,1,1,0,1,0,1
+606,606,James,Tuttle,24020 Reese Road,,Anchorage,AK,99567,1,Married,0,1992-01-21,S50c2e82ddd50606,7713,Supervisor,81890,163780,1,1,0,1,1,1,1
+607,607,Andrew,Menefee,2750 Gilmore Lane,##C304,Oroville,CA,95966,0,Married,0,1968-06-28,S50c2e82ddd50607,7610,Researcher,20934,83736,0,0,1,1,1,1,1
+608,608,Scott,Toan,1311 Durrett Lane,,Louisville,KY,40213,0,Single,0,1973-12-03,S50c2e82ddd50608,3785,Executive,143620,718100,0,1,1,0,0,1,1
+609,609,Travis,White,1745 T Street Southeast,,Washington,DC,20020,1,Married,0,1950-02-16,S50c2e82ddd50609,7881,Analyst,38567,77134,1,1,1,0,0,0,0
+610,610,Rodney,Jacobs,200 West Center Street,A,Manchester,CT,06040,0,Widowed,1,1996-05-26,S50c2e82ddd50610,8169,Counsel,127711,0,1,1,0,1,1,1,0
+611,611,Tracy,Walser,5385 Iris Street,,Arvada,CO,80002,1,Divorced,1,1967-12-21,S50c2e82ddd50611,3348,Estimator,184847,369694,0,0,0,0,0,0,1
+612,612,Denise,Soileau,6617 North 59th Avenue,,Glendale,AZ,85301,1,Single,1,1991-04-25,S50c2e82ddd50612,6235,Consultant,178492,0,1,1,1,0,1,1,1
+613,613,Linda,Speed,74 Bradford Road,,Watertown,MA,02472,0,Married,1,1972-11-16,S50c2e82ddd50613,8598,Appraiser,180705,180705,0,0,1,1,0,1,1
+614,614,Joseph,Citron,51 Edgar Road,,Scituate,MA,02066,0,Married,1,1993-06-12,S50c2e82ddd50614,9864,Engineer,147265,294530,1,0,1,1,1,1,0
+615,615,Myrna,Nock,721 Vermont 5A,,Westmore,VT,05860,1,Single,1,1968-03-04,S50c2e82ddd50615,7492,Manager,84527,0,1,1,0,0,0,1,0
+616,616,Jerry,Carey,7030 Cotton Blossom Lane,,Montgomery,AL,36117,1,Married,1,1976-12-22,S50c2e82ddd50616,0850,Executive,106787,106787,0,0,0,0,0,1,1
+617,617,Jose,Whitemore,17623 Norma Lane,,Fountain,FL,32438,1,Divorced,1,1983-06-19,S50c2e82ddd50617,4437,Leader,167717,670868,0,1,1,0,1,0,0
+618,618,Evelyn,Bradshaw,4300 Soquel Drive,##71,Soquel,CA,95073,1,Widowed,0,1943-04-11,S50c2e82ddd50618,7874,Agent,175519,351038,1,0,1,0,0,1,0
+619,619,Stephanie,Curry,2064 West Columbia Way,,Hanford,CA,93230,0,Separated,1,1941-06-08,S50c2e82ddd50619,3715,Manager,80726,80726,0,1,1,0,1,0,0
+620,620,Inez,Swain,12546 West Montebello Avenue,,Litchfield Park,AZ,85340,0,Widowed,0,1955-02-16,S50c2e82ddd50620,7124,Leader,74371,74371,0,1,0,1,1,1,1
+621,621,Jeffrey,Lasiter,5 Yerxa Road,#2,Cambridge,MA,02140,0,Separated,1,1966-12-05,S50c2e82ddd50621,2689,Architect,174425,697700,1,0,1,1,1,0,1
+622,622,Laura,Gustafson,316 20th Street Northeast,,Washington,DC,20002,0,Married,1,1941-10-02,S50c2e82ddd50622,1639,Leader,98299,294897,1,1,0,1,0,1,0
+623,623,John,Connor,30451 Servilla Place,,Castaic,CA,91384,0,Single,1,1955-08-11,S50c2e82ddd50623,3888,Economist,159641,798205,1,0,1,1,1,1,1
+624,624,Arlene,Fuller,325 Autumn Street,,Manchester,CT,06040,1,Separated,1,1959-08-07,S50c2e82ddd50624,9100,Supervisor,169967,849835,0,1,0,0,0,1,1
+625,625,Robert,Amundson,841 Whittier Hill Road,,,VT,05647,1,Separated,1,1997-11-23,S50c2e82ddd50625,4378,Coordinator,51988,155964,0,1,1,0,1,1,0
+626,626,Thomas,Robinson,49548 Road 200,,O'Neals,CA,93645,0,Widowed,0,1965-01-10,S50c2e82ddd50626,4293,Appraiser,172909,0,0,0,0,0,0,1,0
+627,627,David,Sill,5929 West Via Montoya Drive,,Glendale,AZ,85310,0,Single,1,1976-07-13,S50c2e82ddd50627,2894,Supervisor,32031,64062,1,1,1,0,0,1,1
+628,628,Michael,Martin,918 Cheryl Ann Circle,,Hayward,CA,94544,1,Divorced,0,1943-03-09,S50c2e82ddd50628,1063,Agent,163992,327984,0,1,1,0,1,0,1
+629,629,Douglas,Whitt,75 Calfoster Drive,,Wolcott,VT,05680,1,Married,0,1980-09-07,S50c2e82ddd50629,4269,Underwriter,45076,180304,0,1,0,0,0,0,1
+630,630,Mattie,Moore,1523 South 9th Street,,Louisville,KY,40208,0,Separated,1,1979-04-04,S50c2e82ddd50630,6157,Appraiser,117784,471136,0,1,0,0,0,0,0
+631,631,Jacqueline,Mettler,9805 South Youngs Lane,,Oklahoma City,OK,73159,0,Married,1,1989-10-25,S50c2e82ddd50631,9027,Controller,161922,647688,0,0,0,0,1,1,1
+632,632,Pamela,Kane,8125 Glynnwood Drive,,Montgomery,AL,36117,1,Divorced,0,1999-01-15,S50c2e82ddd50632,1500,Administrator,114323,342969,1,0,0,1,1,1,1
+633,633,Michael,Smith,5680 Eddins Road,,Montgomery,AL,36117,0,Widowed,1,1949-05-11,S50c2e82ddd50633,0716,Professional,117958,471832,1,0,1,0,1,1,1
+634,634,Vincent,Wolff,376 North Williams Drive,,Fayetteville,AR,72701,1,Separated,1,1954-02-14,S50c2e82ddd50634,5361,Supervisor,75958,303832,1,0,1,1,1,1,1
+635,635,Misty,Burke,516 Southwest 60th Terrace,,Oklahoma City,OK,73139,0,Single,1,1976-10-02,S50c2e82ddd50635,7007,Economist,129870,259740,1,0,1,0,1,0,0
+636,636,Judith,Beach,55 Sunrise Avenue,,Moretown,VT,05660,0,Separated,1,1959-12-09,S50c2e82ddd50636,6317,Appraiser,29851,89553,0,1,1,1,1,0,0
+637,637,William,Seedorff,1983 Reidsville Street,,Annapolis,MD,21401,1,Single,0,1946-06-12,S50c2e82ddd50637,8845,Counsel,155273,310546,0,0,0,0,0,1,1
+638,638,Jimmy,Lebrun,6022 West Alice Avenue,#3,Glendale,AZ,85302,1,Married,1,1943-01-04,S50c2e82ddd50638,5512,Professional,158659,0,0,0,1,0,0,0,1
+639,639,John,Whittemore,270 Chrissy's Court,,,VT,05443,1,Married,0,1971-07-22,S50c2e82ddd50639,9921,Surveyor,93943,0,1,0,0,0,1,0,0
+640,640,Larry,Henderson,2902 North Gregg Avenue,#9,Fayetteville,AR,72703,0,Married,1,1950-11-25,S50c2e82ddd50640,2116,Administrator,85460,341840,1,1,1,1,0,0,0
+641,641,Lois,Burger,4300 Soquel Drive,##71,Soquel,CA,95073,1,Divorced,1,1953-04-18,S50c2e82ddd50641,5133,Agent,89758,359032,1,0,0,1,0,1,0
+642,642,Audrey,Martin,8157 East Beach Drive Northwest,,Washington,DC,20012,1,Divorced,1,1977-10-19,S50c2e82ddd50642,0564,Underwriter,49165,98330,1,0,0,0,1,1,0
+643,643,Elinore,Vanwart,2115 Honeysuckle Drive,,Panama City,FL,32404,0,Married,0,1951-06-22,S50c2e82ddd50643,9969,Engineer,102848,0,0,1,0,1,0,1,0
+644,644,Martha,Jones,441 Merritt Avenue,,Oakland,CA,94610,0,Married,0,1947-02-05,S50c2e82ddd50644,2064,Researcher,182967,182967,1,1,0,1,0,0,1
+645,645,Dorothy,Keogh,201 East 16th Avenue,#APT 000420,Anchorage,AK,99501,1,Single,0,1985-11-08,S50c2e82ddd50645,1350,Receptionist,164483,822415,1,1,0,1,1,0,1
+646,646,Steven,Wilbon,509 Sea Breeze Drive,,Panama City Beach,FL,32413,0,Single,1,1961-11-15,S50c2e82ddd50646,6939,Operator,196235,588705,0,0,0,1,0,0,0
+647,647,Frances,Hickson,17615 Center Drive,,Fountain,FL,32438,0,Separated,0,1959-04-17,S50c2e82ddd50647,6587,Researcher,63010,315050,1,0,1,0,1,0,0
+648,648,Cornelia,Jordan,3600 Pennsylvania Avenue,#APT 6,Fremont,CA,94536,0,Widowed,0,1988-12-23,S50c2e82ddd50648,2842,Executive,188109,564327,1,1,1,0,0,0,1
+649,649,Robert,Hernandez,743 East 9th Avenue,#STE 000200,Anchorage,AK,99501,0,Divorced,1,1964-08-28,S50c2e82ddd50649,7596,Director,124457,124457,0,0,0,0,1,1,0
+650,650,Kimberly,Klein,6514 West Golden Lane,,Glendale,AZ,85302,0,Single,1,2000-12-25,S50c2e82ddd50650,3090,Administrator,128601,128601,0,0,0,1,1,1,0
+651,651,Patricia,Salinas,903 Mallard Creek Road,,Saint Matthews,KY,40207,1,Single,0,1996-01-03,S50c2e82ddd50651,9157,Operator,80835,161670,1,0,1,0,0,1,0
+652,652,Donna,Gonzales,7968 Newman Street,,Arvada,CO,80005,1,Separated,0,1992-01-04,S50c2e82ddd50652,0673,Executive,51754,258770,0,1,0,0,0,1,0
+653,653,Robert,Quirk,25 Morton Street,#216,Quincy,MA,02169,1,Separated,1,1953-04-13,S50c2e82ddd50653,7862,Controller,165514,165514,1,0,1,0,0,0,1
+654,654,Richard,Kelly,13501 Vasili Drive,,Anchorage,AK,99577,0,Widowed,1,1987-11-07,S50c2e82ddd50654,4249,Architect,25452,50904,1,1,1,0,1,0,0
+655,655,Jeanette,Willet,30 Tanner Street,,Manchester,CT,06042,0,Single,0,1993-01-10,S50c2e82ddd50655,4884,Leader,192567,0,1,1,0,0,1,0,0
+656,656,Julissa,Stillwell,1452 55th Avenue,B,Oakland,CA,94621,1,Divorced,0,1957-05-27,S50c2e82ddd50656,8068,Superintendent,113933,341799,1,1,1,1,1,0,1
+657,657,Frederick,Marroquin,26 Greenbriar Drive,,Savannah,GA,31419,0,Married,1,1980-06-02,S50c2e82ddd50657,0616,Officer,169650,508950,1,1,1,0,1,0,0
+658,658,Gary,Lambert,14006 Coffee Bluff Road,,Savannah,GA,31419,0,Separated,0,1975-04-05,S50c2e82ddd50658,4264,Consultant,105573,105573,1,0,1,0,1,0,0
+659,659,Daniel,Lowe,15510 Champion Lakes Place,,Louisville,KY,40245,1,Separated,1,1946-02-07,S50c2e82ddd50659,3541,Messenger,46418,232090,1,0,1,0,1,0,0
+660,660,William,Neilan,57 Birdie Lane,,Tewksbury,MA,01876,1,Separated,1,1965-02-09,S50c2e82ddd50660,6193,Appraiser,98761,395044,0,0,1,1,1,1,0
+661,661,Jasmin,Reeves,2505 Shadow Lane,,Nashville,TN,37216,0,Married,0,1962-03-21,S50c2e82ddd50661,8992,Estimator,90598,0,0,0,0,0,1,1,1
+662,662,Johnny,Carpenter,89 Plaistow Road,,Haverhill,MA,01830,0,Single,1,1975-03-09,S50c2e82ddd50662,5888,Agent,159650,0,1,1,0,1,1,0,0
+663,663,Francis,Scott,32512 Christine Drive,,Union City,CA,94587,1,Separated,0,1964-07-05,S50c2e82ddd50663,6265,Messenger,88310,264930,0,1,0,0,1,0,0
+664,664,Frank,Mccarty,9036 Calico Court,,Hesperia,CA,92344,1,Widowed,0,1970-12-03,S50c2e82ddd50664,9766,Boss,97027,0,1,0,0,0,0,1,0
+665,665,Christopher,Oliver,312 Shepherd Hills Drive,,Nashville,TN,37115,1,Single,0,1996-09-25,S50c2e82ddd50665,0312,Superintendent,107927,539635,0,0,1,0,0,0,1
+666,666,Anthony,Leal,420 D Street Northwest,,Ardmore,OK,73401,0,Single,1,1961-03-22,S50c2e82ddd50666,9113,Researcher,133129,266258,0,0,1,1,1,0,0
+667,667,Jimmy,Desimone,136 Acacia Drive,,Blue Lake,CA,95525,1,Separated,0,1989-05-20,S50c2e82ddd50667,1985,Surveyor,42989,128967,1,0,0,0,1,1,0
+668,668,Bryan,Crews,182 Regency Circle,,Pooler,GA,31322,1,Divorced,0,1944-07-08,S50c2e82ddd50668,8148,Receptionist,102672,0,0,0,0,0,0,1,0
+669,669,Jessica,Harlan,22219 Panama City Beach Parkway,,Panama City Beach,FL,32413,1,Single,0,1946-11-17,S50c2e82ddd50669,2824,Manager,23366,46732,1,1,0,1,0,0,1
+670,670,Cristina,Fulton,3824 Rosewood Court,,Midwest City,OK,73110,1,Widowed,0,1963-06-13,S50c2e82ddd50670,4300,Agent,190377,380754,0,0,1,0,1,0,0
+671,671,Beverly,Stovall,1745 T Street Southeast,,Washington,DC,20020,0,Single,0,1975-07-15,S50c2e82ddd50671,8737,Administrator,96506,0,1,0,0,1,1,0,0
+672,672,Gretchen,Hughes,8101 Vaughn Road,,Montgomery,AL,36117,0,Married,1,1966-05-17,S50c2e82ddd50672,0761,Architect,147421,0,0,1,0,0,1,1,1
+673,673,Catharine,Mueller,1841 Logan Street,,Anchorage,AK,99508,1,Separated,0,1943-06-01,S50c2e82ddd50673,3836,Boss,147294,589176,1,0,0,0,0,1,0
+674,674,Nancy,Coyle,509 Franklin Street Northeast,,Washington,DC,20017,1,Separated,0,1975-03-28,S50c2e82ddd50674,9644,Administrator,156942,156942,0,1,1,0,1,0,0
+675,675,Maria,Rollins,1753 Zion Road,#E33,Fayetteville,AR,72703,1,Widowed,0,1964-05-26,S50c2e82ddd50675,5135,Receptionist,184856,554568,0,0,0,0,0,1,0
+676,676,Angela,Stewart,341 Oakland Street,,Manchester,CT,06042,0,Single,0,1973-01-04,S50c2e82ddd50676,4732,Analyst,184103,736412,1,1,0,0,1,0,0
+677,677,Earl,Debonis,3138 Banneker Drive Northeast,,Washington,DC,20018,1,Widowed,1,1941-06-28,S50c2e82ddd50677,0673,Estimator,64866,64866,0,0,1,0,0,1,0
+678,678,Peter,Standley,882 Plantation Way,,Montgomery,AL,36117,1,Divorced,1,1971-06-14,S50c2e82ddd50678,6416,President,139629,698145,1,0,1,1,0,0,0
+679,679,Linda,Delosh,6407 West Monte Cristo Avenue,,Glendale,AZ,85306,0,Divorced,1,1951-11-24,S50c2e82ddd50679,4679,Professional,173291,173291,1,1,1,1,0,1,0
+680,680,Anglea,Vollmar,43626 Bryant Street,,Fremont,CA,94539,1,Divorced,0,1950-11-21,S50c2e82ddd50680,8854,Coordinator,151267,605068,1,0,1,0,0,1,1
+681,681,Lisa,Bell,10911 Torrington Road,,Louisville,KY,40272,1,Single,1,1969-11-22,S50c2e82ddd50681,4999,Messenger,93527,93527,0,0,1,1,1,1,1
+682,682,Alicia,Backus,6506 North Lagoon Drive,,Panama City Beach,FL,32408,1,Single,0,1978-12-16,S50c2e82ddd50682,6754,Agent,173425,520275,1,0,0,0,1,0,0
+683,683,Eleanor,Taylor,8213 Northwest 65th Place,,Oklahoma City,OK,73132,0,Separated,0,1949-07-08,S50c2e82ddd50683,6568,Surveyor,60499,181497,0,0,0,1,1,1,1
+684,684,William,Lee,1100 West Bowen Boulevard,F,Fayetteville,AR,72703,1,Married,0,1978-02-16,S50c2e82ddd50684,2439,Executive,179051,716204,0,1,0,0,1,0,0
+685,685,Rebeca,Burgin,10 Tel Road,,Woodford,VT,05201,0,Separated,0,1977-03-01,S50c2e82ddd50685,3449,Superintendent,98666,0,1,1,1,1,1,1,1
+686,686,Dann,Talbert,722 Oak Grove Circle,,Severna Park,MD,21146,0,Separated,1,1957-08-04,S50c2e82ddd50686,8515,Messenger,94480,94480,0,1,0,1,1,0,1
+687,687,Edward,Estes,826 Webster Street,,Hayward,CA,94544,1,Widowed,1,1970-10-09,S50c2e82ddd50687,0017,President,151370,302740,0,0,0,1,1,1,0
+688,688,Edward,Jackson,80 Homestead Street,,Manchester,CT,06042,1,Divorced,0,1956-02-03,S50c2e82ddd50688,2542,Administrator,176953,353906,1,1,1,1,0,0,1
+689,689,John,Haynes,1452 55th Avenue,B,Oakland,CA,94621,0,Married,0,1969-05-06,S50c2e82ddd50689,8218,Officer,189138,945690,1,1,0,1,1,0,1
+690,690,Jessica,Cirillo,1701 18th Avenue South,,Nashville,TN,37212,0,Widowed,0,1950-03-16,S50c2e82ddd50690,6981,Specialist,130587,391761,1,1,0,0,0,1,1
+691,691,Toby,Lewis,29 East Avenue,,Colchester,VT,05446,0,Separated,0,1965-03-13,S50c2e82ddd50691,5781,Architect,84557,169114,1,0,0,1,0,1,0
+692,692,Beverly,Brown,47634 Kato Road,,Fremont,CA,94538,0,Single,0,1976-01-23,S50c2e82ddd50692,4821,Analyst,101736,0,0,0,1,1,1,1,1
+693,693,Margaret,Flores,29 Lucian Street,,Manchester,CT,06040,1,Widowed,0,1986-07-22,S50c2e82ddd50693,9983,Engineer,136687,273374,1,0,1,1,1,1,1
+694,694,Ruth,Ross,6522 Harlan Street,,Arvada,CO,80003,0,Married,1,1980-09-03,S50c2e82ddd50694,4594,Analyst,73727,0,1,0,0,0,1,1,1
+695,695,Steven,Anderson,6221 West Wethersfield Road,,Glendale,AZ,85304,0,Widowed,0,1975-07-05,S50c2e82ddd50695,5452,Advisory,130518,522072,1,0,0,1,0,1,0
+696,696,Karl,Lew,43626 Bryant Street,,Fremont,CA,94539,1,Married,1,1994-09-18,S50c2e82ddd50696,3096,Counsel,72882,364410,1,1,1,1,0,0,1
+697,697,Matthew,Moulding,615 Long Hunter Court,,Nashville,TN,37217,0,Single,0,1995-03-26,S50c2e82ddd50697,0174,Messenger,48845,48845,0,1,0,0,1,0,1
+698,698,Maud,Thammavongsa,82 East Foster Street,#2,Melrose,MA,02176,0,Separated,0,1955-03-13,S50c2e82ddd50698,0199,Professional,136049,680245,0,1,1,0,0,0,1
+699,699,Marie,Keenum,5161 Jefferson Boulevard,#202,Louisville,KY,40219,1,Divorced,0,1983-01-22,S50c2e82ddd50699,9906,Economist,150095,300190,0,0,1,0,1,0,1
+700,700,Mark,Contreras,5110 East Shoshone Avenue,,Orange,CA,92867,1,Divorced,1,1940-05-24,S50c2e82ddd50700,0218,President,135621,406863,0,0,0,0,1,1,0
+701,701,Mary,Mcconnell,35 Pilot Knob Lane,#204,Telluride,CO,81435,0,Divorced,1,1982-11-05,S50c2e82ddd50701,1507,Professional,66372,199116,1,1,0,0,1,1,0
+702,702,Martin,Orr,15254 North 52nd Avenue,,Glendale,AZ,85306,1,Single,1,1959-07-03,S50c2e82ddd50702,4551,Estimator,60298,180894,1,1,1,0,1,0,0
+703,703,Judith,Goss,150 Somersby Boulevard,,Pooler,GA,31322,1,Single,0,1963-12-09,S50c2e82ddd50703,1984,Surveyor,32221,32221,1,1,0,1,1,0,1
+704,704,Graham,Dismukes,7435 East Tulare Avenue,,Fresno,CA,93737,0,Married,0,1974-05-28,S50c2e82ddd50704,4536,Representative,195957,391914,0,0,1,0,1,0,0
+705,705,Tina,Ferreira,3500 15th Street Northeast,,Washington,DC,20017,1,Widowed,1,1941-05-10,S50c2e82ddd50705,0725,Professional,192719,770876,0,0,0,1,0,1,1
+706,706,John,Ferguson,73 Lower Main Street,,Morristown,VT,05661,1,Single,0,1964-07-10,S50c2e82ddd50706,7737,Partner,127905,127905,1,0,0,0,0,0,0
+707,707,William,Sage,8133 Meadowgreen Place,,Louisville,KY,40299,0,Single,1,1976-06-02,S50c2e82ddd50707,3729,Researcher,89774,179548,1,0,1,0,0,1,1
+708,708,Rebecca,Fry,5950 West Missouri Avenue,#148,Glendale,AZ,85301,1,Separated,1,1975-06-14,S50c2e82ddd50708,6084,Supervisor,86451,172902,1,0,0,1,0,0,0
+709,709,Ed,Kimble,158 Euclid Avenue,,San Leandro,CA,94577,0,Widowed,0,1954-02-24,S50c2e82ddd50709,0694,President,59270,296350,0,0,0,1,1,0,1
+710,710,Edna,Haines,2577 Rhode Island Avenue Northeast,,Washington,DC,20018,0,Married,1,1985-02-19,S50c2e82ddd50710,7346,Manager,105885,105885,1,1,0,0,0,0,0
+711,711,Frankie,Clark,1040 West 27th Avenue,#APT 000401,Anchorage,AK,99503,1,Separated,1,1967-09-23,S50c2e82ddd50711,7278,Superintendent,166594,166594,1,1,1,1,1,1,1
+712,712,Marilyn,Duplessis,13005 Mills Edge Court,,Louisville,KY,40272,0,Widowed,0,1979-01-01,S50c2e82ddd50712,8657,Director,64865,194595,0,0,0,1,1,1,0
+713,713,April,Spina,1679 Frederick Michael Way,,Livermore,CA,94550,1,Widowed,1,1995-11-28,S50c2e82ddd50713,1714,Representative,197094,788376,0,1,0,0,0,1,0
+714,714,Mina,Haugen,2747 68th Avenue,,Oakland,CA,94605,0,Married,1,1974-08-26,S50c2e82ddd50714,5891,Researcher,108146,324438,0,1,1,1,0,0,1
+715,715,Juan,Smothers,622 Elaine Drive,,Nashville,TN,37211,1,Divorced,1,1995-08-15,S50c2e82ddd50715,6786,Broker,134648,269296,1,1,1,1,1,1,0
+716,716,Adam,Adams,8001 West 71st Avenue,#23B,Arvada,CO,80004,0,Separated,0,1994-12-05,S50c2e82ddd50716,0418,Vice-president,39361,157444,1,0,1,0,0,1,0
+717,717,Debra,Lindgren,1345 G Street Southeast,,Washington,DC,20003,0,Single,0,1998-02-26,S50c2e82ddd50717,0449,Appraiser,162236,162236,0,0,1,1,1,0,0
+718,718,Edward,Olivares,10 Skyline Way,,Hartford,VT,05001,1,Widowed,1,1947-08-01,S50c2e82ddd50718,4080,Analyst,150561,752805,1,1,1,0,1,1,1
+719,719,Michael,Wright,449 15th Street Northeast,,Washington,DC,20002,1,Married,0,1951-05-11,S50c2e82ddd50719,2987,Analyst,118067,0,0,0,0,1,0,1,1
+720,720,John,Jackson,4876 Norris Road,,Fremont,CA,94536,0,Divorced,0,1981-01-05,S50c2e82ddd50720,8254,Architect,145457,145457,1,1,0,0,1,1,0
+721,721,Frederick,Dugger,2809 Briarcliff Road,,Panama City,FL,32405,0,Separated,0,1957-01-04,S50c2e82ddd50721,8043,Agent,121125,484500,1,1,0,1,0,0,1
+722,722,Patricia,Kerr,6385 Oak Street,#101,Arvada,CO,80004,0,Single,0,1982-05-08,S50c2e82ddd50722,7978,Coordinator,179509,179509,1,1,1,1,0,1,0
+723,723,Oscar,Hernandez,19 Keyes Drive,#12,Peabody,MA,01960,1,Married,1,1995-09-11,S50c2e82ddd50723,7848,Estimator,166287,166287,1,1,1,1,1,0,0
+724,724,George,Davis,2375 South School Avenue,#5,Fayetteville,AR,72701,1,Widowed,1,1996-08-06,S50c2e82ddd50724,7020,Coordinator,138286,691430,1,0,1,1,0,1,1
+725,725,Arlene,Brame,6718 Keithley Road,,Panama City,FL,32404,0,Married,1,1986-07-11,S50c2e82ddd50725,4950,Researcher,24447,0,1,0,1,1,0,1,1
+726,726,Andrew,Culver,1216 West Hill Street,M,Louisville,KY,40210,1,Widowed,0,1955-03-18,S50c2e82ddd50726,8115,Boss,150889,754445,1,0,1,0,1,1,0
+727,727,Robert,Rangel,625 West Main Street,,Moore,OK,73160,0,Separated,1,1946-09-18,S50c2e82ddd50727,3690,Specialist,119273,596365,1,0,0,0,1,1,1
+728,728,Marjorie,Sanborn,7407 North 75th Drive,,Glendale,AZ,85303,1,Separated,1,1976-07-11,S50c2e82ddd50728,4367,Superintendent,41607,83214,0,1,0,0,1,1,0
+729,729,Elias,Davis,8820 Vaughn Road,,Montgomery,AL,36117,1,Widowed,0,1956-02-21,S50c2e82ddd50729,5707,Professional,103708,414832,0,1,1,1,0,0,0
+730,730,Gary,Sugar,5605 North Terry Avenue,,Oklahoma City,OK,73111,1,Separated,1,1990-01-08,S50c2e82ddd50730,5884,Officer,129597,129597,0,1,1,1,0,0,0
+731,731,Gladys,Thompson,919 Windsor Avenue,,Annapolis,MD,21403,0,Divorced,1,1958-07-05,S50c2e82ddd50731,1561,Architect,101541,304623,1,0,1,0,0,0,0
+732,732,Steve,Goodman,5011 West New World Drive,,Glendale,AZ,85302,1,Separated,0,1979-11-12,S50c2e82ddd50732,5503,Broker,110753,0,1,0,0,0,0,0,1
+733,733,Chandra,Judkins,1518 Jenks Avenue,,Panama City,FL,32405,1,Widowed,0,1974-05-18,S50c2e82ddd50733,9809,Professional,68049,136098,1,1,1,1,1,0,0
+734,734,William,Cormier,3862 Almond Avenue,,Fremont,CA,94538,1,Widowed,0,1965-04-18,S50c2e82ddd50734,5428,Consultant,77997,311988,0,0,0,1,0,1,1
+735,735,Claudia,Gist,6002 Jo Danielle Place,D,Louisville,KY,40291,1,Widowed,1,1957-11-20,S50c2e82ddd50735,3604,Agent,191450,574350,0,0,1,0,0,1,1
+736,736,Sandra,Baker,403 Irwin Street,#APT 000003,Anchorage,AK,99508,1,Widowed,0,1960-10-11,S50c2e82ddd50736,9053,Economist,50246,251230,1,1,0,1,0,1,0
+737,737,Dorothy,Clark,480 Keene Road,,Walden,VT,05836,0,Widowed,1,1941-01-25,S50c2e82ddd50737,7148,Administrator,119619,239238,1,0,0,0,1,0,0
+738,738,Matthew,Willis,928 Wright Avenue,#UNIT 505,Mountain View,CA,94043,1,Single,0,1961-01-05,S50c2e82ddd50738,5149,Vice-president,117509,117509,0,0,0,1,1,0,0
+739,739,Brandon,Bernard,3116 Northwest 61st Terrace,,Oklahoma City,OK,73112,1,Single,1,1951-06-22,S50c2e82ddd50739,2075,Underwriter,96603,193206,0,1,0,1,1,1,1
+740,740,Jamie,Patterson,5038 North Cimarron Drive,,Beverly Hills,FL,34465,1,Single,0,1998-03-05,S50c2e82ddd50740,3630,Superintendent,43521,217605,0,1,0,0,1,0,0
+741,741,Marvin,Meachen,3208 Southwest 65th Street,,Oklahoma City,OK,73159,0,Divorced,1,1948-12-24,S50c2e82ddd50741,7144,Economist,162566,162566,0,0,1,1,1,0,1
+742,742,Jonathon,Kelly,6108 Iris Way,,Arvada,CO,80004,0,Widowed,1,1984-01-23,S50c2e82ddd50742,4795,Leader,175128,700512,0,0,1,0,0,1,0
+743,743,Samuel,Baker,4503 North Council Road,,Bethany,OK,73008,1,Widowed,1,1974-06-07,S50c2e82ddd50743,1651,Underwriter,138651,138651,1,0,1,0,1,1,0
+744,744,Jared,Brady,890 East Skyline Drive,,Fayetteville,AR,72701,0,Widowed,1,1975-06-19,S50c2e82ddd50744,4471,Architect,115545,115545,1,1,1,1,1,0,0
+745,745,Ernest,Brown,8526 Preston Highway,,Louisville,KY,40219,1,Married,1,1977-09-15,S50c2e82ddd50745,1205,Superintendent,173095,173095,1,0,1,1,1,1,0
+746,746,Wanda,Massanelli,6823 Forsythe Drive,,Panama City,FL,32404,1,Single,1,1981-05-13,S50c2e82ddd50746,7724,Engineer,137182,0,0,0,0,1,0,0,1
+747,747,Alexander,Jones,2400 Merry Street,,Nashville,TN,37208,1,Separated,1,1964-03-17,S50c2e82ddd50747,8022,Administrator,154058,770290,1,1,0,1,0,0,1
+748,748,Tony,Lee,833 South Brownell Road,,Williston,VT,05495,0,Married,1,1988-02-25,S50c2e82ddd50748,8109,President,143001,286002,0,0,0,1,0,0,0
+749,749,Laverne,Fabian,6622 West Mescal Street,,Glendale,AZ,85304,1,Widowed,0,1942-08-21,S50c2e82ddd50749,7150,Superintendent,103391,0,1,0,1,1,0,1,0
+750,750,Troy,Cortes,618 McLaws Street,,Savannah,GA,31405,1,Single,0,1983-01-14,S50c2e82ddd50750,2300,Broker,35079,70158,1,0,0,0,1,1,0
+751,751,Lisa,Lewis,111 Lakeview Terrace,,Lynn Haven,FL,32444,1,Divorced,0,1962-09-14,S50c2e82ddd50751,3956,Engineer,55066,165198,1,1,0,1,0,0,0
+752,752,Jean,Chatten,1401 Saint George Avenue,,Moore,OK,73160,1,Married,1,1951-06-06,S50c2e82ddd50752,9150,Officer,79047,158094,1,1,1,0,0,1,1
+753,753,Ryan,Elmore,2622 Martin Luther King Junior Boulevard,,Fayetteville,AR,72704,0,Married,0,1996-09-18,S50c2e82ddd50753,8662,Partner,154986,0,1,0,1,0,0,1,0
+754,754,Christopher,Wilson,768 North Main Street,,Manchester,CT,06040,0,Separated,0,1958-10-28,S50c2e82ddd50754,3154,Economist,169569,339138,1,1,1,0,0,0,1
+755,755,Brian,Rodriguez,328 Missouri Avenue Northwest,,Washington,DC,20011,1,Divorced,0,1998-06-25,S50c2e82ddd50755,7541,Specialist,175424,350848,0,0,1,0,1,0,1
+756,756,Daniel,Williams,226 Tranquility Lane,,Saint Albans Town,VT,05488,0,Widowed,1,1946-12-22,S50c2e82ddd50756,1648,Broker,57365,57365,1,1,1,0,0,0,1
+757,757,Joseph,Bailey,4432 Cobalt Drive,,Harwood,MD,20776,0,Widowed,0,1969-01-06,S50c2e82ddd50757,5892,Operator,189578,568734,1,0,1,0,0,0,1
+758,758,Gina,Campbell,210 Green Road,,Manchester,CT,06042,1,Separated,1,2000-04-20,S50c2e82ddd50758,6271,Specialist,36803,184015,1,1,0,1,1,0,1
+759,759,Angelita,Law,4035 East 8th Street,,Panama City,FL,32404,0,Divorced,1,1958-07-08,S50c2e82ddd50759,1747,Manager,112555,450220,1,0,0,1,0,0,0
+760,760,Teresa,Mccombs,86 Highland Street,,Manchester,CT,06040,1,Single,0,1943-10-27,S50c2e82ddd50760,1032,Consultant,95790,191580,1,0,1,1,1,0,0
+761,761,Mark,Thompson,1275 South Holland Drive,,Fayetteville,AR,72704,1,Widowed,0,1998-04-21,S50c2e82ddd50761,9160,Operator,125096,0,1,1,0,0,1,0,1
+762,762,Charles,Jackson,632 North Pine Street,,Anchorage,AK,99508,0,Widowed,1,1946-05-11,S50c2e82ddd50762,5404,Controller,49728,99456,0,1,0,0,0,1,1
+763,763,Adalberto,Wallace,1630 Eton Way,,Crofton,MD,21114,0,Widowed,0,1957-07-17,S50c2e82ddd50763,8229,Messenger,61791,185373,1,0,0,0,1,1,0
+764,764,Scottie,Rhoades,9 South Pinyon Point,,Fayetteville,AR,72701,1,Separated,1,1972-08-17,S50c2e82ddd50764,9730,Economist,141504,283008,1,1,1,0,1,1,0
+765,765,Ella,Parker,208 Kinnaird Lane,,Louisville,KY,40243,1,Separated,0,1984-06-16,S50c2e82ddd50765,4504,Economist,46028,184112,0,0,1,1,0,0,1
+766,766,Marcus,Horta,645 Governor Bridge Road,,Davidsonville,MD,21035,0,Widowed,0,1991-05-19,S50c2e82ddd50766,4844,Receptionist,84582,422910,1,1,1,0,1,1,1
+767,767,Mary,Lewis,6206 Waters Avenue,#110,Savannah,GA,31406,1,Separated,0,1991-02-19,S50c2e82ddd50767,1299,Executive,46809,187236,1,1,0,1,1,0,0
+768,768,Tonya,Dotson,404 Ramble Wood Circle,,Nashville,TN,37221,1,Single,0,1952-09-11,S50c2e82ddd50768,0320,Director,145990,437970,0,0,1,1,1,1,1
+769,769,Jae,Merritt,5119 West Columbine Drive,,Glendale,AZ,85304,1,Separated,1,1961-07-13,S50c2e82ddd50769,4201,Receptionist,20167,60501,0,0,1,0,1,0,0
+770,770,George,Albers,3104 Southwest 46th Street,,Oklahoma City,OK,73119,0,Separated,1,1956-03-02,S50c2e82ddd50770,0241,Economist,71513,71513,0,0,1,1,0,1,1
+771,771,Brian,Creel,7047 Vinson Road,,Panama City,FL,32413,1,Single,1,1961-06-11,S50c2e82ddd50771,8089,Researcher,101726,406904,0,0,0,1,0,1,1
+772,772,James,Mueller,706 James Road,,Glen Burnie,MD,21061,0,Separated,1,1961-07-02,S50c2e82ddd50772,2638,Representative,99466,298398,0,1,0,1,1,1,1
+773,773,Ariana,Nault,15 Lakewood Drive,,Thunderbolt,GA,31410,0,Divorced,1,1980-11-05,S50c2e82ddd50773,9941,Appraiser,143421,717105,0,0,0,0,0,0,1
+774,774,Clark,Clouthier,17 Gregory Street,,Middleton,MA,01949,0,Widowed,1,1977-07-18,S50c2e82ddd50774,1025,Representative,151164,604656,0,1,0,1,1,0,0
+775,775,Michael,Rebman,1124 Frederick Douglass Avenue,,Oklahoma City,OK,73117,1,Widowed,0,1986-09-27,S50c2e82ddd50775,5268,Messenger,155582,0,1,1,1,0,0,1,1
+776,776,Gerardo,Mcgrath,6391 West 60th Avenue,#210,Arvada,CO,80003,1,Widowed,1,1957-02-10,S50c2e82ddd50776,2282,Appraiser,149301,0,0,1,1,0,1,0,0
+777,777,Eddy,Ellison,2075 Archer Drive,,Fayetteville,AR,72701,0,Separated,1,1962-04-06,S50c2e82ddd50777,2105,Estimator,155999,0,0,0,1,0,0,0,1
+778,778,Susan,Faulkner,31 Yosemite Avenue,,Oakland,CA,94611,0,Widowed,0,1985-02-07,S50c2e82ddd50778,8419,Broker,196148,392296,0,1,0,0,0,0,0
+779,779,Charles,Douglas,1726 Bridgeview Lane,#5,Lyndon,KY,40242,1,Married,0,1942-01-21,S50c2e82ddd50779,0116,Receptionist,33802,169010,1,0,0,0,0,0,1
+780,780,Richard,Hasas,122 Coral Drive,,Panama City Beach,FL,32413,1,Separated,1,1996-08-10,S50c2e82ddd50780,8317,Administrator,92853,278559,1,1,0,1,1,1,1
+781,781,Willie,Stewart,6518 Dolphin Court,,Glen Burnie,MD,21061,0,Separated,0,1941-07-03,S50c2e82ddd50781,4770,Coordinator,187854,375708,1,0,1,1,0,0,1
+782,782,Virgil,Ines,8852 Broderick Street,,Montgomery,AL,36117,0,Separated,1,1941-02-25,S50c2e82ddd50782,0741,Architect,73766,147532,1,1,0,1,0,1,0
+783,783,Mary,Manning,2506 West Madison Street,,Louisville,KY,40211,1,Single,1,1980-01-19,S50c2e82ddd50783,4242,Executive,46528,0,0,1,1,1,1,0,0
+784,784,Jacqueline,Smith,5104 West Tierra Buena Lane,,Glendale,AZ,85306,1,Married,1,1977-08-16,S50c2e82ddd50784,3883,Coordinator,155384,621536,1,0,0,0,1,0,1
+785,785,Sylvia,Mcdaniel,2538 East 40th Plaza,,Panama City,FL,32405,0,Separated,0,1946-01-02,S50c2e82ddd50785,5344,Manager,132683,265366,1,0,0,0,1,1,0
+786,786,Sarah,Blair,6241 Hudson Creek Drive,,Louisville,KY,40291,0,Separated,1,1958-09-20,S50c2e82ddd50786,5960,President,96353,96353,0,0,1,1,1,0,0
+787,787,Paul,Barr,1656 Newton Street Northwest,,Washington,DC,20010,1,Separated,0,1997-03-23,S50c2e82ddd50787,7368,Analyst,36309,72618,1,1,0,0,1,1,0
+788,788,Anne,Hood,1046 Dudley Avenue,,Louisville,KY,40204,0,Divorced,0,1995-07-02,S50c2e82ddd50788,7803,Architect,89308,267924,0,1,1,0,1,0,0
+789,789,Catherine,Thomas,3579 2nd Avenue,,Edgewater,MD,21037,1,Divorced,1,1950-10-18,S50c2e82ddd50789,0765,Engineer,182911,914555,0,0,1,0,0,0,1
+790,790,Anna,Yager,194 North Main Street,#1F,Webster,MA,01570,1,Divorced,1,1940-03-01,S50c2e82ddd50790,6133,President,120727,241454,1,1,1,1,0,0,1
+791,791,Mitchell,Williams,2262 Hall Place Northwest,,Washington,DC,20007,0,Married,1,1973-06-09,S50c2e82ddd50791,1591,Broker,162227,0,0,1,1,1,1,0,0
+792,792,Theola,Smith,23 Florida Avenue Northeast,,Washington,DC,20002,1,Separated,0,1972-08-21,S50c2e82ddd50792,9925,Partner,112161,336483,1,1,1,1,1,1,0
+793,793,Paula,Mason,1709 Travers Court,,Edmond,OK,73003,0,Widowed,1,1944-03-24,S50c2e82ddd50793,7272,Vice-president,163389,326778,0,0,1,0,1,1,1
+794,794,Shirley,Manning,7002 Secrest Court,,Arvada,CO,80007,0,Separated,1,1994-08-20,S50c2e82ddd50794,3762,Manager,193264,0,1,1,1,0,1,1,0
+795,795,Kimberly,Stevenson,205 Harrison Avenue,,Louisville,KY,40243,1,Widowed,0,1943-08-23,S50c2e82ddd50795,6251,Partner,192370,577110,0,1,1,1,0,1,0
+796,796,Shelley,Thomas,14 Huntington Street,,Manchester,CT,06040,0,Widowed,0,1995-04-18,S50c2e82ddd50796,3551,Administrator,122303,0,0,0,1,0,0,1,1
+797,797,Alexis,Moreland,637 Britannia Drive,,Vallejo,CA,94591,0,Separated,1,1987-08-21,S50c2e82ddd50797,4836,Operator,100553,100553,1,1,1,1,1,1,0
+798,798,Audra,Carter,72 Bentley Avenue,,Poultney,VT,05764,1,Married,0,1961-02-19,S50c2e82ddd50798,8004,Advisory,138074,276148,1,0,0,1,1,0,0
+799,799,Alfredo,Schneider,420 D Street Northwest,,Ardmore,OK,73401,0,Separated,0,1976-04-10,S50c2e82ddd50799,5374,Surveyor,76895,307580,1,1,0,0,0,0,0
+800,800,Sue,Tobar,20930 Todd Valley Road,,Foresthill,CA,95631,1,Widowed,0,1955-11-14,S50c2e82ddd50800,1350,Agent,195345,976725,0,0,1,0,0,1,0
+801,801,Theresa,Ruelas,8709 Peeble Lane,,Louisville,KY,40272,0,Single,1,1994-07-17,S50c2e82ddd50801,9621,Messenger,73886,295544,1,1,1,0,0,0,1
+802,802,Clark,Root,13852 West 66th Place,,Arvada,CO,80004,1,Married,0,1995-11-04,S50c2e82ddd50802,9483,Professional,65515,0,0,1,1,0,1,1,0
+803,803,Maria,Cummins,53 Great Woods Road,,Saugus,MA,01906,1,Widowed,1,2000-03-05,S50c2e82ddd50803,4965,Architect,69943,139886,1,0,0,0,1,1,0
+804,804,Delores,Daniels,74 Ranch Drive,,Montgomery,AL,36109,0,Married,1,1957-08-13,S50c2e82ddd50804,5379,Specialist,160157,800785,1,1,1,1,0,1,0
+805,805,Christopher,Dawkins,12091 Mierkey Road,,Jackson,CA,95642,1,Separated,1,1949-09-04,S50c2e82ddd50805,2849,Officer,119323,0,0,0,0,0,0,0,1
+806,806,Maria,Vargas,3436 Lexington Road,,Montgomery,AL,36111,0,Married,1,1963-02-20,S50c2e82ddd50806,1369,Leader,21068,0,1,1,0,1,0,0,1
+807,807,Gladys,Welder,505 Southeast 32nd Street,,Oklahoma City,OK,73129,1,Widowed,0,1991-04-23,S50c2e82ddd50807,4295,Representative,83604,0,0,1,1,0,0,1,0
+808,808,Rob,Vessels,1711 8th Street Northwest,,Washington,DC,20001,1,Separated,1,1989-02-11,S50c2e82ddd50808,5772,Consultant,101320,303960,0,1,1,1,0,1,0
+809,809,Elsie,Mcgough,3951 Kimberly Street,,Montgomery,AL,36116,0,Divorced,0,1976-01-13,S50c2e82ddd50809,0207,Architect,103175,103175,0,0,1,0,0,0,1
+810,810,Timothy,Barnes,8704 Bayberry Place,,Plantation,KY,40242,1,Married,0,1974-06-26,S50c2e82ddd50810,4515,Broker,198503,397006,1,0,1,1,0,0,0
+811,811,Nicholas,Watson,14 School Street,,Medway,MA,02053,0,Married,0,1988-06-23,S50c2e82ddd50811,7047,Counsel,193527,0,0,1,0,0,1,1,0
+812,812,Richard,Wallace,7609 Doris Place,,Oklahoma City,OK,73162,0,Divorced,0,1993-02-22,S50c2e82ddd50812,9641,Appraiser,49967,249835,1,0,0,1,1,0,0
+813,813,Christopher,Love,540 East Appleby Road,#105,Fayetteville,AR,72703,1,Married,1,1940-12-07,S50c2e82ddd50813,2989,Agent,67115,0,1,1,1,1,0,1,0
+814,814,Roy,Richardson,269 Park Street,#1,North Reading,MA,01864,0,Widowed,0,1992-07-12,S50c2e82ddd50814,0332,Economist,30627,91881,0,0,0,0,1,0,1
+815,815,Kimberly,Mason,545 East Muhammad Ali Boulevard,#103,Louisville,KY,40202,0,Single,1,1983-12-21,S50c2e82ddd50815,7442,Superintendent,114973,574865,1,0,0,0,0,1,0
+816,816,Tawnya,Seats,103 Fenwick Village Drive,,Savannah,GA,31419,1,Single,1,1986-11-09,S50c2e82ddd50816,8140,Operator,92919,92919,1,1,1,0,0,1,1
+817,817,Marshall,Holt,124 Rod Key Street,,Lyndon,VT,05851,0,Single,0,1940-03-22,S50c2e82ddd50817,5385,Vice-president,25355,0,0,0,1,0,1,1,1
+818,818,Sharon,Hirschfeld,32 Royal Drive,,Louisville,KY,40214,0,Widowed,0,1941-12-15,S50c2e82ddd50818,5744,Appraiser,197183,985915,0,1,1,1,1,1,1
+819,819,William,Parr,5836 Red Barn Road,,Montgomery,AL,36116,1,Married,0,1966-03-14,S50c2e82ddd50819,2076,Estimator,113310,226620,0,0,0,1,0,1,1
+820,820,James,Bailey,4920 Quonset Drive,,Sacramento,CA,95820,1,Single,1,1968-04-08,S50c2e82ddd50820,4797,Administrator,91610,0,1,1,0,1,1,1,0
+821,821,Stephan,Phillips,970 Old Oak Road,,Livermore,CA,94550,1,Separated,1,1950-04-10,S50c2e82ddd50821,7826,Consultant,137740,413220,0,1,0,1,0,0,0
+822,822,Nancy,Gaines,1333 Kenyon Street Northwest,,Washington,DC,20010,1,Single,0,1994-06-27,S50c2e82ddd50822,3028,Coordinator,156740,156740,1,0,0,1,0,0,0
+823,823,Michael,Harris,25 Morton Street,#216,Quincy,MA,02169,0,Married,1,1988-03-08,S50c2e82ddd50823,4908,Partner,129966,0,0,1,1,0,1,0,1
+824,824,Diana,Lacour,1452 55th Avenue,B,Oakland,CA,94621,1,Single,0,1941-10-14,S50c2e82ddd50824,5922,Vice-president,184216,552648,1,0,1,0,0,0,1
+825,825,Madeleine,Bailey,17109 Guava Avenue,,Panama City Beach,FL,32413,1,Divorced,0,1984-08-14,S50c2e82ddd50825,9658,Advisory,169361,338722,0,1,1,1,1,0,0
+826,826,Josette,Parker,3164 West Woodfield Way,,Fayetteville,AR,72704,1,Married,0,1953-08-19,S50c2e82ddd50826,1275,Supervisor,170443,340886,0,0,1,1,1,0,1
+827,827,Richard,Fehlinger,5634 Kipling Parkway,#102,Arvada,CO,80002,0,Separated,1,1954-05-22,S50c2e82ddd50827,5792,Advisory,47939,47939,1,1,1,1,0,0,0
+828,828,Paul,Keene,8001 East 6th Avenue,#APT 000003,Anchorage,AK,99504,0,Widowed,0,1986-03-18,S50c2e82ddd50828,5295,Executive,78771,236313,0,1,0,1,0,0,0
+829,829,Viola,Light,3808 South Smiley Circle,,Montgomery,AL,36108,0,Divorced,1,1997-10-11,S50c2e82ddd50829,0765,Director,25534,102136,0,1,0,1,1,1,1
+830,830,Jessica,Foster,110 Carraway Lane,,Annapolis,MD,21401,0,Divorced,1,1983-10-08,S50c2e82ddd50830,6456,Officer,82997,0,0,1,1,1,1,1,0
+831,831,Shane,Avant,328 Missouri Avenue Northwest,,Washington,DC,20011,0,Married,1,1983-09-21,S50c2e82ddd50831,2748,Consultant,135140,135140,0,1,1,1,0,1,1
+832,832,Jamie,Mcgill,3604 Ridgehaven Drive,,Midwest City,OK,73110,0,Separated,0,1956-07-19,S50c2e82ddd50832,4431,Controller,156336,156336,0,1,1,1,0,1,1
+833,833,Mary,Cervantes,1734 Corcoran Street Northwest,,Washington,DC,20009,0,Single,0,1954-10-22,S50c2e82ddd50833,3970,Specialist,105287,105287,1,0,1,1,1,1,0
+834,834,Darryl,Sealey,134 Butternut Road,,Manchester,CT,06040,0,Divorced,0,1946-06-08,S50c2e82ddd50834,6527,Partner,155286,310572,0,0,0,0,1,0,0
+835,835,Tara,Desantis,8380 Lockwood Road,,Pasadena,MD,21122,1,Divorced,0,1947-03-27,S50c2e82ddd50835,6173,Officer,141067,141067,0,1,0,0,0,1,1
+836,836,Patricia,Reddy,95 Claiborne Street,,Nashville,TN,37210,0,Divorced,0,1943-08-12,S50c2e82ddd50836,5316,Controller,161566,484698,1,0,0,0,0,1,1
+837,837,Christopher,Anderson,1026 Orchard Avenue,,Louisville,KY,40213,1,Widowed,0,1983-12-10,S50c2e82ddd50837,5070,Messenger,27361,54722,1,0,1,0,0,1,1
+838,838,Vicky,Emmert,7404 West Crest Lane,,Glendale,AZ,85310,0,Widowed,1,1998-04-08,S50c2e82ddd50838,5687,Counsel,82418,0,0,0,0,0,0,0,0
+839,839,Charles,Sanchez,2317 Fernwood Drive,,Nashville,TN,37216,1,Married,1,1949-04-03,S50c2e82ddd50839,5201,Leader,197358,789432,0,1,1,1,1,0,1
+840,840,Tina,Gaudino,600 Crosby Boulevard,,Midwest City,OK,73110,0,Separated,0,1962-08-19,S50c2e82ddd50840,6890,Underwriter,182453,912265,0,0,0,0,1,1,0
+841,841,Willie,Franca,16 Cabot Street,#2,Everett,MA,02149,0,Widowed,0,1954-11-26,S50c2e82ddd50841,9111,Partner,142562,142562,0,1,1,0,0,0,1
+842,842,Bessie,Martin,81 Buck Hill Road,,Guilford,VT,05301,1,Married,1,1965-12-22,S50c2e82ddd50842,1564,Counsel,74392,148784,0,0,1,0,1,0,1
+843,843,Kelsey,Nemith,5113 Village Trace,,Nashville,TN,37211,1,Married,1,1987-05-23,S50c2e82ddd50843,2516,President,166057,498171,0,0,0,0,1,1,0
+844,844,Gail,Erben,5701 East Shirley Lane,,Montgomery,AL,36117,0,Widowed,1,1991-02-19,S50c2e82ddd50844,7586,Underwriter,110608,553040,1,0,0,0,1,1,0
+845,845,Marion,Bueno,804 Old Coach Place,,Nashville,TN,37076,1,Single,1,1995-01-15,S50c2e82ddd50845,4615,Vice-president,112508,450032,0,1,1,1,0,0,1
+846,846,Mark,Burris,8614 Surf Drive,,Panama City,FL,32408,1,Widowed,1,1995-05-14,S50c2e82ddd50846,1391,Engineer,102557,102557,1,1,0,1,1,0,0
+847,847,Edward,Estrada,6408 Fern Crest Road,,Louisville,KY,40291,1,Divorced,0,1966-11-05,S50c2e82ddd50847,5719,Partner,194743,778972,1,0,0,0,1,1,0
+848,848,Rose,Bruno,325 Baxter Lane,,Fayetteville,AR,72701,0,Single,1,1967-03-14,S50c2e82ddd50848,3925,Appraiser,196921,393842,1,1,1,0,0,0,0
+849,849,Felicia,Hefner,83 Oakdale Road,,Newton,MA,02459,0,Widowed,1,1965-05-05,S50c2e82ddd50849,9948,Professional,33146,99438,1,0,1,0,0,1,0
+850,850,Marcella,Harris,707 Harrisburg Drive,,Davidsonville,MD,21035,0,Single,1,1961-01-13,S50c2e82ddd50850,8776,Superintendent,190241,951205,1,1,1,0,0,1,0
+851,851,Jorge,Robinson,4136 East Virginia Lane,,Montgomery,AL,36116,0,Married,0,1961-08-04,S50c2e82ddd50851,3184,Coordinator,115316,0,1,0,0,1,0,1,0
+852,852,Lindsay,Jackson,4511 Sloat Road,,Fremont,CA,94538,0,Married,0,1989-09-09,S50c2e82ddd50852,1221,Consultant,100894,0,1,1,1,0,0,1,0
+853,853,Lorene,Brown,20933 River Park Drive,,Anchorage,AK,99577,1,Separated,1,1964-10-21,S50c2e82ddd50853,2728,Director,66129,330645,1,0,0,0,0,0,0
+854,854,Michele,Zimmerebner,16910 Alpine Drive,,Pioneer,CA,95666,1,Single,0,1949-07-15,S50c2e82ddd50854,9499,Professional,185616,371232,0,1,1,0,0,0,1
+855,855,Jessie,Oxley,2835 Southwest 78th Street,,Oklahoma City,OK,73159,1,Married,1,1957-02-03,S50c2e82ddd50855,9284,Researcher,106983,534915,1,0,1,0,0,0,1
+856,856,Joshua,Dumbleton,24 Amherst Drive,,Manchester,CT,06042,0,Divorced,1,1953-12-15,S50c2e82ddd50856,0636,President,131291,131291,0,1,1,1,0,0,0
+857,857,Eugene,Green,37 Fieldside Drive,,Groton,CT,06340,0,Separated,1,1945-01-20,S50c2e82ddd50857,6431,Estimator,61191,244764,1,1,1,1,0,1,0
+858,858,Deborah,Biddick,1495 Snell Boulevard,,Nashville,TN,37218,0,Separated,1,1950-01-25,S50c2e82ddd50858,6625,Consultant,114605,114605,1,1,1,1,0,1,1
+859,859,Wendy,Sather,1106 Commanders Way South,,Annapolis,MD,21409,0,Married,0,1982-04-28,S50c2e82ddd50859,5172,Researcher,32162,160810,1,1,1,1,1,0,0
+860,860,Paul,Ezzelle,57413 Taku Avenue,,Homer,AK,99603,1,Married,1,1954-03-28,S50c2e82ddd50860,1461,Appraiser,112972,0,0,1,1,0,1,1,1
+861,861,Sandra,Moss,12 Red Fox Drive,,Savannah,GA,31419,0,Widowed,1,1968-08-21,S50c2e82ddd50861,4124,Architect,199463,797852,0,0,0,0,0,1,1
+862,862,Daniel,Cohen,2042 High Street,,Oakland,CA,94601,1,Separated,0,1959-06-12,S50c2e82ddd50862,9442,Underwriter,147233,147233,1,0,0,0,1,0,1
+863,863,Lessie,Brooks,2716 Fairmont Drive,,Panama City,FL,32405,0,Single,0,1969-12-07,S50c2e82ddd50863,5212,Administrator,92459,92459,1,1,0,0,0,1,0
+864,864,Danielle,Strickland,2507 R Street Southeast,,Washington,DC,20020,0,Divorced,0,1987-03-08,S50c2e82ddd50864,2373,Administrator,198453,0,1,0,0,1,1,0,0
+865,865,Charles,Hodge,856 Milton Street,,Oakland,CA,94607,1,Widowed,1,1945-11-02,S50c2e82ddd50865,9250,Director,121598,364794,1,0,0,0,1,0,0
+866,866,Mary,Dean,15 Mystic Avenue,#1,Medford,MA,02155,0,Divorced,1,1952-01-19,S50c2e82ddd50866,1677,Director,35244,70488,1,0,1,0,1,1,0
+867,867,Christopher,Foster,10654 North 60th Avenue,#2019,Glendale,AZ,85304,1,Widowed,0,1969-12-17,S50c2e82ddd50867,3062,Partner,64804,259216,1,1,1,1,1,0,0
+868,868,Joseph,Wong,305 Becket Avenue,,Louisville,KY,40118,1,Single,0,1950-01-26,S50c2e82ddd50868,1901,Supervisor,128935,644675,0,1,1,1,0,1,0
+869,869,Samuel,Ramirez,3101 Penland Parkway,#STE H6,Anchorage,AK,99508,0,Single,1,1956-09-24,S50c2e82ddd50869,1936,Boss,181498,725992,0,1,1,1,0,1,1
+870,870,Matthew,Bailey,110 Lenoak Drive,,Louisville,KY,40214,0,Separated,1,1970-06-02,S50c2e82ddd50870,3853,Messenger,134800,269600,0,0,1,0,1,0,0
+871,871,Melissa,Owens,5434 Cedar Ash Crossing,,Nashville,TN,37013,0,Divorced,0,1997-01-24,S50c2e82ddd50871,4061,Architect,75145,225435,0,0,1,1,1,0,1
+872,872,Carol,Cotta,3138 P Street Northwest,,Washington,DC,20007,0,Single,1,1975-09-08,S50c2e82ddd50872,4729,Vice-president,141457,565828,0,0,0,0,1,0,1
+873,873,Terrell,Court,1897 Poplar Ridge Road,,Pasadena,MD,21122,1,Separated,1,1944-05-18,S50c2e82ddd50873,1557,Underwriter,110909,443636,0,0,1,0,0,0,0
+874,874,David,Ortiz,6601 West Ocotillo Road,,Glendale,AZ,85301,0,Single,1,1947-10-13,S50c2e82ddd50874,4980,President,146100,292200,1,1,0,0,1,0,0
+875,875,Greta,Prado,6244 Sun River Drive,,Sacramento,CA,95824,1,Single,1,1986-12-12,S50c2e82ddd50875,4837,Economist,39255,157020,1,1,1,0,0,0,1
+876,876,John,Wilkerson,11655 West 81st Avenue,,Arvada,CO,80005,1,Single,0,1941-03-25,S50c2e82ddd50876,5420,Estimator,37172,37172,1,1,1,1,1,1,0
+877,877,Tanya,Duran,910 Arlington Terrace,,Fayetteville,AR,72701,0,Separated,0,1964-10-14,S50c2e82ddd50877,6704,Appraiser,53124,0,0,1,0,1,1,0,0
+878,878,Margaret,Lee,4617 East 3rd Street,,Panama City,FL,32404,0,Single,0,1990-07-23,S50c2e82ddd50878,0268,Professional,41388,206940,0,0,0,0,1,1,1
+879,879,Anthony,Brewer,6622 West Mescal Street,,Glendale,AZ,85304,0,Separated,0,1996-01-04,S50c2e82ddd50879,7297,Professional,59474,118948,0,0,0,1,1,1,1
+880,880,Bailey,Fissel,121 Alpine Way,,Panama City,FL,32404,0,Married,1,1999-11-26,S50c2e82ddd50880,4699,Director,139462,0,1,0,0,1,1,0,1
+881,881,Robert,Rutt,2320 Northwest 113th Place,,Oklahoma City,OK,73120,0,Single,1,1985-12-28,S50c2e82ddd50881,5546,Manager,43339,130017,1,1,0,1,0,0,1
+882,882,Freddy,Rainey,91 Hoague Drive,,Highgate,VT,05459,0,Separated,0,1944-01-07,S50c2e82ddd50882,0719,Vice-president,174779,524337,0,0,1,0,0,0,1
+883,883,Hazel,Smith,29104 Quartz Lane,,Tollhouse,CA,93667,1,Widowed,1,1943-08-03,S50c2e82ddd50883,1767,Appraiser,132475,529900,0,1,0,0,0,1,1
+884,884,Rob,Westervelt,2262 Hall Place Northwest,,Washington,DC,20007,1,Separated,0,1978-08-28,S50c2e82ddd50884,2146,Agent,194645,778580,1,0,1,0,0,1,1
+885,885,Edward,Turner,305 Broderick Place,,Panama City Beach,FL,32413,0,Widowed,0,1976-03-06,S50c2e82ddd50885,5096,Manager,184487,0,0,0,1,0,1,0,0
+886,886,Edward,Burns,4700 10th Street Northeast,,Washington,DC,20017,1,Widowed,0,1978-11-21,S50c2e82ddd50886,9641,Executive,43655,218275,0,0,1,1,0,1,1
+887,887,Roseann,Phillips,8421 Thomas Drive,#4,Panama City,FL,32408,0,Separated,0,1985-07-09,S50c2e82ddd50887,6047,Leader,91555,0,1,0,1,1,1,0,0
+888,888,Samuel,Gillam,1334 East 14th Avenue,#APT 000004,Anchorage,AK,99501,0,Widowed,0,1966-10-23,S50c2e82ddd50888,8228,Consultant,77187,0,0,1,1,1,1,0,0
+889,889,Anna,Powell,6398 Jellison Way,,Arvada,CO,80004,1,Married,0,1941-08-26,S50c2e82ddd50889,9475,Researcher,168195,840975,1,1,0,0,0,1,0
+890,890,Gwendolyn,Harger,1489 Falcon Nest Court,,Arnold,MD,21012,1,Married,1,1947-10-12,S50c2e82ddd50890,8949,Professional,108102,216204,0,1,1,1,0,0,0
+891,891,Jacquelyn,Boring,1852 Cherry Road,,Annapolis,MD,21409,0,Widowed,1,1986-02-18,S50c2e82ddd50891,8788,Supervisor,22041,88164,0,1,1,1,0,0,1
+892,892,Daniel,Richardson,5222 Nick Road,,Shady Side,MD,20764,1,Separated,1,1991-06-12,S50c2e82ddd50892,7596,Boss,55294,110588,0,1,1,1,0,1,1
+893,893,Maria,Ayers,4246 Ray Drive,,Montgomery,AL,36109,1,Married,1,1970-12-28,S50c2e82ddd50893,2397,Vice-president,168863,0,0,1,1,0,0,1,0
+894,894,Barbara,Thompson,98 Lee Drive,,Annapolis,MD,21403,0,Married,0,1987-08-04,S50c2e82ddd50894,5075,Agent,171518,0,1,1,0,1,0,0,1
+895,895,John,Gagliano,912 Locklayer Street,,Nashville,TN,37208,1,Single,1,1961-11-09,S50c2e82ddd50895,7178,Representative,197102,591306,0,0,0,1,0,0,0
+896,896,Jules,Seamons,2140 East 56th Avenue,#APT 11,Anchorage,AK,99507,0,Divorced,1,1960-12-21,S50c2e82ddd50896,6480,Vice-president,147801,739005,1,1,0,1,0,1,1
+897,897,David,Erikson,3 Carvel Circle,,Edgewater,MD,21037,0,Single,1,1971-08-10,S50c2e82ddd50897,1314,Researcher,105248,210496,0,1,1,0,0,1,1
+898,898,Lauren,Harkey,3808 Richland Avenue,,Nashville,TN,37205,0,Widowed,0,1988-04-11,S50c2e82ddd50898,3537,Manager,79428,317712,0,0,1,0,1,0,1
+899,899,Gladys,Phillips,207 High Street,,Manchester,CT,06040,1,Divorced,1,1978-11-03,S50c2e82ddd50899,4356,Professional,34415,34415,0,1,0,1,1,0,0
+900,900,Boyd,White,4130 Legation Street Northwest,,Washington,DC,20015,1,Divorced,1,1945-01-06,S50c2e82ddd50900,4694,Controller,62075,62075,1,0,0,0,1,0,1
+901,901,David,Surface,1257 John Street,,Nashville,TN,37210,0,Single,1,1974-10-26,S50c2e82ddd50901,1657,Economist,107218,536090,0,1,0,0,0,1,1
+902,902,Mildred,Weuve,2008 North Shannon Drive,#9,Fayetteville,AR,72703,1,Divorced,1,1996-07-15,S50c2e82ddd50902,0668,Broker,44302,44302,1,0,1,0,0,1,0
+903,903,Timothy,Baez,3 Carson Street,##2,Chico,CA,95928,0,Separated,0,1994-09-10,S50c2e82ddd50903,0347,Engineer,61457,307285,1,0,1,0,1,0,0
+904,904,Randy,Gallaher,8501 Twin Gable Drive,,Montgomery,AL,36116,1,Married,1,1941-10-02,S50c2e82ddd50904,6433,Broker,142745,570980,1,1,1,1,1,0,1
+905,905,Ruth,Carignan,8302 Star Point Court,,Prospect,KY,40059,0,Single,0,1982-08-16,S50c2e82ddd50905,2609,Surveyor,177658,0,1,0,0,1,1,0,1
+906,906,Carol,Quinn,322 East Taylor Street,#1103,Savannah,GA,31401,0,Separated,1,1955-10-21,S50c2e82ddd50906,9072,Economist,134747,404241,0,0,0,1,0,0,0
+907,907,Carla,Spivey,6605 North 93RD Avenue,#1016,Glendale,AZ,85305,1,Widowed,1,1957-07-18,S50c2e82ddd50907,2952,Operator,153920,307840,0,1,0,1,1,0,1
+908,908,James,Woods,78 School Street,,Woburn,MA,01801,0,Widowed,0,1976-10-23,S50c2e82ddd50908,1192,Partner,99392,99392,0,1,0,0,0,0,0
+909,909,Andrea,Strange,3526 Sutton Loop,,Fremont,CA,94536,1,Single,1,1950-02-01,S50c2e82ddd50909,7006,Estimator,198081,792324,1,0,1,1,1,0,0
+910,910,Betsy,Pruitt,4313 Wisconsin Street,#APT 000007,Anchorage,AK,99517,1,Widowed,1,1955-03-20,S50c2e82ddd50910,0311,Coordinator,98626,295878,0,0,1,1,1,0,0
+911,911,William,Miller,111 Rosemary Street,,Brockton,MA,02302,1,Widowed,1,1959-02-02,S50c2e82ddd50911,4667,Coordinator,86632,259896,0,1,0,0,0,0,0
+912,912,Joshua,Pearson,8380 West 67th Avenue,,Arvada,CO,80004,1,Single,0,1999-06-26,S50c2e82ddd50912,1128,Analyst,122986,368958,1,0,0,0,1,0,1
+913,913,Michael,Herman,119 Matthew Lane,,Nashville,TN,37215,0,Divorced,0,1963-11-21,S50c2e82ddd50913,1628,Controller,46217,46217,0,1,1,1,0,1,0
+914,914,Phyllis,Henkes,4250 North Valley Lake Drive,#8,Fayetteville,AR,72703,1,Married,1,1967-01-18,S50c2e82ddd50914,2967,Manager,164473,328946,0,1,0,1,1,0,0
+915,915,Devorah,Bledsoe,15510 Champion Lakes Place,,Louisville,KY,40245,0,Separated,0,1969-12-04,S50c2e82ddd50915,6838,Supervisor,146555,293110,0,1,1,0,1,1,0
+916,916,Pamela,Werner,1809 U.S. 80,,Savannah,GA,31408,0,Widowed,1,1978-06-26,S50c2e82ddd50916,2915,Officer,83640,418200,0,1,1,0,1,1,1
+917,917,Jonathan,Gill,7513 Lois Street,,Panama City,FL,32404,0,Single,0,1974-09-24,S50c2e82ddd50917,0038,Controller,172912,518736,1,1,1,0,0,0,0
+918,918,Elijah,Hutchins,2362 Acushnet Avenue,,New Bedford,MA,02745,0,Divorced,0,1979-03-12,S50c2e82ddd50918,4285,Consultant,45169,0,0,1,0,0,0,0,1
+919,919,Christopher,Galuska,1114 Barley Drive,,Montgomery,AL,36111,0,Separated,1,1956-07-27,S50c2e82ddd50919,5872,Researcher,22714,45428,1,1,0,0,1,1,1
+920,920,Diana,Strahl,333 Saint Charles Avenue,#B2,Fayetteville,AR,72701,1,Separated,1,1981-10-25,S50c2e82ddd50920,1456,Boss,134337,403011,1,1,1,0,1,1,1
+921,921,Michael,Williams,509 Sea Breeze Drive,,Panama City Beach,FL,32413,0,Widowed,0,1989-08-03,S50c2e82ddd50921,7365,Economist,47146,94292,1,0,0,1,0,0,0
+922,922,Yuki,Sutton,4405 West Solano Drive South,,Glendale,AZ,85301,0,Separated,1,1967-03-07,S50c2e82ddd50922,6081,Receptionist,174868,349736,1,0,1,0,0,0,1
+923,923,Jeffery,Hart,4 Old Colony Way,,Yarmouth,MA,02664,1,Divorced,1,1942-03-11,S50c2e82ddd50923,7809,Representative,130643,391929,0,0,0,1,1,0,0
+924,924,Margaret,Flores,5108 Franklin Street,,Savannah,GA,31405,0,Widowed,1,1957-06-21,S50c2e82ddd50924,2408,Coordinator,143959,143959,0,1,1,1,0,1,1
+925,925,Noel,Christopher,22825 North 74th Lane,,Glendale,AZ,85310,0,Widowed,1,1978-03-14,S50c2e82ddd50925,1757,Leader,49863,149589,0,1,0,0,0,1,0
+926,926,Helen,Miscione,5123 Ewell Street,,Savannah,GA,31405,1,Widowed,0,1967-04-28,S50c2e82ddd50926,3763,Boss,104633,104633,0,0,1,0,0,1,0
+927,927,Sylvia,Rider,6225 West Citrus Way,,Glendale,AZ,85301,1,Divorced,1,1972-08-13,S50c2e82ddd50927,5016,Director,78207,234621,1,1,0,0,1,1,1
+928,928,Michael,Johnson,4712 Cherokee Heights Road,,Panama City,FL,32404,0,Divorced,0,1959-04-12,S50c2e82ddd50928,6482,Underwriter,76167,152334,1,0,1,1,0,1,0
+929,929,Kenneth,Wilmore,1601 East 19th Street,,Edmond,OK,73013,1,Married,0,1987-07-17,S50c2e82ddd50929,7023,Receptionist,68069,0,0,1,1,1,1,1,1
+930,930,Yvonne,Bonnet,1163 Rosedale Drive,,Montgomery,AL,36107,1,Single,1,1997-11-15,S50c2e82ddd50930,7462,Superintendent,128420,513680,1,1,1,0,0,0,0
+931,931,Alan,Holt,69 Washington Street,,Manchester,CT,06042,1,Married,1,1998-03-02,S50c2e82ddd50931,3737,Engineer,99849,0,0,0,1,0,1,0,1
+932,932,Maria,Chase,7427 West Abraham Lane,,Glendale,AZ,85308,0,Separated,1,1984-02-22,S50c2e82ddd50932,5102,Estimator,153536,767680,1,1,1,0,1,1,0
+933,933,Darrell,Moyer,1100 West Bowen Boulevard,F,Fayetteville,AR,72703,0,Married,0,1992-08-08,S50c2e82ddd50933,2471,Manager,97455,292365,0,0,0,1,0,0,1
+934,934,Rosa,Auerswald,17 Gregory Street,,Middleton,MA,01949,1,Divorced,0,1977-03-09,S50c2e82ddd50934,6703,Coordinator,44806,224030,0,0,1,0,0,1,1
+935,935,William,Horton,2500 Snowdoun Chambers Road,,Montgomery,AL,36105,1,Widowed,1,1985-07-23,S50c2e82ddd50935,7854,Surveyor,120856,483424,0,1,1,1,1,1,0
+936,936,Carlos,Fisher,7549 Delancey Street,,Youngstown,FL,32466,0,Divorced,0,1998-02-18,S50c2e82ddd50936,4644,Controller,155532,777660,1,1,1,1,0,0,0
+937,937,Donald,Hall,2821 Tyson Place,,Louisville,KY,40218,1,Widowed,0,1957-04-20,S50c2e82ddd50937,2561,Specialist,23998,23998,0,0,1,1,0,0,1
+938,938,Beryl,Goeppner,3337 Woodpark Court,,Montgomery,AL,36116,0,Single,0,1985-03-25,S50c2e82ddd50938,4913,Consultant,147141,147141,0,0,0,0,1,1,0
+939,939,Jacob,Martinez,3623 Chateau Lane,,Louisville,KY,40219,0,Separated,1,1953-11-04,S50c2e82ddd50939,5693,Executive,135902,407706,1,0,1,0,1,0,0
+940,940,Joann,Wood,74 Heard Street,#1,Chelsea,MA,02150,0,Widowed,1,1970-01-08,S50c2e82ddd50940,3462,Surveyor,157408,157408,1,1,1,1,1,0,0
+941,941,Lillie,Burke,6710 Quay Street,,Arvada,CO,80003,1,Single,0,1945-07-10,S50c2e82ddd50941,0014,Partner,84541,0,1,0,1,1,0,0,0
+942,942,Martha,Taylor,7041 Dover Avenue,,North Beach,MD,20714,1,Widowed,1,1983-03-05,S50c2e82ddd50942,4210,Estimator,167829,503487,1,0,0,0,1,0,0
+943,943,Brenda,Carroll,4444 Hansen Avenue,#APT 224,Fremont,CA,94536,0,Separated,1,1971-04-28,S50c2e82ddd50943,4196,Receptionist,23835,47670,0,1,0,0,0,0,0
+944,944,Chad,Anderson,1217 Southwest 91st Street,,Oklahoma City,OK,73139,1,Divorced,1,1945-02-04,S50c2e82ddd50944,8637,Counsel,39245,156980,0,1,0,0,0,1,0
+945,945,Bonnie,Maldonado,7931 West 55th Avenue,#219,Arvada,CO,80002,1,Divorced,0,1989-12-09,S50c2e82ddd50945,6739,Economist,98313,98313,0,1,1,1,0,1,1
+946,946,Norbert,Roberson,69 Washington Street,,Manchester,CT,06042,0,Widowed,1,1945-12-07,S50c2e82ddd50946,1442,Underwriter,32897,65794,1,0,1,0,0,1,0
+947,947,Robert,Cline,3502 Cottage Cove Lane,,Panama City,FL,32408,1,Married,0,1984-11-14,S50c2e82ddd50947,3353,Operator,30512,122048,1,0,0,1,0,0,1
+948,948,Kenny,Templeton,137 Gazebo East Drive,,Montgomery,AL,36117,1,Widowed,1,1990-11-07,S50c2e82ddd50948,9236,Economist,37835,113505,1,1,0,1,1,1,0
+949,949,Richard,Hubbard,7650 West 68th Avenue,#315,Arvada,CO,80004,1,Divorced,1,1991-09-24,S50c2e82ddd50949,7358,Broker,24431,0,1,0,0,0,0,0,0
+950,950,Lyla,Turnmire,2732 West 67th Avenue,,Anchorage,AK,99502,1,Divorced,1,1996-10-09,S50c2e82ddd50950,9858,Controller,171732,686928,1,1,0,0,0,0,1
+951,951,Brenda,Langdon,1303 Buckingham Court,,Louisville,KY,40118,1,Single,0,1962-03-17,S50c2e82ddd50951,4362,Supervisor,50631,50631,0,1,1,1,0,0,1
+952,952,Brandon,Glenn,2269 Eastern Boulevard,,Montgomery,AL,36117,1,Widowed,0,1993-03-08,S50c2e82ddd50952,0290,Leader,26219,78657,0,0,0,0,1,0,0
+953,953,Tonia,Gonzalez,826 Webster Street,,Hayward,CA,94544,0,Separated,1,1950-08-19,S50c2e82ddd50953,5138,Appraiser,169142,169142,0,0,0,1,1,1,0
+954,954,William,Lavalley,7700 Morningside Drive Northwest,,Washington,DC,20012,1,Married,0,1990-08-08,S50c2e82ddd50954,3304,Professional,40035,0,0,0,0,0,0,0,0
+955,955,Dixie,Gold,332 Concord Avenue,,Cambridge,MA,02138,1,Separated,1,1972-07-08,S50c2e82ddd50955,9127,Partner,50259,201036,0,0,1,0,0,1,1
+956,956,Olimpia,Walton,8573 North 63rd Drive,,Glendale,AZ,85302,1,Married,1,1954-03-13,S50c2e82ddd50956,0045,Appraiser,39082,78164,0,1,0,0,1,1,1
+957,957,Glenn,Beckers,152 Teddy Drive,,Union City,CA,94587,1,Widowed,0,1942-10-21,S50c2e82ddd50957,9374,Receptionist,148110,148110,0,1,1,0,0,0,0
+958,958,Martha,Logan,15 Taft Street,,Quincy,MA,02169,1,Married,1,1954-10-17,S50c2e82ddd50958,2168,Superintendent,198188,198188,1,1,1,0,0,1,0
+959,959,Nathaniel,Phillips,618 Staley Avenue,,Hayward,CA,94541,1,Divorced,1,1983-08-23,S50c2e82ddd50959,5256,Engineer,80298,321192,1,0,1,1,0,0,0
+960,960,Richard,Kamphoefner,1701 Atlantic Street,,Union City,CA,94587,1,Single,1,1942-01-15,S50c2e82ddd50960,0315,Surveyor,120215,240430,0,1,0,0,0,1,1
+961,961,Shannon,Szymczak,565 North Lakeshore Drive,,Panama City Beach,FL,32413,1,Widowed,0,1947-11-08,S50c2e82ddd50961,3651,Boss,50576,202304,0,0,1,1,1,0,0
+962,962,Briana,French,110 Lenoak Drive,,Louisville,KY,40214,1,Divorced,1,1957-05-26,S50c2e82ddd50962,8340,Consultant,148006,148006,1,1,0,1,0,1,1
+963,963,Roger,Mangrum,5815 West Del Lago Circle,,Glendale,AZ,85308,0,Single,0,1947-01-01,S50c2e82ddd50963,5391,Vice-president,158134,632536,0,1,1,0,0,1,0
+964,964,Gaye,Carbajal,905 C Street Northeast,,Washington,DC,20002,1,Married,1,1959-09-18,S50c2e82ddd50964,3883,Supervisor,186604,0,1,0,0,0,1,1,0
+965,965,Darlene,Anderson,1489 Falcon Nest Court,,Arnold,MD,21012,1,Single,0,1982-01-10,S50c2e82ddd50965,3403,Director,84615,253845,1,0,0,0,1,1,1
+966,966,Carrie,Thomas,7229 Lewis Place,APT B,Anchorage,AK,99507,1,Divorced,0,1942-12-27,S50c2e82ddd50966,3620,Coordinator,74088,296352,1,0,0,0,0,1,0
+967,967,Bobby,Fallon,2544 Worthington Way,,Fayetteville,AR,72703,1,Widowed,0,1992-05-17,S50c2e82ddd50967,9353,Leader,126186,126186,0,1,1,0,1,0,1
+968,968,Francis,Wood,1160 North College Avenue,#2,Fayetteville,AR,72703,1,Married,1,1943-01-15,S50c2e82ddd50968,5133,Boss,98785,0,1,0,0,0,0,0,1
+969,969,Virginia,Smith,6604 Northwest 130th Street,,Oklahoma City,OK,73142,1,Widowed,0,1990-09-05,S50c2e82ddd50969,3502,Coordinator,60883,0,1,0,1,0,0,1,1
+970,970,Carmen,Bryan,7841 North 59th Lane,#G37,Glendale,AZ,85301,1,Widowed,1,1945-04-28,S50c2e82ddd50970,1458,Vice-president,146929,734645,0,0,1,0,1,1,1
+971,971,Dennis,Lane,600 12th Avenue South,#833,Nashville,TN,37203,1,Widowed,1,1973-07-22,S50c2e82ddd50971,1782,Appraiser,100810,504050,0,0,0,1,1,1,0
+972,972,Alicia,Hansen,7802 North Alsup Road,,Litchfield Park,AZ,85340,0,Widowed,1,2000-03-09,S50c2e82ddd50972,6691,Economist,147114,441342,1,1,0,1,0,1,1
+973,973,Belinda,Obermiller,10151 West 64th Avenue,,Arvada,CO,80004,1,Widowed,0,1972-09-13,S50c2e82ddd50973,4199,Consultant,197073,197073,1,0,0,0,1,1,0
+974,974,Marcela,Frazier,82 Lookout Mountain Drive,,Manchester,CT,06040,1,Divorced,0,1953-03-11,S50c2e82ddd50974,0534,Leader,62065,310325,0,0,0,0,0,0,0
+975,975,Geneva,Mcqueen,12091 Mierkey Road,,Jackson,CA,95642,0,Single,1,1982-09-01,S50c2e82ddd50975,3777,Underwriter,62054,0,0,0,1,1,1,0,1
+976,976,Dawn,Ayers,5926 Sneed Drive,,Deale,MD,20751,0,Divorced,1,1989-04-27,S50c2e82ddd50976,5083,Researcher,134896,539584,0,0,1,0,1,0,1
+977,977,Ricardo,Ward,1815 Grove Hill Lane,,Montgomery,AL,36106,0,Married,1,1957-09-08,S50c2e82ddd50977,0695,Manager,178830,715320,0,1,1,0,0,0,0
+978,978,Florence,Okamoto,70 East Terrace,,South Burlington,VT,05403,0,Separated,0,1994-05-19,S50c2e82ddd50978,8739,Operator,40765,203825,1,0,0,0,0,0,1
+979,979,Randall,Nicholson,9134 Brook Park Drive,,Montgomery,AL,36117,1,Widowed,0,1982-11-23,S50c2e82ddd50979,6613,Surveyor,127261,127261,1,1,1,0,0,0,0
+980,980,Robert,Fowler,5472 Sunstar Common,,Fremont,CA,94555,0,Widowed,1,1993-08-28,S50c2e82ddd50980,4626,Boss,94263,471315,1,1,0,1,0,1,0
+981,981,Charles,Leavitt,24 Norman Street,#102,Salem,MA,01970,0,Married,0,1949-08-07,S50c2e82ddd50981,4016,Underwriter,45953,45953,0,1,1,1,0,0,0
+982,982,Harold,Reda,19404 North 77th Avenue,,Glendale,AZ,85308,0,Married,0,1958-03-06,S50c2e82ddd50982,5931,President,60209,120418,0,0,1,1,0,1,0
+983,983,Albert,Harris,5814 Carriage Brook Road,,Montgomery,AL,36116,1,Widowed,1,1977-01-23,S50c2e82ddd50983,9087,Analyst,39740,119220,0,1,1,1,0,1,1
+984,984,Lillie,Dean,5055 West 58th Avenue,,Arvada,CO,80002,0,Separated,0,1952-07-08,S50c2e82ddd50984,6090,Appraiser,57283,57283,1,0,1,1,1,0,0
+985,985,Michael,Robey,5603 Dune Creek Trail,,Panama City,FL,32404,1,Single,1,1988-08-10,S50c2e82ddd50985,4934,Consultant,135231,676155,1,1,1,1,0,0,1
+986,986,Victoria,Lord,37 Rushforde Drive,,Manchester,CT,06040,0,Single,0,1957-06-23,S50c2e82ddd50986,8418,Economist,64929,129858,1,1,1,1,1,1,0
+987,987,Cynthia,Mack,1552 Gibson Street,,Montgomery,AL,36110,1,Married,1,1957-04-12,S50c2e82ddd50987,3076,Supervisor,109533,109533,0,0,0,1,0,0,0
+988,988,Charles,Kong,1219 Carleton Street,M,Berkeley,CA,94702,0,Married,0,1986-09-20,S50c2e82ddd50988,0265,Superintendent,62635,125270,1,1,0,0,0,1,1
+989,989,Timothy,Hinson,21 Hill Street,,Barre,VT,05641,0,Married,1,1948-07-07,S50c2e82ddd50989,9815,Agent,107258,321774,1,0,1,1,0,1,1
+990,990,Carlos,Lopez,3324 Valley Lee South,,Laurel,MD,20724,0,Separated,1,1998-03-09,S50c2e82ddd50990,5093,Specialist,156056,468168,0,0,0,0,0,1,0
+991,991,Lulu,Romero,1822 North Grand Avenue,,Pueblo,CO,81003,1,Separated,0,1946-03-15,S50c2e82ddd50991,9967,Researcher,185262,741048,1,0,0,0,1,0,1
+992,992,Rose,Park,10914 Oak Harbor Drive,,Louisville,KY,40299,0,Married,0,1988-05-10,S50c2e82ddd50992,2506,Coordinator,197182,394364,0,0,0,1,0,1,1
+993,993,Nicholas,Foster,516 Southwest 60th Terrace,,Oklahoma City,OK,73139,0,Separated,0,1992-01-22,S50c2e82ddd50993,8451,Executive,24005,120025,0,1,0,1,1,1,1
+994,994,Norman,Montgomery,2013 Talbot Terrace,,Montgomery,AL,36106,1,Married,1,1998-10-05,S50c2e82ddd50994,4063,Manager,48230,0,0,0,1,1,0,0,1
+995,995,Sandra,Elliott,401 East Northern Lights Boulevard,#STE 000203,Anchorage,AK,99503,0,Single,0,1991-03-05,S50c2e82ddd50995,6895,Messenger,166833,166833,0,1,1,1,1,1,0
+996,996,Jimmie,Irizarry,17 Elm Street,#4,Cambridge,MA,02139,1,Single,1,1988-08-24,S50c2e82ddd50996,8799,Surveyor,23993,71979,1,0,1,0,0,1,0
+997,997,Angel,Weichbrodt,61 Cubles Drive,,Brimfield,MA,01010,0,Divorced,1,1950-06-03,S50c2e82ddd50997,7680,Director,192847,0,1,1,1,1,1,0,1
+998,998,Jennifer,Yentsch,4 Elm Street,,Windsor,VT,05089,1,Widowed,1,1996-07-13,S50c2e82ddd50998,8640,Director,107593,322779,1,1,1,1,1,0,0
+999,999,Freeman,Guttmann,124 Rod Key Street,,Lyndon,VT,05851,1,Separated,1,1969-05-07,S50c2e82ddd50999,7883,Estimator,138244,138244,1,1,1,0,1,0,1
